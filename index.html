@@ -372,7 +372,7 @@
         vec3 H = normalize(L + V);
         vec4 Idiff = color * max(dot(N, L), 0.0);
         vec4 Ispec = vec4(1.0) * pow(max(dot(N, H), 0.0), 1.0 / roughness);
-        
+
 
         finalColor = applyFog(finalColor, dist, fogDensity, st.xy);
         finalColor += visibility * vec4(1.0, 1.0, 1.0, 0.0) * (Idiff + Ispec) / (r*r);
@@ -933,6 +933,9 @@
           if(event.key == "k") {
             $("#depth").prop("checked", false);
           }
+          if(event.key == "r") {
+            updateMaze();
+          }
         }
 
         // set direction of travel based on key input
@@ -1235,18 +1238,6 @@ function drawScene() {
       if(event.key == "f") {
         fullScreen();
       }
-      if(event.key == "c") {
-        cursor = !cursor;
-        toggleCursor();
-      }
-      if(event.key == "r") {
-        //window.location.reload(false);
-        updateMaze();
-      }
-      // if(event.key == "l") {
-      //   console.log("checked");
-      //   $("#depth").checked = true;
-      // }
     }
 }
 
