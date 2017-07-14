@@ -1,0 +1,81 @@
+ACSHI HAGGENMILLER
+
+acshi.haggenmiller@yale.edu 360-643-9026
+
+206 Elm Street #205163 New Haven CT, 06520-5163
+
+SENIORS
+
+EDUCATION
+ 
+ 
+
+Yale University, New Haven, CT
+Bachelor of Science, double major: Computer Science and Engineering Sciences – Mechanical
+Graduation expected May 2017
+Current GPA: 3.49 (Computer Science: 3.75)
+
+RELATED EXPERIENCE
+ 
+ 
+
+Social Robotics Lab Student Research Assistant, Fall 2016 – present
+Working on a large collaborative project using robots to teach deaf infants sign language. Rewrote Maki robot 
+Arduino motor controller for responsiveness and reliability. Prepared new control computer for integration testing 
+with Gallaudet University. Improving behavior coordination and control software. (using C, Python, and ROS)
+
+AccentTutor: Improved Second Language Acquisition with Phoneme Biofeedback, Spring 2016
+Computer Science Senior Requirement Project
+Wrote an application to analyze and visualize vowel pronunciation. (using C#)
+Project paper and program files at https://github.com/acshi/AccentTutor
+
+3d-Printed minimal cost Gear Box/Encoder, Fall 2015 – present
+Designing and programming a 3D-printed gear box, motor controller, and encoders for robotic experimentation. 
+(using C and OpenSCAD)
+Project files are at https://github.com/acshi/EncoderGearMotor
+
+Yale Intelligent Robotics, Fall 2015 – Spring 2016
+Developed PID controller for an autonomous sailing robot and simulations for validation. (using Go and Python)
+
+Yale Undergraduate Aerospace Association, Fall 2011 – Spring 2013
+Programmed embedded Linux and Arduino platforms for data collection and control of high-altitude weather 
+balloons. Developed Linux kernel drivers. (using C)
+
+WORK EXPERIENCE
+ 
+ 
+
+Center for Open Science, 210 Ridge McIntire Road, Ste 500 Charlottesville, VA 22903, 5/16/16 – 12/2/16
+Development Intern
+Added social sharing functionality to the Open Science Framework (osf.io). Began a project to rebuild the 
+commenting system. (using Python, Ruby and Javascript)
+
+goBlue Labs, 5 Science Park, New Haven, CT, Summer 2013
+Software Development Intern
+Developed software for the statistical analysis of EEG signals. Developed an Html5 multi-platform application for 
+overcoming tobacco addictions through behavioral training. (using C and JavaScript)
+
+Research Experience for Undergraduates,  Hope College, Holland, MI, Summer 2012
+Creating an Environment to Experiment with Security Threats
+Developed realistic lab experiments for remote exploitation and password cracking. Presented a workshop at 
+SIGSCE 2013, Experiments With Network Security Threats in a Safe, Easy Sandbox.
+
+VOLUNTEER WORK
+ 
+ 
+
+Revai, New Haven, CT, Fall 2015 – Spring 2016
+Wrote control software for a new prototype Intestinal Preservation Unit biomedical device. (using C)
+
+Missionary for The Church of Jesus Christ of Latter-Day Saints, Hong Kong, China, 9/18/13 – 8/14/15
+Full-time, full immersion work. Mandarin speaking with some Cantonese.
+
+OTHER
+ 
+ 
+
+Language: Fluent and literate in Mandarin Chinese
+Skills: C, Python, C#, Computer Security, Embedded Systems, 3D Printing, Basic Circuit Design
+Github: http://github.com/acshi
+
+SeniorsM.S.Ph.D.Post-DocsUndergraduates Seeking Internships

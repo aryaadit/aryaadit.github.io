@@ -1,0 +1,185 @@
+M.S.
+
+KEYANG	DONG	
+RM	719,	367	Cedar	St	–	New	Haven,	CT	06510		
+
+adward_r@icloud.com	–	(203)	390-1518	–	http://github.com/Adward-R	
+
+	
+EDUCATION	
+Yale	University	|	New	Haven,	CT	 	 	 	 	 	 	 	 	 	 		 	
+
+	
+
+	
+
+	 	 	 Sep.	2012	-	June	2016	
+
+	
+
+	 		
+
+	
+
+Sep.	2016	-	May	2017	
+
+l 
+
+l 
+
+	
+
+	
+
+	
+
+l 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+l 
+l 
+
+Mar.	–	May	2016	
+
+Mar.	-	Apr.	2016	
+
+Automatic	Rumor	Detection	in	Social	Networks	 	 	 	 	 	 	 		
+
+Zhejiang	University	|	Hangzhou,	China	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+Design	and	Evaluation	of	Yelp	Recommender	System	 	 	 	 	 	 	 	 	 	 	 		 	
+l 
+
+M.S.	in	Computer	Science	(expected)	
+B.E.	in	Computer	Science	(GPA	3.83/4,	ranked	10%	out	of	196)	
+Concentrated	in	Data	Mining,	Information	Retrieval	and	Recommender	Systems	
+Received	certificate	from	Chu-Kochen	Honors	College	(5.7%	students	nominated)	
+	WORK	EXPERIENCE	
+Data	Analytics	Intern	|	Zhuican	Data	Ltd.,	Hangzhou,	China	 	
+Built	a	business	intelligence	product	that	leverages	data	for	education	and	retail	companies;	the	tool	generates	
+customizable	analytical	results	and	communicates	them	through	interactive	visualizations.		
+l  Wrote	custom	JS	wrapper	for	easy	creation	of	d3.js	charts;	co-designed	backend	database	architecture	for	
+Django	web	app.	
+Research	Assistant	|	Eagle	Lab,	Zhejiang	University,	Hangzhou,	China						
+			Mar .	2014	-	May	2016	
+Presented	a	hybrid	recommender	system	based	on	feature	engineering	and	collaborative	filtering,	which	
+outperforms	competitor	systems	in	metrics	such	as	weighted-F1,	RMSE	and	MAE.	
+Evaluated	approaches	such	as	incorporating	deep	features,	ensemble	learning	models,	and	SVD-obtained	
+latent	factors	to	reach	the	optimal	solution.	
+l  Developed	new	Twitter	monitor	ranking	system	for	trending	topics;	top	0.01%	of	topics	(by	volume)	were	
+used	for	the	analysis.	
+Tested	epidemiological	rumor	spreading	models	such	as	SIHR	and	SICS;	improved	a	C4.5	decision	tree	
+fitting	model	to	more	reliably	identify	social	network	disinformation	and	fake	news.	
+	
+l  Honorable	Mention	for	developing	Android	application	that	effectively	detects	when	seniors	have	fallen	and	
+alerts	their	relatives	in	real-time.	
+Reached	precision	of	>90%	(leading	all	teams)	by	applying	precisely-designed	test	scenarios	to	retrieve	mobile	
+sensor	data;	installed	pre-adjusted	SVMs	on	cellular	phones.	
+VAST	Challenge	2014	(Information	Visualization)	
+			Dec.	2 014	-	Jan.	2015	
+	
+				
+	
+	
+Analyzed	deep	information	in	challenge	materials	using	both	data	visualization	and	search	engine-related	
+techniques;	presented	the	reduction	process	as	an	interactive	website.	
+Emphasized	data	cleaning	for	medium-scale	natural	language	data;	performed	techniques	such	as	integrity	
+check	and	inverted	index.	
+		
+Fluent:	Python	(Django,	NumPy,	Scikit-learn),	C,	C++,	JavaScript	(d3.js)	
+Proficient:	Java,	SQL,	Linux/Shell,	HTML	5,	Bootstrap	3	
+Other:	Numerical	Analysis,	Basic	Stochastic	Processes	
+
+PROJECT	EXPERIENCE	
+Huawei	Cup	Innovative	Software	Contest	
+
+TECHNICAL	SKILLS	
+
+Mar.	-	May	2014	
+
+Apr.	-	May	2015	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+l 
+
+l 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+l 
+
+	
+
+

@@ -1,0 +1,305 @@
+Jing (Jenny) Xu 
+
+965 Amsterdam Ave. Apt 5B, New York, NY 10025 • 617-610-8436 • jing.xu@columbia.edu 
+
+ 
+
+EDUCATION                                                                                                                                                                               
+
+Columbia University, Graduate School of Arts and Sciences             
+
+Master of Arts in Mathematics of Finance     
+
+ 
+
+ 
+
+ 
+
+             
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        New York, NY 
+
+Dec 2017 (Expected) 
+
+Relevant courses: Stochastic Processes, Time-Series Modeling, Hedge Funds Strategies and Risk, Numerical Methods 
+
+Boston College, Morrissey College of Arts and Sciences   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bachelor of Arts in Mathematics and Economics, Magna Cum Laude, GPA: 3.74   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                   Chestnut Hill, MA 
+
+ 
+
+                 
+
+May 2016 
+
+• Honors: Dean’s list (2012-2016), Alpha Sigma Nu, Omicron Delta Epsilon (Economics Honor Society) 
+
+• Exams: CFA Level II Candidate, Actuarial Exam P 
+
+ 
+
+WORK EXPERIENCE                                                                                                                                                                 
+
+China International Fund Management (J.P. Morgan Chinese Joint Venture) 
+
+QDII Quantitative Intern   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                            Shanghai, China 
+
+ 
+
+            Jun 2016 – Aug 2016 
+
+• Tested a long-short portfolio strategy of Chinese large-cap stocks using Principal Component Analysis (PCA) model via R; 
+
+selected effective factors by finding significant components; back-tested portfolio performance   
+
+• Developed tests for factors to attain high autocorrelation  in the model; collected financial data such as P/E and weekly returns 
+
+through Excel spreadsheets and tested their prediction power 
+
+•  Initiatively  designed  VBA  algorithms  to  evaluate  risk  measures  such  as  portfolios’  maximum  drawdown;  prepared  daily  risk 
+
+reports on Hang Seng Indexes 
+
+Global Atlantic Financial Group (formerly Goldman Sachs Reinsurance)       
+
+ 
+
+ 
+
+ 
+
+ 
+
+Southborough, MA 
+
+Summer Intern  
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+         
+
+         
+
+Jun 2015 – Aug 2015 
+
+• Conducted scenario analysis on inputs of actuarial models to calculate reserves and amortizations for insurance blocks   
+
+• Optimized and streamlined the data updating process by improving a reserve calculation tool via Excel; enabled senior staff to 
+
+automatically retrieve corresponding reserve calculations by only updating the input tab 
+
+• Developed an overview for company’s new annuity product and pitched its potential success in the market; conducted technical 
+
+analysis to demonstrate the benefits of the new product in marketing material 
+
+Industrial and Commercial Bank of China   
+
+ 
+
+Credit Risk and International Transaction Intern   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+         
+
+    Shanghai, China 
+
+   
+
+May 2013 – Jun 2013 
+
+• Conducted credit analysis for different companies through reviewing cashflow sheets and credit reports; categorized each company 
+
+based on its performance for senior managers 
+
+•  Ensured  that  documents  were  complied  with  the  terms  of  the  letter  of  credit  between  different  departments  before  payment 
+
+settlement 
+
+ 
+
+ACADEMIC PROJECTS                                                                                                                                                                                     
+
+Foreign Exchange Carry Variant, Hedge Funds Strategies, Columbia University   
+
+ 
+
+ 
+
+ 
+
+• Constructed currency pairs using G10, ranked each pair with carry-to-risk ratio (interest rate differential/ exchange rate volatility), 
+
+selected top 2 pairs, longed currency in the pair with high interest rate and shorted the other 
+
+• Optimized the portfolio using mean-variance optimization instead of the equal-weighting method in standard carry trade, improved 
+
+Sharpe ratio from 0.37 to 0.75 
+
+• Developed a calculation tool to approximate daily P&L using forward and spot rates to avoid using the bonds of different countries 
+
+to avoid coupon calculation 
+
+Pairs Trading Strategy, Computational Investing, Boston College   
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+• Implemented a mean reversion strategy by finding cointegrated  stocks in the energy  sector using the Dickey-Fuller test to test 
+
+stationary via MATLAB 
+
+• Found the price range of the stock pairs, purchased or shorted stocks at large deviations of price pairs 
+
+• Improved the strategy by setting a standardized range on price movements to control the timing; optimized the condition over time 
+
+to prevent overtrading 
+
+ 
+
+SKILLS                                                                                                                                                                                             
+
+Programming: C++, Python, MATLAB, R, Stata, Excel/VBA, Bloomberg, Latex 
+
+Languages: Mandarin, conversational French 
+
+Interests: Theatre, Piano, Writing 
+
+

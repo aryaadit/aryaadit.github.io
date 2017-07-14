@@ -1,0 +1,72 @@
+JINGYI HUANG 
+
+971 Columbus Avenue #9, New York, NY 10025 ● 917-862-6249   
+
+jh3810@columbia.edu ● LinkedIn URL: www.linkedin.com/in/jingyi-huang/ 
+
+EDUCATION 
+Columbia University, Graduate School of Arts and Sciences, New York, NY                          Expected Dec 2017       
+MA in Mathematics of Finance                                                                                                                                                                                                                           
+l      Relevant Coursework: Time Series Modeling, Programming for Quantitative Finance (C++), Hedge Funds     
+
+Strategies and Risk, Numerical methods in Finance, Stochastic Methods in Finance, 
+Machine Learning, Multi-Asset Portfolio Management 
+
+    Mathematics: Algebra, Probability, Real/Complex Analysis, Statistics, Game theory 
+    Economics/Finance: Macro/Microeconomics, Corporate Finance, Investment, Options, Futures 
+    Honors: Excellent Student with Scholarship (5%); TA of R language, 2016                         
+
+Wuhan University, School of Economics and Management, Wuhan, China                            Sept 2012 - Jun 2016 
+BSc in Economics & Mathematics        GPA: 3.86/4.00 
+l 
+l 
+l 
+PROJECT EXPERIENCE 
+Columbia University                                                                                                                    Sept 2016 - Dec 2016 
+Hedge Fund Strategies Using Python 
+Implemented particular strategies by Python in team of five (NR 4, Swap Spread, Strategy Arbitrage, etc.)   
+l 
+l  Procedures included specification (universe, data range, signal and portfolio), implementation (P&L graph, 
+
+statistics, refinements), and conclusion (out of sample tests, trading recommendation) 
+
+Quantitative Finance Applications Using C++ 
+l  Utilized C++ and third party libraries to implement quantitative models and create self-contained Excel add-in 
+l  Designed financial model and Excel add-in for Root finding, option pricing with Black-Scholes, Implied 
+
+Volatility, Short Rate Model, Monte Carlo Simulation, Variance Reduction and Variance Swap   
+
+Invested in options, futures and stocks to operate a mock account of ¥ 500,000 throughout the semester 
+
+Wuhan University                                                                                                                        Sept 2013 - Jun 2016 
+Data Analysis (Regression) by MATLAB & R & SAS 
+l  Calculated statistical indicators such as t-value, F-value, kurtosis, to fit, forecast and test linear regression 
+l  Counted statistical indicators of matrix approach to multivariable linear regression models 
+l  Employed programming for interval estimation, hypothesis test, regression and variance analysis   
+Mock Investment Study 
+l 
+PROFESSIONAL EXPERIENCE 
+Ruihua Certified Accountants, Wuhan, China                                                                            Jan 2016 - May 2016   
+Intern, Auditor Support 
+l  Analyzed fraud risk possibilities, conducted business research, and presented research findings   
+l  Negotiated issues concerning accounting and auditing as part of a team of 5 
+l  Composed confirmation letters to banks and related parties, sometimes followed by visits to clients 
+Prairie Asset Management co., Ltd., Shanghai, China                                                                Jul 2015 - Sept 2015                                                             
+Intern, New Three Board (Chinese NASDAQ) Investment Department Analyst Support                                                       
+l  Developed  research  on  emerging  industry  (marine  industry)  through  comparative  study  in  order  to  make 
+
+investment decisions, with results posted on the company’s public report 
+
+l  Compiled market dynamics of New Three Board and sorted weekly news to inform investment decisions 
+l  Formulated report for upcoming Hierarchical Method (differentiating the markets by investment values) 
+SKILLS / ACTIVITIES 
+l  Computer: 
+Interests: 
+l 
+l  Volunteer: 
+
+SAS, C++, R, MATLAB, Python, Excel/VBA 
+Piano, Hiking, Classic Opera, Musicals 
+Special Education School teacher for mentally handicapped children 
+
+

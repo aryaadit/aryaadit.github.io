@@ -1,0 +1,104 @@
+SENIORS
+
+Andrew Arkebauer
+
+1441 W Silver Bell Ct · Lincoln, NE 68523 · (402) 314-7122
+andrew.arkebauer@yale.edu · www.andrewarkebauer.com
+
+EDUCATION
+
+Yale University
+
+Bachelors of Science in Electrical Engineering – ABET Accredited
+Cumulative GPA: 3.69; Major GPA: 3.84
+Relevant Coursework: Systems & Control; Digital Signal Processing; Circuits & Systems Design; Mechatronics
+
+Lincoln Southwest High School
+
+Cumulative GPA: 4.49
+Awards: National Honor Society, Academic Top Three Percent, AP Scholar with Distinction
+Activities: Science Olympiad (President, National Runner-Up), Varsity Cross Country and Track & Field (Captain)
+
+New Haven, CT
+Expected May 2017
+
+Lincoln, NE
+May 2013
+
+PROFESSIONAL EXPERIENCE
+
+Yale University – Center for Systems Science
+Student Intern
+
+recognition application capable of identifying handwritten samples
+
+NASA Langley Research Center
+Student Intern
+
+stabilize each other, culminating in a manuscript to be published as a Yale Technical Report
+
+conditions, resulting in a 50 percent decrease in heading error over conventional control methods
+
+New Haven, CT
+Summer 2016
+• Simulated control mechanisms in networks of unstable dynamical systems which mutually adapt in order to
+• Developed and implemented an artiﬁcial neural network architecture ultimately used in an optical character
+• Modeled and simulated a maritime autopilot system utilizing an adaptive control scheme in variable weather
+Hampton, VA
+Summer 2015
+• Collaborated with a team of interns to analyze data from a human-in-the-loop experiment testing new aircraft
+• Designed a prototype algorithm to increase the fuel efﬁciency of experimental cockpit software, concluding with
+• Developed an in-depth knowledge of the functionality of aircraft control systems and procedures through the use
+Lincoln, NE
+Summer 2013
+• Researched the motion of colloidal particles in response to low-intensity light exposure, resulting in control over
+• Co-authored Color and Texture Morphing with Colloids on Multilayered Surfaces, published and designated an
+
+cockpit software, resulting in reﬁnements designed to increase performance and pilot satisfaction
+
+material colors and textures, in order to mimic adaptive camouﬂage and biological tissue growth
+
+of high-ﬁdelity cockpit simulators used in the collection of experimental results
+
+University of Nebraska-Lincoln – Center for Materials and Nanoscience
+Research Assistant
+
+a presentation to research directors demonstrating algorithm performance
+
+Editors’ Choice by the American Chemical Society
+
+LEADERSHIP & ACTIVITIES
+
+Yale Undergraduate Aerospace Association
+Project Leader
+
+construction of a ﬁxed-wing unmanned aerial vehicle
+
+September 2013 - Present
+• Managed a team of 13 students with over $4000 in funding, including a NASA Space Grant, for the design and
+• Directed introductory electronics and Solidworks workshops to provide students with the skills necessary to
+• Designed a two-stage rocket and data acquisition system to analyze ﬂight performance, showing the advantages
+• Constructed and launched a rocket and payload designed to experimentally observe the effects of general and
+
+of a multistage rocket and areas in which subsystems could be enhanced
+
+contribute to aerospace projects in a high capacity
+
+special relativity, earning second place in the 2014 Intercollegiate Rocket Engineering Competition
+
+TECHNICAL SKILLS
+
+Software: MATLAB, Simulink, Solidworks, AutoCAD, Inventor, LaTeX, Mathematica, Altera Quartus, Microsoft Ofﬁce
+Languages: Python, MATLAB, C, C++, Racket, VHDL, R
+Operating Systems: Proﬁcient in Macintosh, Windows and Linux (Debian)
+Additional: Parallel computing via construction of a Beowulf computing cluster; FPGA prototyping through design of a
+
+microcontroller; Manufacturing techniques involving 3D printers, laser cutters, and CNC machining
+
+PUBLICATIONS
+
+Chen, Z., Li, S., Arkebauer, A., Gogos, G., Tan, L. (2015) "Color and Texture Morphing with Colloids on Multilayered
+
+Surfaces" ACS Applied Materials & Interfaces 7(19), 10125-10131. doi:10.1021/am5087215
+
+SeniorsM.S.Ph.D.Post-DocsUndergraduates Seeking Internships

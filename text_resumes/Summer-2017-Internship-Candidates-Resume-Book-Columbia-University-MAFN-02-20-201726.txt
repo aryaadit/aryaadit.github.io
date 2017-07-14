@@ -1,0 +1,95 @@
+   PAVAN KUMAR SURPANENI 
+
+                                                          509 110th St #6E, New York, NY 10025 
+
+New York, NY 
+Expected Dec 2017 
+
+                                       ps2942@columbia.edu |518-496-0334 |www.linkedin.com/in/pavansurpaneni 
+ 
+EDUCATION 
+Columbia University 
+Master of Arts in Mathematics of Finance 
+Relevant Coursework 
+Stochastic Processes, Statistical Inference & Time-Series Modelling, Hedge Funds Strategies and Risk, 
+Fixed Income Portfolio Management, Multi-Asset Portfolio Management, Applied Machine Learning 
+ 
+Birla Institute of Technology and Science (BITS Pilani)  
+Bachelor of Engineering (Hons.) in Civil Engineering 
+Relevant Coursework 
+Calculus, Linear Algebra, Probability & Statistics, Differential Equations,  Computer Programming, Optimization 
+ 
+PROJECTS 
+Equity Index Reconstitution Strategy 
+Back tested and implemented Long only and L/S Index Rebalancing strategies based on Russell annual reconstitution in 
+Python using NumPy, Pandas, Matplotlib, Scikit-learn. Used Machine Learning Algorithms to predict stocks that would end 
+up in the new Russell Index based on historical Market cap. and price direction. 
+ 
+EXPERIENCE 
+Karvy Stock Broking Ltd. 
+Assistant Manager, Equity Research 
+
+Pilani, India 
+Jun 2012 
+
+Hyderabad, India 
+Oct 2015 - Mar 2016   
+
+  Prepared financial models and carried out valuation exercises to arrive at investment recommendations 
+  Provided coverage for midcap and large cap stocks in Indian IT and Telecom & Media Industries 
+
+Edelweiss Securities Ltd. 
+Associate, FX Trading desk (Treasury Management) 
+
+Mumbai, India 
+Feb 2015 – Jul 2015 
+
+  Managed a four-member currency trading desk with over $400 million in market exposure 
+  Traded currencies using macro-economic research, arbitrage strategies, pair trading and calendar spreads 
+
+Futures First Info Services Pvt. Ltd. 
+Derivative Trader, Commodities 
+
+Hyderabad, India 
+Jul 2012 – Oct 2014 
+
+  Traded commodity derivatives at CME(Chicago) 
+  Researched and analyzed fundamentals to spot mispricing opportunities across world commodities markets 
+  Modeled and implemented trading strategies using charts, patterns, fundamentals and market psychology 
+
+ 
+
+SKILLS 
+Certifications 
+Baruch College, City University of New York (CUNY) 
+Baruch MFE C++ Programming for Financial Engineering Online Certificate Program 
+Coursework : OOP in C++, STL and Applications in Computational Finance 
+CFA Institute, USA 
+
+  Cleared CFA Level I & Level II 
+
+Technical 
+C++, Python, R, Matlab, SQL, Bloomberg, Excel 
+Awards 
+
+  Ranked All India 34th in a nationwide Mathematics Olympiad 
+
+ 
+INTERESTS 
+
+Investing, Script Writing, Travelling, Volleyball, Table Tennis, Poker 
+
+ 
+
+ 
+ Mar 2016-Present 
+ 
+
+                    Jul 2012-Present 
+
+ 
+ 
+ 
+                                    Jul 2014 
+
+
