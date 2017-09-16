@@ -1,0 +1,131 @@
+Xiaohu Lei 
+Phone number: 773-290-3304 
+Education     
+ Northwestern University
+
+(GPA: 4.0/4.0)
+
+ Tongji University
+
+(GPA: 86/100; Rank: 9/136)
+
+www.linkedin.com/in/xiaohu-lei-abc123
+E-mail: xiaohulei2017@u.northwestern.edu
+
+MEM candidate (Master of Engineering Management) 
+with concentration in Managerial Analytics 
+Master of Science in Structural Engineering 
+
+July, 2016-Expected Dec, 2017 
+
+Sep, 2008-June, 2011 
+
+Courses in MEM program at Northwestern University 
+
+Engineering Management 
+Decision Tools for Managers 
+Statistics 
+Stochastic Models 
+Managerial Analytics 
+NUvention Analytics 
+
+Leadership and Organizational Behavior 
+Negotiation for Engineers 
+Marketing for Engineers 
+Accounting for Engineers 
+Finance for Engineers 
+Simulation for Risk & Operation Analysis 
+
+Working Experiences 
+Structural Engineer                          Tongji Architectural Design (Group) Co., Ltd 
+
+July, 2011-Oct, 2015 
+
+Engaged in the analysis, design, consulting, optimization and reinforcement of all kinds of building structure. 
+
+Shanghai Tower (632m, Highest building in China)
+
+ Responsible for the analysis and design of the piled raft foundation of Shanghai Tower with SAP2000, ABAQUS.
+
+Shanghai Disneyland
+
+
+
+
+
+
+
+Led a team to participate in the design of Shanghai Disneyland; responsible for the analysis, consulting and design
+of decorative building structure; attended weekly meetings with Disney representative.
+Formulated design criteria which could  satisfy the  design  standard  of  both  China  and  Disney;  formulated  project
+schedule and assigned tasks to team members according to characteristics.
+Integrated the work of team members, in charge of the design quality examining and solved puzzling questions;
+calculated workload of team members and allocated earnings properly.
+
+Copper Ridge Ancient Copper Mine Ruins Museum
+
+
+
+In  charge  of  the  structure  design  of  Museum  in  mountainous  region;  analyzed  the  engineering  geological
+investigation report of karst cave area; conducted site selection research.
+
+ Built  model  and  analyzed  the  indicators  of  structure  under  earthquake  action;  made  anti-sliding  and  capsizing
+
+analyses under mountain thrust; made special analyses about basement and pile foundation;
+
+Zhuji Theater (Landmark building with an irregular shape) 
+
+Issued marketing research report and feasibility research report; built Building Information Modeling (BIM).
+
+
+ Responsible for the overall design including concrete structure, steel structure design and the cooperation with later
+
+construction; reinforcement design of nearby existing buildings which are affected by this new building.
+
+ Used SAP2000 to build the finite element model, inspecting the performance of structure by buckling and dynamic
+
+analyses; adopted ABAQUS to make analysis of stress and strain, guaranteeing the reliability of joints.
+
+Research Experiences 
+The whole process analysis of interaction of piled raft foundation of high-rise buildings 
+Master’s Thesis (Research based on Shanghai Tower) 
+
+2009-2011 
+
+
+
+
+
+Established settlement calculation method based on Mindlin stress solution and compiled corresponding computer
+program using MATLAB.
+Simulated soil-pile using vertical springs and used  ETABS to build finite element model; calculated the value of
+stiffness of vertical springs adopting iterative method; made interactive and whole erection process analysis.
+
+Settlement deformation calculation of ultra-high-rise buildings and back analysis of measured results. 
+Independent research based on Shanghai Tower 
+
+2010-2012 
+
+Simulated foundation deformation of each construction stages and ultimate deformation under gravity load.
+
+ Compared simulated results with measured results; evaluated and improved theoretical calculation method.
+
+Nonlinear dynamic time-history analysis of China Medical University library 
+
+2009-2010 
+
+ Analyzed of building composed of two towers with large-span connective structure by nonlinear FEM method.
+
+Publications 
+"The  Effect  of  Stiffness  of  Ground  Spring  upon  the  Plate  of  Piled-Raft  Foundation  of  Super  High-Rise  Building  under 
+Vertical Loads." Structural Engineers, February, 2011, Vol.27, No.1 57-62. 
+"Discussion on Tensile Force of Piles Caused by Subsoil Rebound in Soft Soil Area." Structural Engineers, October, 2009, 
+Vol.25, No.5 88-92. 
+"Structure Design of a Museum." Urbanism and Architecture, 2015(17), 71-74. 
+Certificates     
+Registered Qualification Certificate/Class 1 Registered Structural Engineer/The People’s Republic of China 
+Registered Qualification Certificate/Registered Civil Engineer (Geotechnical)/The People’s Republic of China 
+Skillset     
+Computer: ABAQUS\ANSYS\SAP2000\ETABS\YJK\MATLAB\Visual Basic(VBA)\AutoLISP\Python\MS-office 
+
+

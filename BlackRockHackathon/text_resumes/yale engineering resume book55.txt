@@ -1,0 +1,83 @@
+Ph.D.
+
+Muhammad H. Khan
+Curriculum Vitae
+
+107 Mansﬁeld St (Apt 2)
+New Haven, CT 06511
+(cid:31) (732)829-5049
+(cid:30) muhammad.khan@yale.edu
+https://muhammadkhan.github.io
+
+Education
+
+2016–present Yale University, Ph. D., Biomedical Engineering, New Haven, CT.
+2015–2016 Cornell University, M. Eng., Biomedical Engineering, Ithaca, NY.
+2011–2015 Cornell University, B. Sc., Chemical Engineering and Computer Science (double), Ithaca, NY.
+
+Minors: Biomedical Engineering, Business
+Skills
+
+Languages Java, C, C++, Python, OCaml, UNIX Shell, PHP, VBA, SQL, LATEX
+
+Web HTML, CSS, JavaScript, Django
+
+Applications MATLAB, Eclipse, Visual Studio, Emacs, Mathematica, MS Oﬃce, SigmaPlot, LabView, ImageJ
+
+OS Windows, Linux, UNIX, OS X/macOS, iOS
+
+Laboratory UV-Visible Spectroscopy, (FT)IR Spectroscopy, SEC-MALLS, PCR/qPCR/RT-PCR, Dry Etching, Microﬂu-
+
+idic Device Patterning, HPLC
+Research Experience
+
+2016–present Graduate Research Assistant, Hyder Lab, Yale University, New Haven, CT.
+
+Do work primarily in algorithmic analysis in experimental radiology and MRI. Performed Lorentzian lineshape analysis
+on tumor BIRDS images. Presently establishing the utility of Na-based BIRDS imaging in vitro for further work in
+mapping Na-centric tumor physiology.
+
+2015–2016 Graduate Research Assistant, Adie Lab, Cornell University, Ithaca, NY.
+
+Developed framework for dynamic real-time GPU-accelerated optical coherence elastography (OCE), with work primarily
+done using Microsoft Visual Studio and the nVIDA CUDA language.
+
+2015 Summer Research Assistant, Hasan Lab, Princeton University, Princeton, NJ.
+
+Performed computational ab initio calculations of electronic structures for diﬀerent materials, in particular topological
+insulators, and subsequent quantum analysis of the discrete superconductive surface states
+
+2013 Undergraduate Research Assistant, Hernandez Lab, Cornell University, Ithaca, NY.
+
+Wrote image analysis software to determine probability of fracture high-resolution input bone image. Used MATLAB
+extensively to generate image array and calculate maximal principal strain values at possible fracture sites
+
+2012 Undergraduate Research Assistant, Kelley Lab, Cornell University, Ithaca, NY & Jicamarca, Peru.
+
+Studied eﬀects of the fair-weather electric ﬁeld to observe charge eﬀects due to solar winds on the atmosphere. Used
+MATLAB/NIDAQ interfacing for data input and analysis
+Work Experience
+
+2016–present Co-Head of Quantitative Trading and Research, Armitage Capital, New Haven, CT.
+
+Development of self-learning regression model to determine optimal buy and sell points for stock market. Current
+phase: static and dynamic testing in a makeshift stock market simulation environment.
+
+2013, 2014 Technology Summer Analyst, Goldman Sachs & Co., Jersey City, NJ.
+
+Redesigned regression testing framework to reduce end-of-day test times 100-fold. Also wrote JSP web applications to
+facilitate trade reporting to FINRA.
+
+2012–2014 Ground Segment Subteam Member, Cornell University Satellite Team (CUSAT), Ithaca, NY.
+
+Design of JSatTrak software in Java for the CUSAT and Violet teams to communicate with passing satellites overhead
+both local and remote ground stations.
+Project Experience
+
+Jan 2017 Biomimetic Approach to
+
+Computer-Aided Diagnosis of Lung Cancer, Yale HackHealth 2017, New Haven, CT.
+Development of a deep learning-based eye-tracking algorithm to improve accuracy of classiﬁcation in lung cancer
+imaging and radiology. Eye-tracking enhancements able to improve accuracy of classiﬁcation by 3-5%.
+
+

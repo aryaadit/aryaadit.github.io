@@ -1,0 +1,87 @@
+SENIORS
+
+ 
+
+GERARDO CARRANZA 
+PO Box 202407, New Haven CT, 06520 • cell 786-376-6009 • e-mail gerardo.carranza@yale.edu 
+EDUCATION 
+Yale University New Haven CT, Class of 2017 
+ABET-Accredited Mechanical Engineering major, Cumulative GPA 3.43 
+Relevant Coursework: Differential Equations, Linear Algebra, Mechatronics, Data Structures & Programming Techniques, 
+Thermodynamics, Fluid Mechanics, Heat Transfer, Data Mining and Machine Learning, Numerical Methods 
+EXPERIENCE 
+MENG 489, SENIOR CAPSTONE 
+
+New Haven CT, Fall 2016 
+
+ 
+
+Final Project 
+  Developed a mechatronics educational kit that would be accessible to visually impaired students 
+  Created a two-wheeled robot that would be driven with a shaft/handle, implemented obstacle detection and course 
+correction, supported multiple sensor and steering configurations, and featured a blind friendly electronics interface  
+
+HONEYWELL AEROSPACE, ADVANCED TECHNOLOGY DIVISION 
+
+Phoenix AZ, June—August 2016 
+
+Intern, Mechanical Design 
+  Designed a test rig to test the thermal gradient of a CMC engine shroud under the supervision of senior engineers 
+  Developed a MATLAB program to automatically create report packages for +150 Excel Files that were part of a 
+
+research collaboration with NASA which replicated ice crystal formation in turbofan engines for the first time ever.  
+
+CPSC 679, 3-D DESIGN AND FABRICATION 
+
+New Haven CT, Spring 2016 
+
+Final Project (Graduate Course) 
+  Developed a Java program that created 3-D printable models of the topography of Earth and Mars from scratch 
+  Wrote an exporter to automatically convert GeoTIFF image files into a binary STL file with a triangular face mesh 
+
+YALE UNDERGRADUATE AEROSPACE ASSOCIATION  
+
+New Haven CT, Fall 2013—Present 
+
+President 
+  Led Yale’s largest engineering organization, comprised of over 60 members across 4 project teams 
+  Planned student-run workshops, speaker events, & outreach with an executive board of 12 members 
+  Served as a speaker at Space Apps NYC, a yearly space entrepreneurship conference 
+
+Fall 2015—Spring 2016 
+
+Finance Director 
+  Secured $20,000 in funding and allocated budgets for the radio telescope, rocket competition, multi-stage rocket, and 
+
+Fall 2014—Spring 2015 
+
+ 
+
+UAV project teams 
+
+  Worked with the Department of Engineering to complete purchases, issue reimbursements, and plan travel logistics 
+
+IREC Team Member 
+Fall 2013—Spring 2014 
+  Competed at the Intercollegiate Rocket Engineering Competition (IREC), launching our rocket, Chronos, to 7003 ft. 
+  Awarded 2nd place out of 36 teams in the Payload Design category for our general & special relativity payload 
+ 
+STARS SUMMER RESEARCH PROGRAM  
+Student Researcher, GRAB Lab 
+  Presented “Rapid Prototyping of Electric Circuits using 3-D Printing,” a research effort to embed electric circuits 
+
+New Haven CT, June—August 2014 
+
+directly into 3-D printed parts via the injection of liquid metal through channels designed within the part 
+
+  Developed a MATLAB program to automatically convert HTML data from a 2-D EAGLE Printed Circuit Board 
+
+schematic into a series of channels in a 3-D OpenSCAD model  
+
+SKILLS 
+Programming Languages: Java, MATLAB, Racket, C, HTML, Google Scripts, R 
+Software: Microsoft Office, SolidWorks, OpenSCAD, Android Studio, NX, Cura, Meshlab, EAGLE PCB 
+Trainings: Laser Cutter, Next Engine 3-D Scanner, Lulzbot 3-D printer, Metal Lathe, CNC Mill, Drill Press, Six Sigma   
+Language: Fluent Spanish (written and spoken) 
+
+

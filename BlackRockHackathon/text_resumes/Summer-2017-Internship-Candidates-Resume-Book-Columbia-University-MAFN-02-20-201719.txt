@@ -1,0 +1,65 @@
+Yang Liu 
+
+242 W 109, New York, NY 10025 | (917)-593-6652 | yl3634@columbia.edu | www.linkedin.com/in/yangliu1994 
+ 
+EDUCATION 
+Columbia University in the City of New York                                                          (expected) 9/2016 – 12/2017 
+Master of Arts in Mathematics of Finance (MAFN Program) 
+  Coursework:  Statistical  Inference  /  Time-Series  Modelling,  Stochastic  Processes  -  Applications, 
+
+Programming for Quantitative and Computational Finance, Fixed Income Portfolio Management 
+
+City University of Hong Kong                                                                                                      9/2012 – 7/2016 
+Bachelor of Business Administration (First Honor), major in Finance, minor in Mathematics 
+  CGPA (Major GPA):   
+ 
+  GRE Mathematics Subject: 
+  HKSAR Government Scholarship 2015/2016 (Top 1%) 
+  Second Prize of National Mathematics League in China (Top 0.1%) 
+  Ever received four Math PhD offers from three universities in USA and one of the best universities in Asia 
+  Relevant Coursework: Stochastic Calculus, Derivatives & Risk Mgt, Quant Methods in Finance, Numerical 
+Methods, Applied Statistics, Analysis, Linear Algebra, Probability & Statistics, Computing Math Lab (all A+) 
+
+4.0/4.3 (4.3/4.3) (Rank: 1/685) 
+880 (93% below) 
+
+ 
+EXPERIENCE 
+Department of Mathematics, City University of Hong Kong                                                    9/2015 – 8/2016 
+Robust Stochastic Approximation (research project under Prof. Xiang Zhou) 
+  Conducted  research  in  theory  and  implementations  of  the  classical,  robust  and  mirror  descent  stochastic 
+approximation approaches to stochastic optimization and convex-concave stochastic saddle point problems 
+  Proved that a modified stochastic approximation approach outperforms the sample average approximation 
+
+method for certain stochastic optimization and saddle point problems and showed the numerical results 
+  Applied recursive algorithms Kalman filter, Robbins-Monro algorithm and Kiefer-Wolfowitz procedure 
+China Investment Securities, Shenzhen, China                                                                          5/2015 – 7/2015 
+Analyst - OTC Market Management Division 
+  Wrote evaluation reports for companies planning IPOs in the New Third Board market (considered as Chinese 
+
+version of NASDAQ), e.g. 833581.OC, 430596.OC, 831260.OC and so on 
+
+  Conducted  due  diligence  with  colleagues,  doing  in-depth  research  on  industrial  overviews  and  potential 
+
+growth factors in order to achieve reasonable valuations 
+
+  Projected the financial performance of target companies in the future, evaluated their competency among the 
+
+competitors and developed financial models to evaluate enterprise value of target companies 
+
+Department of Management Sciences, City University of Hong Kong                                    2/2015 – 6/2015 
+Research Assistant (under Prof. Guangwu Liu) 
+  Worked on the project A Kernel Method for Pricing and Hedging American Path-Dependent Options 
+  Utilized Bloomberg Terminal to collect financial data regarding American path-dependent options and found 
+
+the factors influencing the price which were not considered in the Black-Scholes Model 
+
+ 
+ADDITIONAL 
+Bloomberg Aptitude Test Hall of Fame (98%, Top 5 scorer in the Asia Pacific region) 
+Other languages:    Mandarin (Native), Cantonese 
+Computer skills:   
+
+C++, VBA, MATLAB, SAS, R, Python, Bloomberg, Capital IQ 
+
+

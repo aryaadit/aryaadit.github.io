@@ -1,0 +1,331 @@
+M.S.
+
+  Mobile: (203) 435-5208   Email: he.gao@yale.edu   Address: 51 Prospect Street, New Haven, CT 06511 
+
+He (Veronica) GAO 
+
+ 
+
+ 
+
+ 
+                 Degree Expected May 2017   
+
+         
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+       
+
+EDUCATION 
+ 
+Yale University, New Haven, CT, USA   
+M.S. in Computer Science  
+‣ Latest Grades: Honors (Equivalent to 4.0 / 4.0) 
+‣ Relevant Coursework: Product Management, Distributed Systems, Database, Intelligent Robotics 
+Nanyang Technological University, Singapore  
+         
+First Class Honors, B.Eng. in Computer Engineering, Specialization in Cyber Security, Minor in Business 
+‣ Cultivated GPA : 4.73 / 5.0  (Ranked Top 5, Equivalent to 3.82 / 4.0) 
+‣ Awards Received:  
+
+ITMA Gold Medal: Best performance in Final Year Project in School of Computer Science and Engineering 
+ 
+Dean’s List Awards: Top 5% academic performance during respective academic years   
+Champion: Robotics Multidisciplinary Group Project Leaderboard Challenge, NTU, Singapore   
+
+                  
+
+          
+
+         
+
+ 
+
+ 
+
+ 
+
+        June 2016  
+
+ 
+
+ 
+
+     
+
+          2016 
+        2013, 2014, 2015 
+               2014 
+        
+                                  Aug 2014 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             
+
+                     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+      
+
+ 
+      
+
+  Summer 2016 
+
+structure for the service and augmented feeds control with a customer authentication and authorization servlet 
+
+models; assessed the financials of a traded distressed firm; conducted strategic research into China's bond market 
+
+facilitated internal knowledge sharing, and advised engagement officers on billable hour estimation of two projects 
+
+Technical University of Munich, Germany (Study Aboard) 
+PRODUCT / TECHNOLOGY EXPERIENCES  
+ 
+Associate Consultant Intern, Digital Marketing Cloud, Adobe Systems, Singapore 
+ Jan - May 2015 
+‣ Product Creation: Pioneered a call center web app project - gathered client requirements, designed and developed the 
+application, delivered documentation, and conducted user acceptance test; achieved initial targets two weeks before deadline 
+‣ Product Prototyping: Started Adobe’s local web app service offering; designed app prototypes for potential clients, 
+‣ Backend Development: Built a metered feeds account service for a TV station client; designed dedicated database 
+Software Developer Intern, Snap Innovations (Trading Software Start-up), Singapore     
+     Oct 2013 - Jan 2014 
+‣ Developed the main bid-ask trading interface in C++ in a team of five; designed test cases for trading algorithms  
+‣ Implemented RPC servers and clients with ZeroC Ice framework for communication with servers overseas 
+BUSINESS / INVESTMENT BANK EXPERIENCES 
+ 
+ 
+Sales and Trading Summer Analyst, Barclays Investment Bank, Singapore 
+‣ Forex and Rates Sales: Pinpointed top 3 of 20 regional fund clients with $58 billion actionable assets as sales outlook 
+presented to APAC Markets Head; drafted target clients’ rates and foreign exchange trade ideas (performing rate 60%) 
+‣ Credit  Trading:  Prioritized  an  actively  traded  Indian  firm  and  forecasted  bond  valuation  by  building  financial  forecast 
+Treasury Summer Analyst, Goldman Sachs, Singapore  
+ Summer 2015 
+‣ Streamlined  treasury  processes  adopted  by  all  regional  offices  in  a  global  team  of  five;  achieved  single-repository 
+‣ Traced anomalous transactions through root cause analysis; ensured 100% reconciliation accuracy of all transactions  
+PROJECT EXPERIENCES         
+Instatask, Location-Based Outsourcing Platform (Product Owner), Yale School of Management      Aug - Dec 2016 
+‣ Led the design and development of Instatask, a location-based web platform for users to post or perform paid tasks in team 
+Scalable, Highly Available, and Fault-Tolerant Graph Store Server System,  Yale University  
+   Aug - Dec 2016 
+‣ Built  a  HTTP-based  distributed  graph  server  system  in  C  in  pair;  achieved  durability  with  logging  and  checkpointing; 
+Game Lab 3D Motion Design and Editing Tool (Gold Medalist), Final Year Project, Singapore    Aug 2015 - May 2016 
+‣ Created an animation design tool in OpenGL C++ that is able to load, play, edit, and export BVH format animations  
+‣ Enriched editing features with frame rate control, frame inbetweening, forwards kinematics and inverse kinematics 
+LEADERSHIP AND ACTIVITIES     
+President, French Society, NTU 
+ 
+‣ Revolutionized the annual schedule; doubled event numbers, expanded event scale, and broadened event diversity 
+‣ Headed a team of 25, orchestrated nine diversity events and reached a two-day turnout of 500 
+Peak Performer Award, Glacier National Park, USA 
+INTERESTS  
+ 
+Interests: Skiing, Classical Guitar, Scuba Diving (Licensed), Traveling (CouchSurfing and Carpooling in 20 countries)
+
+of four; defined project scope, organized scrum meetings and adjusted priorities; achieved objectives two weeks in advance 
+
+availability using hybrid chain replication and primary backup protocols; and scalability with locking and server partitioning 
+
+synchronization of all 300 treasury processes two weeks ahead of deadline 
+
+  Summer 2013 
+                                
+
+                     
+
+      
+ 
+
+      
+
+    
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                  
+
+ 
+
+ 
+
+ 
+                 Aug 2013 - Aug 2015 
+
+                  
+
+ 
+
+ 
+
+ 
+
+

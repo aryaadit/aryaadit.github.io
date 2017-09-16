@@ -1,0 +1,113 @@
+RUCHUANG GAO 
+
+·350 Manhattan Ave, Apt.4H, New York, NY 10026· 
+
+·917-528-2233·rg3050@columbia.edu· 
+
+EDUCATION 
+Columbia University, Graduate School of Arts and Sciences 
+M.A. in Mathematics of Finance 
+  Coursework : Stochastic Process-Application I, Programming for Quant and Computational Finance(C++), 
+Statistical Inference / Time-Series Modeling(R&ITSM), Introduction to Mathematics of Finance (Matlab) 
+
+ 
+New York, NY 
+Sept. 2016-Expected Dec. 2017 
+
+ 
+Fudan University, School of Economics 
+B.A. in Mathematical Economics 
+  Cumulative GPA: 3.5/4.0, Major GPA: 3.65/4.0 
+  Related Coursework: Matlab Programming, C programming, Financial Engineering (Matlab), Principles of 
+
+        Shanghai, China 
+
+  Sept. 2012 -June. 2016   
+
+Mathematical Analysis, Time Series Analysis (SAS) 
+
+  Academic Excellence Scholarship (2012-2013, 2014-2015) 
+  GRE: Quantitative - 170 (98%) Verbal - 160 (85% percentile) 
+
+ 
+
+University of California, Berkeley, Haas School of Business 
+Summer Program 
+  Related Coursework: Introduction to Finance & Accounting (Fraud) 
+ 
+PROFESSIONAL EXPERIENCE 
+Essence Securities Co., Ltd 
+Strategy Analysis Assistant 
+ 
+  Remarked on the Q3 results of 10 listed companies, used relative valuation models and the DCF models to 
+
+Implemented Web Crawler using Python to extract structured daily trading data and updated policies 
+
+ 
+Shanghai, China 
+  Sept. 2015-Dec. 2015 
+
+  Berkeley, CA 
+  July. 2014 -Aug. 2014 
+
+evaluate potential investment opportunities 
+
+  Conducted research on the impact of new policies on macro-economy and target industries 
+ 
+Industrial Securities Co., Ltd 
+Quantitative Analysis Intern 
+  Assisted in designing quant stock selection models using C++ and back tested them using historical data 
+  Conducted research on the transaction data to measure risk of the portfolio, implemented a Monte Carlo based 
+
+Shanghai, China 
+  Mar. 2015-June. 2015 
+
+model with C++ and Excel VBA for portfolio return scenario analysis 
+
+  Created three new indicators, leveraged multi-factor model and regression methods to get weekly or monthly 
+
+frequency trading strategies, collected historical data (2005-2015) to back-test new strategies (Python)   
+
+  Wrote Excel add-in functions for risk analysis such as VaR/CVaR 
+ 
+PROJECT EXPERIENCE                     
+A Predictive Model of NYC Taxi Database (Python) 
+  The expected model can accurately predict the number of trips, the expected total fair and the tips ratio given 
+
+  Dec. 2016-Jan. 2017 
+
+                                                                                                                                                                                     
+
+the specific area, time slot and weather condition, with NYC taxi services 
+
+  Cleaned up the data; based on trip’s pick up position coordinates and time, divided data into different area 
+
+groups and time slots; merged to get the final training dataset 
+
+  Based on cross-validation methods, used Random Forest Regression and Gradient Boosting Regression 
+Model to train the dataset, with an accurate predicting model and visualization of feather rank obtained 
+
+ 
+Fudan Securities Association 
+Analyst in Quantitative Strategy Group                                                                           
+  Built and maintained a portfolio containing over 30 listed names with team members 
+  Performed regressions and back tests using Python to help improve our stock selection mechanisms 
+  Analyzed the arbitrage strategy of Chinese structure fund and used Python to implement the trading strategies 
+ 
+SKILLS 
+  CFA level II candidate 
+  Proficiency with Python, Excel/VBA, C/C++, MATLAB, Bloomberg 
+  Good command of R, SAS, SQL 
+ 
+INTERESTS 
+  Road Cycling: rode over 200 kilometers a day for two times, attended over five road bicycle races 
+
+Shanghai, China 
+
+ 
+
+ 
+
+  Oct. 2013-Present                                                       
+
+

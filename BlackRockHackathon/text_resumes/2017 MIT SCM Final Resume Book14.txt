@@ -1,0 +1,205 @@
+TIANSHU HUANG 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+           
+
+ tianshu@mit.edu 
+
+                Cambridge, MA 
+            Expected Jun 2017 
+
+1101–235 Albany St., Cambridge, MA, 02139      ■          (617) 852 – 8073            ■ 
+ 
+EDUCATION 
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
+ 
+Candidate for Master of Engineering in Logistics, Supply Chain Management Program 
+(cid:120)  Relevant Coursework: Logistics Systems, Database Analysis, Data Mining, Supply Chain Leadership, Operations Strategy 
+ 
+UNIVERSITY OF TORONTO     
+   
+Master of Engineering, Operations Research | GPA: 4.0/4.0     
+(cid:120)  Research Assistant for Dynamic Optimization and Operations Management Lab (Sept 2013 – Aug 2014) 
+(cid:120)  Teaching Assistant for Decision Analysis and Bayesian Statistics (Sept 2013 – Dec 2013) 
+        2008 – 2013 
+Bachelor of Applied Science, Engineering Mathematics and Statistics | GPA: 3.8/4.0             
+(cid:120)  Thesis: Quantifying Leading Key Risk Indicators for Compliance, sponsored by a major Canadian Bank (Sept 2012 – Apr 2013) 
+(cid:120)  Worked at Unilever Canada via a gap year program (May 2011 – Aug 2012) 
+ 
+RELEVANT EXPERIENCE 
+WESTON FOODS INC.   
+        Toronto, ON 
+Weston Foods is a leader in the North American baking industry and one of the 2 business segments of George Weston Ltd(Rev:$33B) 
+        Jan 2016 – May 2016 
+Process Improvement Lead – Transportation 
+(cid:120)  Continuously explored productivity improvement and cost reduction opportunities in the existing transportation process  
+(cid:120)  Developed a new procedure for communicating LTL orders in Ontario and Quebec regions, resulting in over 80% reduction in 
+
+ 
+                                    Toronto, ON 
+                                                   2013 – 2014 
+
+                     
+
+         
+
+         
+
+         
+
+         
+
+         
+
+        
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+delivery issues caused by miscommunications among Customer Service, Supply Chain, and 3rd party carriers 
+
+(cid:120)  Re-designed the Electronic Load Manifest (ELM) application to increase operations efficiency and communication speed among 
+
+ 
+
+manufacturing, distribution, and transportation 
+
+(cid:120)  Led the implementation of trailer seals, a new requirement for load safety, to all trailers used in the Ontario distribution network 
+Logistics Planner – Returnable Packaging, Eastern Canada                 
+(cid:120)  Planned the use, distribution, and inventory of returnable packaging materials for production, distribution, and customer 
+
+         Jan 2015 – Dec 2015 
+
+                        
+
+requirements in the Eastern Canada region and achieved 100% in supply planning accuracy and 99.98% in material fill rate 
+(cid:120)  Managed $3M budget for annual returnable packaging purchases and worked closely with 5 vendors on packaging supplies 
+(cid:120)  Facilitated training in returnable packaging management processes to ensure that roles and responsibilities are understood among 
+
+ 
+
+18 production facilities, 5 co-packers, 8 distribution centers, 6 third party warehouses, 20+ office workers, 30+ independent 
+drivers, and 8 third party carrier companies in the Eastern Canada distribution network 
+
+(cid:120)  Took initiative in managing the delivery of fruitcake, a seasonal product that was not integrated in the supply network, through 
+
+designing transportation routes for transportation, shipping-manifests for distribution, and trip sheets for carriers 
+
+(cid:120)  Supported transportation planning through optimizing both line-haul and store delivery networks, and scheduling carriers to move 
+
+products for the Ontario distribution network 
+
+ 
+UNIVERSITY OF TORONTO  
+Graduate Researcher – Transportation Network Optimization        
+(cid:120)  Developed 5 optimization models that minimized the total distance travelled by all transportation vehicles within a distribution 
+
+ 
+        Toronto, ON 
+       Sept 2013 – Aug 2014 
+
+ 
+        
+
+ 
+        
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+network by optimally matching shippers with carriers using mixed-integer programming 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+  
+
+        
+
+         
+
+         
+
+         
+
+(cid:120)  Tested each model with up to 60 suppliers, 60 products, 60 customers, and 3540 transportation routes via CPLEX Optimizer 
+(cid:120)  Constructed service constraints including supply and demand requirements, carrier capacities, and delivery time requirements 
+ 
+UNILEVER CANADA 
+TPM Continuous Improvement Engineer – Warehousing and Logistics  
+(cid:120)  Worked as the TPM logistics engineer for Unilever Bramalea, a plant that produces dry mix soups, sauces, sides and gravies  
+(cid:120)  Maintained the Bramalea warehouse database through performing inventory cycle counts and inventory adjustments in SAP 
+(cid:120)  Oversaw the outbound delivery of 12 different finished goods from Bramalea plant to 7 U.S. and 1 Canadian distribution centers 
+(cid:120)  Facilitated workshops to up-skill warehouse operators and shippers for procedure changes caused by software upgrades 
+(cid:120) 
+
+Improved the downtime reporting sheet completion from 30% to 95% by streamlining the downtime reporting process for 
+palletizing operations, and reduced over 80% downtimes in palletizing area by fixing the reported downtime issues 
+Initiated and drove the reduction of trailers parked in the Bramalea yard from 150 to 120, resulting in 500k annual savings 
+
+(cid:120) 
+(cid:120)  Conducted analysis on replacing the out-sourced product sticker labelling work with an additional assembly line  
+ 
+ADDITIONAL 
+Legal Status: Canadian Citizen 
+Software: CPLEX, AMPL, SQL, MATLAB, SAS, SAP, Oracle Transportation Management, LeanLogistics 
+Sports: Ping-Pong coach for 2 high schools; Company-wide Foosball Champion at Weston Foods 
+
+                   Brampton, ON  
+      May 2011 – Aug 2012 
+
+ 
+ 
+
+

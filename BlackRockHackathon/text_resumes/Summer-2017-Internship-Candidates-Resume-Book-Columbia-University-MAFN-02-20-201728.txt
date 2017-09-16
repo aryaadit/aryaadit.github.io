@@ -1,0 +1,85 @@
+ 
+
+Haoxin (Hertha) Wang 
+
+159 West 106th St, Apt 1C  • New York, NY, 10025  • hw2551@columbia.edu•  (646)204-0414 
+
+ 
+
+EDUCATION                                                                                                                                                                                                                                                                                                                                                                     
+Columbia University in the City of New York, Master of Mathematics of Finance 
+
+  Expected  February  2018 
+
+ 
+
+•  Coursework: Stochastic Process, Statistical Inference/Time Series, Introduction to the Mathematics of Finance, Multi-asset 
+
+Portfolio management, Hedge Fund Strategies and Risk Management, Fixed Income Portfolio Management 
+
+Beijing Normal University, Bachelor of Economics, Minor in Mathematics 
+
+September  2012  -  July  2016 
+
+•  Coursework: Linear Algebra, Partial Differential Equations, Probability Theory, Statistics, Real Analysis, Econometrics 
+•  Chinese Government Scholarship Holder (Top 0.7%) 
+
+PROFESSIONAL EXPERIENCES                                                                                                                                       
+China International Capital Corporation, Part Time Assistant，Beijing, China 
+
+December  2015  -  March  2016 
+
+•  Assisted building financial models using excel and calculated revenue, growth rate of global games market using WIND.   
+•  Conducted market research of 11 newly emerging Visual Reality companies in China including products and profit model.   
+•  Generated animation movie industry’s daily reports by maintaining news update of first-run animated movies, film-making 
+
+companies, and recorded government’s approval toward newly animation movie.   
+Standard Chartered Bank (China) Limited, Financial Analyst Intern, Beijing, China 
+
+July  -  September  2015 
+
+•  Facilitated client management by classifying liability data in portfolio report and calculating annual investment returns. 
+•  Analyzed conditions and trends of target industry and devised peer comparison report by risk volatility transition matrix 
+
+among clients and their listed peers. 
+
+•  Monitored CGGC’s sanction process from World Bank and drafted risk controlling suggestions which were adopted to help 
+
+maintaining clients’ public impression.   
+
+Ernst & Young Team Leader in Summer leadership program, Beijing, China 
+
+July 2015 
+
+•  Worked out a sales-declining solution for a beverage company by space coordinate system as a team leader, team size 6. 
+•  Presented sales promoting plans and financing strategies for a beverage company, which led to return offer. 
+
+PROJECT EXPERIENCES                                                                                                                                                                     
+Portfolio Management and Hedge Fund Strategies study, New York, NY 
+
+September  2016  -  Present 
+
+•  Managing a simulated $500 million stock and fixed income portfolio and utilizing Bloomberg to update weekly P&L. 
+•  Trading oil using momentum strategy after variance ratio test and push-response test. 
+•  Simulating swap spread arbitrage and statistical arbitrage strategies and implementation using python. 
+
+Regional Undergraduate Research Project, Research Assistant, Beijing, China 
+
+September  2013  -  May  2016 
+•  Evaluated educational expansion policy’ effects on intergenerational income liquidity using difference-in-difference model. 
+•  Analyzed factors determining immigrant families’ children accompanies choices by Multivariate Probit regression model. 
+•  Utilized Stata to combine data within CHNS and CHIP databases.   
+•  Designed quantization standard of questionnaire and issued market development plan on cinema consumption of the elderly. 
+February  2015 
+
+Interdisciplinary Contest In Modeling, Meritorious Winner, Beijing, China 
+
+•  Designed Sustainable Measurement System of 42 countries using principal components analysis and grey prediction. 
+•  Formulated a 20-year sustainable development plan for Nepal using matlab, took risk of earthquake and war into account. 
+
+SKILLS                                                                                                                                                                               
+
+•  Computer Expertise: Python, Matlab, Excel, Stata, Bloomberg; C++ 
+•  Language Ability: English (TOEFL:110 GRE: 326), Mandarin(Native) 
+
+

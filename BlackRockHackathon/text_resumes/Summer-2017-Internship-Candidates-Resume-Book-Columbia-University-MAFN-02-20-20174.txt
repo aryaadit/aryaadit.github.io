@@ -1,0 +1,111 @@
+SHIJIA (GRACE) CHENG 
+
+203 West 108th St, Apt 14, New York, NY, 10025 • (917) 319-1918 • sc3798@columbia.edu 
+
+ 
+
+EDUCATION 
+
+   Columbia University, New York, NY                                                                                    09/2016 – present 
+  Master of Arts; Major/ Mathematics in Finance (MAFN Program);     
+
+Selected Courses: Stochastic Processes and Application; Statistics Inference and Time Series; Capital  
+Markets & Investments; Numerical Methods in Finance; Math Methods- Financial Price Analysis 
+
+  Mount Holyoke College, South Hadley, MA                                                                         09/2012 – 12/2015 
+
+       Bachelor of Arts; Double Majors/ Mathematics and Economics;  
+       Selected Courses: Macroeconomics Theory; Microeconomics Theory; Advanced Corporate Finance; Real 
+
+ 
+
+Analysis; Probability; Survey Research & Data Analysis; Abstract Algebra; Futures and Options; Public 
+Finance; Financial Risk Management 
+
+    Honor: Meritorious Winners in The Mathematics Contest in Modeling 2014 (for top 9% out of 6755 teams    
+
+participating) 
+
+    Society of Actuaries (SOA) Exam P: Passed 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+PROFESSIONAL EXPERIENCE 
+
+   Summer Intern, Zhengzhou Commodity Exchange • Zhengzhou, China                           06/2016 –08/2016  
+o Applied VBA script to realize the daily self-examination of futures contracts’ trading parameters generated 
+from the terminals at the Clearing Department, including the closing prices, settlement prices, volumes, etc. 
+o Assisted classifying irregular trading cases such as self-trading, frequent trading and cancellation, large 
+positions trading and cancellation, irregular money transfer, etc.  
+o Notified irregularly trading members by making phone calls, sending paper warnings, requesting supporting 
+materials, and freezing accounts. 
+o Independently researched the membership, position limit, and clearing systems within CME Group and 
+wrote 40-page report to assist the Exchange expanding its member system for foreign member firms 
+
+ 
+
+ 
+
+ 
+
+Accounting Assistant, CGMAX Design Corp • New York City, NY                                     03/2016 – 05/2016     
+o Identified financial status of potential clients, maintained client database by entering and verifying data 
+    Summer Intern, Industrial Bank Co., Ltd • Zhengzhou, China                                             06/2014 – 08/2014 
+o Assisted writing 111-page project-initialization plan to finance $320,000,000 for ShenHuo Coal Company 
+o Sold derivatives attracting $650,000 deposits as an Assistant Product Manager 
+ PROJECTS 
+The Application of KDJ Trading Strategy, Columbia University (Fall 2016) 
+o Collected data of S&P 500 index prices, programmed and constructed KD, KDJ, Golden Cross & Death 
+Cross models using R, simulated strategy models and compared with passive Buy-and-hold strategy, and 
+analyzed graphical and numerical results 
+
+ 
+
+ 
+
+o 
+
+ 
+
+ 
+ 
+     
+
+Research on the Impact of a Working Mother on Her Family, Mount Holyoke College (Spring 2014)  
+o Conducted surveys, acquired data from the General Social Survey, processed data with SPSS, and wrote 20-
+page research paper  
+
+ 
+ 
+
+ Forte College 2 Business Leadership Competition, New York, NY (Spring 2014) 
+o Executed business simulation using Marketplace® as a manager of a start-up company 
+The Mathematics Contest in Modeling, Mount Holyoke College (Winter 2014) 
+o Designed algorithm using Matlab, proposed models using Analytic Hierarchy Process (AHP) and Pair 
+Comparison in the traditional ranking methods after collecting and processing data through online research 
+SKILLS 
+Programming: 
+Language:           Native Mandarin, fluent English, elementary German 
+Interest:              Traveling, Tango, Salsa, Chinese Folk Dance, Painting, Photography, Movies, Fashion 
+
+ Bloomberg Terminal , Java,  Matlab, Microsoft Excel VBA, R, SPSS, Stata,  
+
+

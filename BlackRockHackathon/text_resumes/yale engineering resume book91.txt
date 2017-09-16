@@ -1,0 +1,66 @@
+Post-Docs
+
+ALESSANDRO RONCONE, Ph.D.
+Personal Website: http://alecive.github.io
+PERSONAL SUMMARY
+
+E-Mail: alecive87@gmail.com, alessandro.roncone@yale.edu
+
+The central motivating theme of my research is endowing robots with enough communication, perception and
+control capabilities in order for them to proficiently interact with humans in practical, near future applications. I
+develop technologies that equip robots with the skills to partner with humans in their daily activities, with the aim
+of eventually replacing them in dangerous, repetitive or burdensome tasks. Importantly, my goal is not to advance
+the state of the art in a specific area. Rather, I explicitly focus on capitalizing the state of the art in perception,
+control and human-robot interaction and to shape the research landscape toward the development of technologies
+that enable close, natural, extended cooperation with humans.
+
+My research has spanned multiple fields, bridging the gap between robotics, human robot interaction, and
+artificial intelligence. Over the years, I have worked on i) exploring the breadths of how tactile systems can improve
+perception in the nearby space, ii) implementing state of the art control systems for humanoid robots, and iii)
+investigating how communication can steer and improve human-robot collaborative tasks.
+EDUCATION
+
+PH.D. IN ROBOTICS (2012-2015) - ISTITUTO ITALIANO DI TECNOLOGIA, GENOVA, IT
+
+■ Thesis title: “Expanding sensorimotor capabilities of humanoid robots through multisensory integration. A study on the
+implementation of peripersonal space on the iCub.”
+
+MSc (110/110 SUMMA CUM LAUDE) IN NEUROENGINEERING (2008-2011) - UNIVERSITY OF GENOA, IT
+
+■ Thesis title: “Visuo-Haptic Integration for Object Characterization in an Unstructured Environment.”
+
+BSc (110/110 SUMMA CUM LAUDE) BIOMEDICAL ENGINEERING (2005-2008) - UNIVERSITY OF GENOA, IT
+
+■ Thesis title: “Support Vector Machine Analysis applied to a Manipulator in a Non-Structured Environment.”
+
+Student (WITH SCHOLARSHIP) (2005-2008) - ISICT - Institute for Advanced Studies in ICT
+
+RELEVANT EXPERIENCE
+
+2015-present - POSTDOCTORAL ASSOCIATE - SOCIAL ROBOTICS LAB, COMPUTER SCIENCE DEPARTMENT,
+YALE UNIVERSITY, NEW HAVEN, CT, USA
+
+I am focusing on the development of bidirectional, natural communication between the robot and the human in
+the context of human-robot collaborative tasks. I am working toward the implementation of a more natural and
+intuitive interaction, in order for it to be more efficient and effective, as well as less demanding for the human
+partner.
+2010-2015 - ICUB FACILITY - ISTITUTO ITALIANO DI TECNOLOGIA, GENOVA, IT
+
+I was interested in the exploitation of the peripersonal space model I implemented during my Ph.D., by focusing
+toward two types of applications: i) better, richer body representations ii) distributed motor control via whole-body
+awareness. Furthermore, I extended the gaze stabilization framework I developed during my Ph.D. by integrating it
+with an existing gaze controller. I was also contributing to a human-robot interaction project aimed at developing
+natural interaction(s) between the iCub humanoid robot and humans.
+
+SELECTED PUBLICATIONS
+
+■ A. Roncone, O. Mangin, B. Scassellati. Transparent Role Assignment and Task Allocation in Human-Robot
+Collaboration. In 2017 IEEE Int. Conf. Robotics and Automation - ICRA ‘17.
+■ H. Lehmann, A. Roncone, U. Pattacini, G. Metta. Physiologically Inspired Blinking Behavior for a Humanoid Robot. In
+2016 Int. Conf. On Social Robotics - ICSR ‘16.
+■ A. Roncone, U. Pattacini, G. Metta, L. Natale. A Cartesian 6-DoF Gaze Controller for Humanoid Robots. In 2016
+Robotics: Science and Systems Conference - RSS ‘16.
+■ A. Roncone, M. Hoffmann, U. Pattacini, L. Fadiga, G. Metta. Peripersonal space and margin of safety around the body:
+learning tactile-visual associations in a humanoid robot with artificial skin. PLOS ONE, 2016.
+
+

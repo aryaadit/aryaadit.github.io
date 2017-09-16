@@ -1,0 +1,111 @@
+3550 Bayside Walk #306, San Diego CA, 92109 •  (303) 918-8924 •  harryschmachtenberger@gmail.com 
+
+Harrison S. Schmachtenberger
+
+EDUCATION 
+
+University of San Diego 
+BS in Mechanical Engineering 
+
+GPA: 3.85 | Major GPA: 3.96 
+
+San Diego, CA 
+Expected May 2017 
+
+SKILLS         
+
+Software 
+Hardware  Machine Shop Fabrication, Carpentry, 3D-Printing, Laser-Cutting, Soldering 
+
+SolidWorks, Python, LaTeK, MATLAB, Microsoft Office Suite, Final CutPro, Adobe Premiere 
+
+WORK EXPERIENCE    
+Illumina Inc. 
+NextSeq Airflow Enhancement 
+
+Systems Integration Engineering Intern 
+
+Summer 2016 to Present 
+
+Assembled and tested configuration to improve thermal regulation and contamination prevention 
+Created MATLAB and Python programs to parse firmware logs and analyze thermal profile data 
+Improved configuration has projected savings of approximately $22 Million in remediation costs 
+Validated improved hardware configurations through data collection and documentation 
+
+Used Solidworks to design parts for retrofitting and backwards compatibility 
+Created drawings and purchase orders for above mentioned designs to provide manufacturers with 
+Wrote MATLAB functions to predict potential machine or operator error through data visualization 
+
+HiSeq Sustaining 
+
+Telaeris Inc. 
+USB-180 
+
+Mechanical Engineering Intern 
+
+Summer 2015 to Fall 2015 
+
+Designed plastic PCB enclosures using SolidWorks and 3D printing 
+Conducted relevant patent search then drafted and filed US patent for the above mentioned design 
+
+Simple Seat, Better Lives 
+Integrated Crutch and Walker 
+
+Founder and Project Manager 
+
+Spring 2015 to Present 
+
+Design, construct, and test assistive devices to alleviate social stigmas and physical limitations faced by landmine 
+survivors in Lira, Uganda while using the pit-latrine 
+Orally present project at fundraising competitions 
+Prototype and iterate over designs through CAD as well as physical construction and modification 
+
+USD Engineering 
+Spent Nuclear Fuel Uncertainty Quantification 
+
+Undergraduate Researcher 
+
+Fall 2014 to Present 
+
+Analyzed heat transfer simulations from ANSYS-FLUENT using MATLAB and Uncertainty Quantification to 
+characterize effects of non-constant system properties on thermal distributions in Spent Nuclear Fuel assemblies 
+
+LEADERSHIP ROLES    
+Tau Beta Pi Alpha Epsilon 
+USD Mortar Board No. 216 
+Theta Tau, Zeta Colony 
+
+HONORS AND AWARDS       
+Goldwater Scholar Honorable Mention 
+Pi Tau Sigma  
+Social Innovation Challenge Winner 
+Essay Contest Winner 
+
+PRESENTATIONS          
+Turbulent Shear Flow 
+Alternative Critical Thinking 
+James Watt: Historical Biography 
+
+Vice-President 
+Vice-President of Membership 
+Founding Father and Vice-President 
+
+Spring 2016 to Present 
+Spring 2015 to Fall 2016 
+Spring 2015 to Fall 2015 
+
+Goldwater Scholarship Program  
+Mechanical Engineering Honors Society 
+Simple Seat, Better Lives 
+Kanetix Starving Student Scholarship 
+
+Spring 2016 
+Spring 2016 
+Spring 2015 
+Spring 2014 
+
+Poster at 2015 AASPD Conference, 2015 & 2016 Creative Collaborations 
+Poster at 2015 AASPD Conference, 2015 Creative Collaborations 
+Poster at 2015 Creative Collaborations 
+
+

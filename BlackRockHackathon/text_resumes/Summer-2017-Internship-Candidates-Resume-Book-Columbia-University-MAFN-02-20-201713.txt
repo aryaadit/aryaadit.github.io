@@ -1,0 +1,96 @@
+Mengyu (Renee) Huang 
+
+500W 110th St, Apt 4B, New York, NY, 10025 | (929)208-8980 | mh3658@columbia.edu | linkedin.com/in/hmy0823 
+ 
+
+Location of Preference: Anywhere | 36 Month STEM OPT Extension 
+
+EDUCATION                                                                               
+
+ 
+
+Columbia University, Department of Mathematics                                                                          Expected Dec.2017 
+MA in Mathematics in Finance                                                                                                                                                       
+
+Xiamen University, Xiamen, China                                                                                                Sep. 2012 - July 2016 
+BS in Financial Engineering (Cumulative GPA: 3.92/4.0, Rank 1/160)                  
+Honor: National Scholarship (1%), University Scholarship (1%), Dean’s List Prize (four times) 
+
+     
+
+   
+
+ 
+
+ 
+
+University of California, Los Angeles                                                                                                  Aug. - Dec. 2015 
+Summer & Fall Exchange (GPA: 4.0/4.0)           
+
+University of  Southampton, Southampton, UK                                                                                  Jan. - June 2016 
+Spring Exchange (All course passed with A; Sponsored by National Education Awards) 
+
+SKILLS                                                                                                                                                                               
+
+Programming: Proficient in C++, R, Matlab, Python, Excel VBA, Basic Knowledge about data Structure, SQL 
+  Math: Stochastic, Numerical Method, Time Series Analysis, Linear Models, Statistical Modelling, PDE 
+  Machine Learning: Logistic regression, Decision Tree, LDA, QDA, knowledge about SVM, Neural Network 
+  Finance: Financial Engineering, Hedge Fund Strategy, Fixed Income, Risk Management, Advanced Accounting 
+
+PROFESSIONAL EXPERIENCE                                                                                                                                                               
+
+ 
+
+                                                                                                          London, UK 
+Blooming Founders 
+Spring Intern, Project Research                                                                                              Mar. - June 2016 
+  Performed research on China Tech Map, a branch project of Tech London Advocates, to illustrate tech-startup 
+ecosystems in China, in order to help UK tech-startups enter the Chinese market 
+  Designed and implemented a proprietary database (SQL) 
+  Produced powerful data visualization to show detailed distribution of Chinese start-ups (Tableau) 
+CITIC-PRUDENTIAL Fund Management Co., LTD                                                                      Shanghai, China     
+Summer  Analyst,  Quantitative  Research                                                                                June  -  Aug.  2015   
+  Assisted with drafting the promotional copy of a new Index-Enhanced Fund QFII product 
+  Calculated the historical performance of the product and drew comparisons with other funds (VBA) 
+  Wrote programs to keep track with daily stock positions and calculate daily P&L (MATLAB) 
+  Developed trading strategies by translating ideas investigated in structured funds research papers, and 
+performed back-testing on said strategies (MATLAB) 
+School  of  Economics,  Xiamen  University                                                                                        Xiamen,  China   
+Research  Assistant                                                                                                          Mar.2014  –  June  2015 
+  Collaborated with a professor on the publication The Structural Change of Import and Export Before and After 
+the Financial Crisis in China and presented at the 2014 China Quantitative Economics Meeting 
+  Utilized the GARCH model to describe and forecast volatility of the RMB exchange rate (R) 
+  Helped professor with data collecting and cleaning for the West-Strait Economic Zone Development Report. 
+
+PROJECT EXPERIENCE                                                                                                                                                         
+
+Empirical Analysis of Trading Strategy using Multi-factor Model (MATLAB)                            Mar. - June 2016 
+  Created a factor-pool after identifying the industry, style and specific factors taken into the model. Applied 
+
+Stepwise Regression algorithm for factor selection and model simplification 
+
+  Used Fama-Macbeth Two-step Regression to find out factors with great risk premium and sort out alpha factor   
+  Backtested the strategy in China market (annualized return two times the index) and identified that size factor 
+
+(market capital) has the most significant risk premium   
+
+Machine Learning - Analysis of Human Activity Recognition (R)                                                May - June 2015 
+  Applied machine learning algorithms to the exercise data collected from Weight Lifting Exercises Dataset to 
+
+predict the manner in which people did the exercise 
+
+  Split data based on 4-fold Cross-Validation and applied random forest algorithm to the prediction (Accuracy 
+
+83.5%) 
+
+EXTRA-CURRICULAR EXPERIENCE & INTERESTS                                                                                                                                                     
+
+The University of Southampton 2016 Catalyst Challenge (The Winning Team)                                          Apr. 2016 
+2015 Annual International Leadership Alumni Conference                                        San Francisco, CA, Aug. 2015 
+  Delivered speeches on the role females play in Leadership during the final presentation, as well as participated 
+
+in a role play presentation entitled Empowering Leadership through Self Growth; Organized the dinner party 
+
+Interests: Debate (Best Debater at Xiamen University), Poker, Painting, Cooking, Golf, Marathon 
+
+

@@ -1,0 +1,82 @@
+155 Claremont Avenue, Apt 563, New York, NY 10027 (cid:107) 917-497-6919 (cid:107) ly2393@columbia.edu
+
+LAN (ALICE) YU
+
+New York, NY
+Expected Dec. 2017
+
+Beijing, China
+July 2016
+July 2016
+
+Berkeley, CA
+July 2014 - Aug. 2014
+
+EDUCATION
+Columbia University
+M.A. in Mathematics of Finance, Graduate School of Arts and Sciences
+Coursework: Hedge Fund, Programming for Quantitative and Computational Finance (C++), Stochastic Process, Time Series
+Peking University
+B.A. in Finance, School of Economics, Cumulative GPA: 3.60/4.00, Major GPA: 3.74/4.00
+B.S. in Statistics, School of Mathematical Sciences, GPA: 3.65/4.00
+Coursework: The C Programming, Probability, Applied Stochastic Processes, Statistics, Theory of Dynamic Optimization
+University of California, Berkeley
+Summer Session, Haas School of Business, GPA: 3.95/4.00
+INTERNSHIP EXPERIENCE
+Guotai Jun’an Security, Fixed Income Department
+Beijing, China
+Analyst Intern
+Dec. 2015 - Feb. 2016
+• Analyzed long-term relationship between US 10 year Treasury Yield and China 10 year Government Bond Yield by conducting
+cointegration test using SAS and discovered a long-term cointegration between them, based on a 5 year dataset
+• Assisted in generating daily trading limits by calculating VaR for convertible bonds trading in C++
+• Conducted macro-economy/industry and companies’ background analysis to avoid credit risk using Bloomberg
+• Collaborated daily bond trading by creating macroeconomic reports and related company ﬁnancial reports
+Rongtong Fund, Quantitative Investment Department
+Desk Quant Intern
+• Intra-day traded Shangzheng 50B ETF for one month using discretionary strategy, with 3.5% daily return
+• Performed back-testing with historical data and Monte Carlo simulation to evaluate trading strategies using C++
+• Reﬁned trading strategies by conducting out of sample tests and analyzing the effects of transaction costs
+• Assisted in selecting regressors in multivariate linear regression model; improved it using MSCI-Barra PartfolioManager
+• Constructed Shangzheng 50 ETF option’s implied volatility surface in C++
+Huatai Security, Quantitative Trading Group
+Quantitative Research Summer Intern
+• Supported daily premium/discounts arbitrage system by updating stock proportion of target funds
+PROJECT EXPERIENCE
+Predicting the Movement of Shanghai Composite Index Based on Support Vector Machine (Group Project)
+• Extracted feature vectors based on corporate ﬁnance; conducted saliency analysis to reduce the feature dimension down to 4
+• Trained SVM regression model to predict Shanghai Composite Index based on the features of the previous day in a time
+• Implemented the system in C++ with libsvm
+Essential Impact Factors of Credit Spread in Chinese Bond Market (Group Project)
+• Applied multiple regression and ARCH model to determine percentage impact of each factor using SAS
+• Honorable Mention in Challenge Cup, Peking University
+LEADERSHIP & ACTIVITIES
+Vice President, Finance and Investment Association
+Class Monitor, Finance Department, School of Economics, Peking University
+SKILLS & INTERESTS
+Programming Languages C/C++, Python (NumPy, Scikit-Learn), Matlab, SAS
+
+Beijing, China
+June 2015 - Sept. 2015
+
+expansion of a year
+
+Beijing, China
+Oct. 2015 - Dec. 2015
+
+Apr. 2015
+
+Sept. 2014
+Sept. 2014
+
+Feb. 2015
+
+Tools & Platforms
+Interests
+
+“C++ Programming for Financial Engineering” certiﬁcate with distinction
+by the Baruch MFE program, Datasim Education BV and Quant Network LLC
+Mac OS, vim/gcc, Microsoft Visual Studio, LaTeX, MySQL
+Hiking, Squash, Cooking (Traditional Chinese Food)
+
+

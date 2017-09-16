@@ -1,0 +1,76 @@
+Teaching experience 
+
+Served as a teaching assistant for the graduate Thermodynamics class in chemical engineering. 
+
+ 
+Dept. of Chemical & Biomolecular Engineering, University of Delaware (Fall 2014 and 2015) 
+Graduate Teaching Assistant 
+- 
+-  Lectured two modules: multicomponent solutions and partial properties 
+ 
+Dept. of Chemical Engineering, UIS (2010 - 2012) 
+Undergraduate Teaching Assistant and Grader 
+- 
+
+Served  as  a  teaching  assistant  and  grader  for  the  undergraduate  Thermodynamics  II  class  in 
+chemical engineering under Prof. L.J. López-Giraldo guidance. 
+
+-  Lectured two modules: heat engines and liquid-vapor phase equilibrium. 
+
+ 
+
+Publications 
+
+ 
+Calero-Rubio, C.; Paik, B.; Jia, X.; Kiick, K.L.; Roberts, C.J. Predicting Unfolding Thermodynamics and 
+Stable Intermediates for Alanine-Rich Helical Peptides with the Aid of Coarse-Grained Molecular 
+Simulation. Biophys. Chem. 2016, 217, 8–19. 
+
+Calero-Rubio,  C.;  Saluja,  A.;  Roberts,  C.  J.  Coarse-Grained  Antibody  Models  for  “weak”  Protein-
+Protein  Interactions  from  Low  to  High  Concentrations.  J.  Phys.  Chem.  B  2016,  120  (27),  6592–
+6605. 
+
+Ghosh,  R.;  Calero-Rubio,  C.;  Saluja,  A.;  Roberts,  C.J.  Relating  Protein-Protein  Interactions  and 
+
+Aggregation Rates from Low to High Concentrations. J. Pharm. Sci. 2016, 105 (3), 1086–1096. 
+
+Calero-Rubio,  C.;  Stashenko,  E.;  Martínez,  J.R.;  López-Giraldo,  L.J.  Formulation  of  a  New  Generic 
+Density-Based Model for Modeling Solubility of Polyphenols in Supercritical Carbon Dioxide and 
+Ethanol. J. Supercrit. Fluids 2014, 85, 116–122. 
+ 
+
+Selected presentations 
+
+ 
+C. Calero-Rubio, R. Ghosh, A. Saluja, C. J. Roberts. Predicting high-concentration antibody interactions 
+
+with coarse-grained molecular modeling. ACS Spring National Meeting, San Diego, CA (2016). 
+
+C.  Calero-Rubio,  B.  A.  Paik,  X.  Jia,  K.L.  Kiick,  C.  J.  Roberts.  Unfolding  thermodynamics  of  helical 
+
+peptides. ACS Spring National Meeting, San Diego, CA (2016). 
+
+M.  A.  Woldeyes,  C.  Calero-Rubio,  E.  M.  Furst,  C.  J.  Roberts.  How  predictive  are  protein-protein 
+interactions of elevated viscosity for protein solutions? ACS Spring National Meeting, San Diego, 
+CA (2016). 
+
+ 
+
+Skills 
+
+ 
+Computer programming: Fortran 95, C++, Python, Matlab, Mathematica, VBA 
+Molecular  scale  simulations:  Transition  Matrix  Monte-Carlo,  Replica  Exchange  Molecular 
+
+Dynamics, Discrete Molecular Dynamics, Mayer Sampling, Monte-Carlo, Molecular Dynamics 
+
+Scattering  measurements:  Small-Angle  Neutron  and  X-ray  Scattering  (SANS,  SAXS),  Static  and 
+
+Dynamic Light Scattering (SLS, DLS), Simultaneous Multiple Sample Light Scattering (SMSLS) 
+
+Chromatographic characterizations: HPLC-SEC, HPLC-SEC-MALS, HPLC-HIC, GC-MS, LC-MS 
+Physicochemical  characterizations:  Differential  Scanning  Calorimetry  (DSC),  Partial  Specific 
+
+Volume estimation via density measurements, protein solubility, Circular Dichroism (CD). 
+
+

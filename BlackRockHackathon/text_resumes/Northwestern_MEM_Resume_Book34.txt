@@ -1,0 +1,77 @@
+Page 2 
+
+Mechanical Engineer, Engendren Corporation (Formerly IEA, Inc). (Kenosha, WI) 
+
+August ‘08 to March ‘13 
+Engendren  is  an  industry  leader  in  offering  innovative  cooling  solutions  for  large-scale  engines  used  for 
+power generation. Engendren’s product line is one of the most diverse of any major radiator manufacturer in 
+North America. It also offers modular data centers for cloud computing through its subsidiary Silver Linings, 
+LLC.  
+
+Primary  responsibilities  included  using  CFD  &  FEA  tools  to  help  design  engineers  in  the  product 
+development process. Developing heat transfer products from concept to production.   
+
+ New product development of heat transfer and electro-mechanical products
+
+ Design for manufacturing, dFMEA
+
+
+
+
+
+Product testing & validation
+
+Robust product development using DOE & statistical methods
+
+Education 
+Master of Engineering Management, Northwestern University, Evanston IL         
+
+Master of Mechanical & Aerospace Engineering, Illinois Institute of Technology, Chicago, IL 
+
+Bachelor of Engineering, University of Pune, India
+
+Certificate in Fatigue & Fracture Mechanics in FE Analysis, NAFEMS       
+
+Certificate in Basic & Advanced Dynamics, NAFEMS 
+
+Certificate in ‘CFD Based Thermal Management of Electronics Systems, Waveaxis, India
+
+   Present 
+
+May ‘08
+
+August ‘05
+
+  Nov ‘ 12 
+
+May ‘12
+
+Nov’05
+
+Technical Skills 
+ Finite Element Analysis, Computational Fluid Dynamics using SolidWorks
+
+ Statistical Analysis, DOE using JMP, Excel, Minitab
+
+ Machine Learning algorithm, analytics using JMP, Tableau, Weka
+
+ Project valuation, risk analysis using @Risk
+
+Conferences and Presentations 
+ ‘Analyzing Perforated Sheets using Equivalent Modeling Technique’, SolidWorks Users Group
+
+ ‘Silver Linings’, Keynote Guest Speaker, Graphics Systems Users’ Conference
+
+ 2011 
+
+ 2011 
+
+ ‘Using SolidWorks for Innovative Product Development’, Keynote Guest Speaker, Graphics Systems Users’
+2010
+
+Conference 
+
+Patents 
+Four on lighting fixture design, thermal management of lighting fixtures, some pending 
+
+

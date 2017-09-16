@@ -1,0 +1,131 @@
+William Sun 
+
+  Front End Software Developer 
+
+SENIORS
+
+646.932.0089 
+  
+   williamjinsun@gmail.com 
+github.com/WillTheSun 
+  
+
+ 
+
+EDUCATION 
+B.S. in Computer Science, 
+Yale University 
+expected May 2017 
+Coursework:  
+▪  Algorithms 
+▪  Data Structures 
+▪  Linear Algebra 
+▪  Discrete Math 
+▪  Operating Systems 
+▪  Databases 
+▪  Systems Programming & 
+Computer Architecture 
+
+▪  Natural Language Processing 
+▪  User Interface Design 
+▪  Graphic Design 
+
+SKILLS & LANGUAGES 
+
+   
+
+▪  C 
+▪  Python  
+▪  SQL (familiar) 
+▪  Javascript (React, Node) 
+▪  Bootstrap 
+▪  Lightroom 
+▪  UI Design 
+▪  Mandarin (proficient) 
+
+About Me 
+
+   
+
+▪  Strong technical background, 
+compiled by caffeine, classes, 
+and plenty of personal 
+projects  
+
+▪  Recipient of seven academic 
+scholarships worth $200,000 
+▪  Unconventionally resourceful 
+▪  Broad range of travels, 
+
+experiences, and hobbies 
+▪  Leadership in volleyball, 
+
+cultural groups, and 
+extracurricular clubs 
+
+ 
+
+WORK EXPERIENCE 
+Data Analyst 
+Yale University (New Haven, CT), May 2017 - Present  
+
+▪  Scraped 4000 articles from school news archives using NodeJS/AJAX 
+▪  Formatted data with regex and managed with PostgreSQL database 
+
+Front End App Developer 
+YouFood (San Francisco, CA), June 2015 – Sep 2015 
+
+▪  Revamped highest rated iOS health app by implementing new search, 
+
+feed, profile and onboarding pages using Titanium, a hybrid JS 
+framework 
+
+▪  Pushed weekly scrum updates to Android and iOS user base of 
+
+200,000 
+
+▪  Structured A/B tests of onboarding screens and feed 
+
+recommendations 
+
+Digital Graphics Intern 
+Jet Propulsion Lab (La Canada, CA), May 2012 – Aug 2012 
+
+▪  Generated high-res 3D models charting the Curiosity Rover’s 
+
+trajectory 
+
+▪  Presented mission updates to delegates from CNN, Wired, and Google 
+
+EXTRACURRICULARS 
+Chief of Technology 
+Yale University Yale Diversified Investments, Aug 2014 – Jun 2015 
+▪  Cut check-in times 90% for Yale’s largest club (203 members) using 
+
+QR-code attendance system 
+
+▪  Designed and implemented Bootstrap website (www.yaleudi.com)  
+
+Business Analyst 
+AIESEC (New Haven, CT), Dec 2013 – Jan 2015 
+
+▪  Created internship and J1 visa for exchange program through cold 
+
+calls 
+
+PROJECTS 
+Shopping Catalog – React.js and Boostrap 4 
+
+▪  Responsive site with customer storefront, real-time shopping basket, 
+
+and inventory management 
+
+Momentum Trading Script - Python  
+
+▪  Produced estimated gains 3.92% above replacement on Apple Stock 
+
+Lempel-Ziv-Welch Compression -  C 
+
+▪  compresses GIFs and videos up to 5:1 ratio, lossless 
+
+SeniorsM.S.Ph.D.Post-DocsUndergraduates Seeking Internships

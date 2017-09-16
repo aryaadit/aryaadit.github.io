@@ -1,0 +1,216 @@
+Siyuan Li 
+
+424W Cathedral Parkway, 10A, New York, NY, 10025 | +1 (646)-236-0203 | sl4072@columbia.edu 
+
+EDUCATION 
+
+Columbia University, Graduate School of Art and Science    
+
+ 
+
+                      
+
+Master of Arts in Mathematics of Finance 
+
+ 
+
+ 
+
+               
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  New York, NY                                                                   
+
+  Expected Dec. 2017 
+
+  Coursework:  Programming  for  Quant(A),  Time-series  Modelling(A),  Hedge  Fund  Strategies,  Stochastic 
+
+Method, Numerical Methods in Finance, Non-linear Option Pricing, Multi-Asset Portfolio Management   
+
+FRM Certification 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    May 2016                                                                                                               
+
+Sichuan University, School of Economics                                                                                      Chengdu, China                                                                                         
+
+Bachelor of Science in Finance (GPA: 3.9/4 Top 5%)             
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            Jul. 2016 
+
+  Honors: Sichuan University Outstanding Graduand, Lixin Tang Scholarship (The youngest winner in China)   
+
+WORKING EXPERIENCE 
+
+Omnivest Consulting   
+
+ 
+
+ 
+
+Data Science Intern  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  New York, NY 
+
+        2016/11-Present 
+
+  Constructed time series models to predict short-term price interval of all the stocks on U.S. market weekly 
+
+and provided trading suggestions to client based on our predicting result. 
+
+  Constructed  predicting  model  to  forecast  the  potential  conflicts  between  certain  areas  using  deep  learning 
+
+method, with an accuracy over 88%. Promoted it to insurance industry and U.S. government. 
+
+China Fortune Securities                                                                                                                Shanghai, China 
+
+Quantitative Analysis Intern | Asset Management Department                                            2015/07-2015/10 
+
+  Backtested the performance of three quantitative trading strategies based on the data from Chinese market.   
+
+  Processed 2.8 billion high frequency trading records with Python, which are 1-mininte data between 2000 and 
+
+2016 of over 2800 stocks in Chinese market and found out the improper parameter of the classis model. 
+
+  Modified the parameters by dynamic programming and generated a new model, with annual return over 50% 
+
+PROJECTS 
+
+Algorithmic Trading Project based on Times Series Modelling, Columbia University                          Oct. 2016 
+
+  Forecasted  the  value  of  S&P  using  ARMA  (p,  q)-GARCH  (1,  1),  5-layer  Neural  Network,  Loess  Method 
+
+respectively on a daily basis and used the forecast value as the indicator for trading signal.   
+
+  Generated over 250% profit during testing period when backtesting the trading methods with daily data from 
+
+2000 to 2016 and found out the ARMA-GARCH strategy had the highest return rate. 
+
+Excel Functions Development in C++, Columbia University                                                                  Nov. 2016 
+
+  Developed the solver of BSM pricing model for European options and implemented it in Excel to price the 
+
+options of 500 stocks in S&P index. 
+
+  Developed pricing functions for FRA, Interest-rate Swap and Zero-coupon Bond respectively. 
+
+SKILLS 
+  Programming: Python(Advanced), C++, R, VBA, MATLAB 
+
+  Certifications: FRM, BEC Higher, Chinese Futures Investment Analyst, GRE 329 (V159+Q170) 
+
+

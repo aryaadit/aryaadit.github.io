@@ -1,0 +1,82 @@
+Tel: (917) 770-9024    Email: zy2260@columbia.edu 
+
+ZI YE 
+
+EDUCATION 
+  Columbia University in the City of New York 
+
+MA in Mathematics of Finance (Sept. 2016 – Dec. 2017, expected)   
+
+New York, NY 
+
+•  Courses:  Time  Series  Modeling  (ARMA,  ARCH/GARCH),  Stochastic  Calculus  (martingale  &  stopping  time 
+theory),  Programming  for  Quant  (C++),  Numerical  Methods  for  Finance  (VBA,  Cubic  Spline,  etc.),  Statistical 
+Methods (R), Stochastic Methods (optimal stopping problems), Fixed Income PM (RM, Bloomberg) 
+
+•  Fixed Income PM Project, Supervisor: Rosanna Brizio, Head of FI, Intesa Sanpaolo Bank (Sept.–Dec. 2016):   
+Managed a bond portfolio under risk restrictions, hedged the portfolio with swaps and futures, rebalanced using 
+strategies and bets on market and gained profit of 0.86% within two and a half months. 
+VIX Trading Strategy Project, Supervisor: Prof. Mikhail Smirnov (Dec. 2016) 
+Designed  an  everyday-rebalancing  VIX  strategy  to  signal  excessive  fear  or  greed  in  the  stock  and  commodity 
+market, the cumulative returns of which outperformed benchmarks 6.5% and 21% annually in our back test. 
+
+  Tsinghua University (Graduate with Honors) 
+
+Beijing, China 
+
+BS in Mathematics and Applied Mathematics (Double Major, Sept. 2013 – Jul. 2016) (GPA: 85.5/100) 
+BS in Built Environment and Equipment Engineering (Aug. 2012 – Jul. 2016) (GPA: 89.4/100) 
+
+•  Courses:  Probability  Theory,  Statistical  Inference  (R),  Linear  Regression,  Numerical  Methods,  Real  Analysis, 
+
+Complex Analysis, Ordinary Differential Equations and Partial Differential Equations. 
+
+•  Tsinghua University Scholarship of Academic Excellence (top 5%, 2013, 2014), Regional Outstanding for High 
+
+School Mathematical Contest in Modeling (HiMCM 2011), Honorable Mention for MCM (2015) 
+
+SKILLS   
+  Programming & Software: Matlab, R, Python, C++, VBA, Java, LaTeX, Excel, PPT, Bloomberg Terminal 
+
+Certificate:                            CFA Level I Candidate 
+Interest:                              Swimming, Travelling, Violin, Japanese Culture, Ancient Chinese Poem 
+
+PROFESSIONAL EXPERIENCE 
+
+Beijing Caigin Information Technology Company Ltd. (Java) 
+Quantitative Strategy Analyst, Part-time Intern (Sept. 2015 – Feb. 2016) 
+
+Beijing, China 
+
+•  Modeled the random distribution of the prices of sample stocks and ETFs, including evaluating systematic risk of 
+
+an asset portfolio by matrix analysis using Java. 
+
+ 
+  DV Trading, LLC. (C++) 
+
+•  Backtested a multi-factor asset allocation optimization model by simulating cumulative yields. 
+  New York, NY 
+
+Assistant Research Intern; Supervisor: Ali Hirsa (Feb. 2017 – May 2017) 
+
+• 
+
+(Expect to) build and test a model concerning the relative impact of the trading of one asset on another (In progess) 
+
+PROJECTS 
+  Optimization of the Control and Treatment of Ebola Virus (2015 MCM/ICM Contest) (Matlab) 
+
+•  Optimize through four systems (disease spread prediction, drug production, virus allocation and drug delivery). 
+
+A New Recognition Algorithm for Household Appliance Based on the Bayes Classification (Matlab) 
+
+• 
+
+Invented independently a new algorithm based on Bayes classification and feature extraction of occupant behavior. 
+An Application of Artificial Neural Network in Heat, Ventilation and Air Conditioning (HVAC) (Matlab &Simulink) 
+•  Designed  an  artificial  neural  network  algorithm  along  with  a  relative  heating  model  to  control  a  room’s 
+
+temperature to a certain range with high precision as quickly as possible. 
+
+

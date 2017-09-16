@@ -1,0 +1,115 @@
+Fangyu (Edward) Qu 
+
+125 W 109th St, Apt 7L, New York, NY 10025  
+
+(917) 497-5345  | fq2141@columbia.edu  | linkedin.com/in/edwardqu 
+
+EDUCATION 
+
+Columbia  University,  Department  of Mathematics 
+MA in Mathematics  of Finance;; 
+  Coursework: Stochastic Processes and Applications, Statistical Inference and Time  - Series Modeling, Introduction to the 
+Mathematics of Finance, Hedge Funds Strategies & Risk, Data Mining, Numerical Methods In Finance, Programming For 
+Quant& Computational Finance, Stochastics Methods in Finance. 
+
+New York, NY 
+Expected  Feb. 2018 
+
+Sun Yat - sen  University,  School of Mathematics 
+BS in Mathematics (GPA 3.6/4.0); minor in Finance; 
+  Coursework:  Mathematical Analysis, Stochastic  Processes,  Probability,  Statistics, C++, Differential Equations. 
+  Honor: Merit-based Scholarship (top 5%); Meritorious Winner in US Mathematical Contest in Modeling (top 13%); BNP 
+
+Guangzhou,  China 
+Sep. 2012 - May. 2016 
+
+Paribas Ace Manger Challenge (top 8%). 
+
+University of California, Berkeley  
+Summer Exchange Student (GPA 4.0/4.0) 
+  Coursework:  Investments. 
+
+PROFESSIONAL  EXPERIENCE 
+
+Guangzhou Global Asset Management, Co. 
+
+Berkeley, CA 
+Jul. - Aug. 2015 
+
+Guangzhou, China 
+
+Winter  Intern,  Financial Engineering Analyst  
+  Researched  a   Matlab-based trading  strategy  by building Support Vector Machine Classification to distinguish ‘profitable’ 
+
+Nov. 2015 - Mar. 2016 
+
+inflection points from CSI300 Index’s candlestick chart. 
+
+  Back-tested  and improved  the strategy  by monitoring realized volatility; obtained a 15.6% higher annualized return and a  
+
+4.8% lower drawdown in the back-testing; achieved 35% annualized return in real trading. 
+
+  Built a Python-based monitoring system that visualizes relevant indicators of SSE50 ETF Options (Greeks on positions, 
+realized vol and implied vol chart, implied vol skew, term structure) to help traders control risk and develop strategies. 
+
+  Traded Chinese SSE50 ETF Options as a team member with a book of 1 million RMB and executed real market experiments  
+
+on volatility trading strategies in Chinese options market. 
+
+China CITIC Securities 
+Spring Intern, Financial Product Assistant 
+  Evaluated the roadshows of 5 various PE firms, performed PE fund industry analysis and due diligence on target companies. 
+  Constructed roadshow slides to design PE industry conglomerate by performing comparative analysis on Guangzhou and  
+
+Guangzhou, China 
+Feb. – Mar. 2015 
+
+other financial centers; accelerated the construction of the first PE industry site in Guangzhou. 
+
+PROJECT  EXPERIENCE 
+
+ 
+
+  Smart Alpha Strategy Research                                                                                                                            Nov.-Dec. 2016 
+Implemented Black and Litterman’s model by starting from a prior (or benchmark) while using non-quantified relative views 
+as shown in Almgren and Chris’ portfolio optimal method. 
+Back-tested and compared the result with the benchmark, achieving 1.11% more Sharpe ratio and an information ratio of 0.81. 
+
+ 
+
+Stock Valuation for El Polo Loco 
+  Conducted industry analysis, competitor analysis, and SWOT analysis on Loco; analyzed the financial ratios based on the 
+
+Jul. - Aug. 2015 
+
+company’s annual report obtained from various data platforms (Bloomberg, FactSet, Yahoo). 
+
+  Applied CAPM, ARIMA, and FCFC models to perform valuation (R-based) on the stock. 
+The Ebola Virus (modified 3 - stage SEIR Model) 
+  Developed a Modified 3 - Stage SEIR Model to simulate the pattern of Ebola contagion; applied stochastic process and  
+
+ Feb. 2015 
+
+maximum likelihood method to estimate the model parameters.  
+
+  Predicted demands for medication of each region based on the above dynamic model and used the Modified P-center  
+
+model to design an optimal delivery and locations selection system. 
+
+EXTRACURRICULAR EXPERIENCE 
+
+China CITIC Options Training Camp 
+Member 
+  Entered the camp with 4.8% acceptance rate as the only undergraduate student; researched theoretical volatility trading 
+
+Beijing, China 
+Sep. 2015 - Feb. 2016 
+
+strategies and applied to real market (SSE50 ETF Options) analysis. 
+
+SKILLS & HOBBIES 
+  Computer:  C/C++,  Python,  Matlab, R, Excel/VBA. 
+  Languages:  Mandarin (native), English (fluent). 
+  Hobbies:  Jogging, swimming, basketball, football, skiing, emcee (15-year). 
+
+
