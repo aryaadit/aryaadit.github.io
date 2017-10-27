@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "alphaWebGLFriendRelease.data.unityweb",
+"asmCodeUrl": "alphaWebGLFriendRelease.asm.code.unityweb",
+"asmMemoryUrl": "alphaWebGLFriendRelease.asm.memory.unityweb",
+"asmFrameworkUrl": "alphaWebGLFriendRelease.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
