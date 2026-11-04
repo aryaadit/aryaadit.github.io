@@ -1,0 +1,77 @@
+Steve Jungst
+
+25 E Kent Rd
+Duluth, MN 55812
+jungs001@d.umn.edu
+
+OBJECTIVE
+
+Obtain a summer internship in the ﬁeld of Electrical/Computer Engineering.
+
+EDUCATION
+
+Bachelor of Science, Electrical and Computer Engineering
+University of Minnesota, Duluth, expected Spring 2015
+Minors: Computer Science, Mathematics
+
+COMPUTER SKILLS
+
+Languages: S12 Assembly, C, Java, Python, Scheme, TI-Basic
+Systems: Linux, OSX, Windows ME-7
+Software: Adobe Creative Suite, Audacity, Blender 3d, Eclipse, LTspice, Mathemat-
+ica, Matlab, MS Oﬃce Suite, NetBeans, Pspice, Scilab, Solidworks, Xilinx ISE.
+
+EXPERIENCE
+
+Lab Assistant,
+University of Minnesota Duluth, Electrical Engineering Department, Duluth, MN
+
+Fall 2011 - Present
+• Ensure that all Electronics labs are running smoothly, maintain computers,
+repair lab equipment, order components, and solve a wide variety of issues,
+technical and logistical.
+
+• Repair hardware, recover data, and troubleshoot software issues.
+
+Internship
+Cybis-creative media & event productions, Washington, DC
+Interned with production company during a Business Professionals of America Na-
+tional Leadership Conference.
+
+• Setup equipment, ran cabling, focused lights, and assisted in teardown.
+
+Spring 2011
+
+Projectionist/Manager
+Morris Movie Theater, Morris, MN
+
+Spring 2011 - Winter 2012
+• Oversee all other jobs and staﬀ in the theater including tickets, concessions,
+
+and janitorial.
+
+• Open theater each evening, prepare for the night, operate the 35 mm ﬁlm
+projector, record and report concession and ticket sales at the end of the night.
+
+• Build and break ﬁlms as needed.
+
+PROJECTS
+
+Nerve (neurologically enhanced real-time virtual environment) Fall 2012 - Present
+The goal of the project is to determine if current consumer brain computer interface
+devices will act as a good interface for an immersed virtual environment.
+
+PUBLICATIONS
+
+”Eﬀectiveness of commodity BCI devices as means to control an immersive virtual
+environment.” J. Thomas, S. Jungst, and P. Willemsen. Proceedings of the 1st sym-
+posium on Spatial user interaction. ACM, 2013.
+
+ACTIVITIES
+
+IEEE Member
+UMD ACM Club Member
+ACM SIGGRAPH Member
+Member of the Morris Area High School FIRST Robotics Team - 2008 to 2011
+
+

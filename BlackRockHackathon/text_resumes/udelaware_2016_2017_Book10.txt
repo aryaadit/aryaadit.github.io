@@ -1,0 +1,109 @@
+CCNY, Department of Chemistry, Peer-Led Team Learning Workshop and Tutoring Center
+Workshop coordinator (09/2011 - 12/2012); liaison (06/2011 - 08/2011); leader (01/2010 - 06/2011) for General & Organic Chemistry
+
+PROFESSIONAL LEADERSHIP AND ACTIVITIES
+2016 Clean Tech Competition “Making an Impact” – Judge (03/2016)
+UD, Department of Chemical and Biomolecular Engineering Colburn Club: – 1st year class representative (10/2013 - 09/2014)
+American Institute of Chemical Engineers (AIChE) – President (09/2011 - 06/2012)
+Memberships: American Physical Society (APS), American Chemical Society (ACS), Society of Rheology (SOR), Neutron Scattering
+Society of America (NSSA), American Institute of Chemical Engineers (AIChE), Tau Beta Pi, Omega Chi Epsilon, The Golden Key
+International Honor Society, Inspiring Women in Engineering, Society of Women Engineers
+Outreach activities: Society of Rheology Community Outreach Initiatives (2014 - Present); American Cancer Society Relay for Life
+(2013 - Present); Big Brothers Big Sister, K-12 Science Outreach: Mentor students in Philadelphia, Delaware, DC area (2013 -present)
+
+SKILLS AND EXPERTISE
+Rheometry: TA Instruments ARES and AR series rheometers and related software. Anton Paar Physica MCR 501 rheometer and
+related software. Sentmanat Extension Rheometer. KSV minimicro trough. Languir-Blodgett (LB) trough.
+Scattering: Light Scattering (SLS, DLS), X-Ray Scattering (SAXS at Argonne National Lab), Neutron Scattering (SANS at NIST and
+ORNL; rheo-SANS and ﬂow-SANS at NIST and the Institut Laue-Langevin (ILL) in Grenoble, France).
+Other analytical techniques: SEM, TEM, Cryo-TEM, NMR, FTIR, DSC, TGA, UV-Vis.
+Software/Programming: Matlab, Python, Minitab, Igor, Origin, Aspen, Microsoft Oﬃce, Adobe Acrobat/Photoshop, Java.
+
+PUBLICATIONS
+1. Chen, R.; L´opez-Barr´on, C. R.; Wagner, N. J. “Tunable rheology, microstructure and sheared alignment of thermoreversible soft
+
+micellar crystals in ionic liquids”. In preparation for JOR.
+
+2. Chen, R.; L´opez-Barr´on, C. R.; Wagner, N. J. “Co-micellization of binary mixture of binary PEO-PPO-PEO tri-block copolymer
+
+P123 and F127 in ethyalmmonium nitrate”. In preparation for ACS Macro Letter.
+
+3. Chen, R.; L´opez-Barr´on, C. R.; Wagner, N. J. “Self-assembly of block copolymers in ionic liquids”. Book chapter for ACS
+
+Symposium Series: “Ionic Liquids: Current State and Future Directions”. In press.
+
+4. L´opez-Barr´on, C. R.; Chen, R.; Wagner, N. J. “Ultrastretchable iono-Elastomers with mechanoelectrical response”. ACS Macro
+
+Letter.,2016, 5, 1332-1338.
+
+5. L´opez-Barr´on, C. R.; Chen, R.; Wagner, N. J.; Beltramo, P. “Self-assembly of Pluronic F127-diacrylate in ethylammonium nitrate:
+
+structure, rheology and ionic conductivity before and after photo-crosslinking”. Macromolecules, 2016, 49(14), 5179-5189.
+
+6. Cramer, H.; Mevawala, C.; Salonga, S.; Shockey, C.; Chen, R.; Colby, D.; Dhurjati, P.; Shiﬂett, M. “Chemical engineering senior
+
+laboratory the University of Delaware”. Chemical Engineering Education, 2016, 2(5), 131-140.
+
+7. Chen, R.; Tu, R. “Phase Transition of an interfacially conﬁned amphiphilic peptide”. Journal of Student Research The Grove School
+
+of Engineering in the City College of New York. 2012, 5, 20-24.
+
+8. Seredych, M.; Chen, R.; Bandosz, T. J. “Eﬀects of the addition of graphite oxide to the precursor of a nanoporous carbon on the
+
+electrochemical performance of the resulting carbonaceous composites”. Carbon. 2012, 50(11), 4144-4154.
+
+PATENTS
+1. L´opez-Barr´on, C. R.; Chen, R.; Wagner, N. J. Cross-linked ionoelastomers with outstanding tensile responses and high ion
+
+conductivity. U.S. Patent Serial No. 62/393,133, September 12, 2016.
+
+SELECTED CONFERENCE PRESENTATIONS (ORAL)
+1. NIST Low Q Seminar Series, November 16, 2016. National Institue of Standards and Technology, Gaithersburg, MD, USA.
+
+• Chen, R.; L´opez-Barr´on, C. R.; Wagner, N. J. “Towards wearable electronics and sensors: structure and tensile properties of
+
+cross-linked Pluronic-diacrylate copolymers/ethylammonium nitrate iono-elastomers”.
+
+2. The 2016 AIChE Annual Meeting, invited talk , November 13-18, 2016. San Francisco, CA, USA.
+
+3. The 4th International Soft Matter Conference (ISMC 2016), September 12-16, 2016. Grenoble, France.
+
+• L´opez-Barr´on, C. R.; Chen, R.; Wagner, N. J. “Ultra-stretchable iono-elastomers with mechano-electrical response”.
+• L´opez-Barr´on, C. R.; Chen, R.; Wagner, N. J. “Structure and tensile properties of cross-linked Pluronic-diacrylate copolymers
+
+/ethylammonium nitrate ionoelastomers”.
+
+4. The XVIIth International Congress on Rheology (ICR 2016), August 8-13, 2016. Kyoto, Japan.
+
+• Chen, R.; L´opez-Barr´on, C. R.; Wagner, N. J. “Structure and tensile properties of cross-linked Pluronic-diacrylate copolymers
+
+/ethylammonium nitrate iono-elastomers”.
+
+5. The 2016 American Conference on Neutron Scattering (ACNS 2016), July 10-14, 2016. Long Beach, California, USA.
+
+• Chen, R.; L´opez-Barr´on, C. R.; Wagner, N. J. “Microstructure and dynamics of polymeric wormlike micelles in ionic liquids”.
+6. The 251st ACS National Meeting & Exposition Symposium on “Emerging Technologies using Ionic Liquids”, invited
+
+talk , March 13-17, 2016. San Diego, California, USA.
+
+• L´opez-Barr´on, C. R.; Chen, R.; Wagner, N. J. “Structure and tensile properties of cross-linked Pluronic-diacrylate copolymers
+
+/ethylammonium nitrate iono-elastomers”.
+
+7. The Gordon Research Conference on Colloidal, Macromolecular & Polyelectrolyte Solutions, February 6-12, 2016.
+
+Ventura, California, USA.
+
+• Chen, R.; L´opez-Barr´on, C. R.; Wagner, N. J. “Tunable rheology, microstructure and sheared alignment of thermo-reversible
+
+micellar crystals in ionic liquids”.
+
+8. The Urban University Conference Series - International Research Partnerships, August 6, 2013. Graz University of
+
+Technology, Graz, Austria.
+
+• Chen, R.; Yang, X.; Hakkarainen, M. “Controlled degregation techniques for Poly(3-hydroxyalkanotes)”.
+
+2/2
+
+

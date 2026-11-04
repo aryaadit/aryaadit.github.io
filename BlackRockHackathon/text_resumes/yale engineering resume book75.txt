@@ -1,0 +1,96 @@
+Ph.D.
+
+EDUCATION
+Expected May 2022
+
+May 2016
+
+May 2010
+
+MEIYING QIN
+New Haven, CT, 06511
+
+51 Prospect St.
+
+Email: meiying.qin@yale.edu
+
+Ph.D, Comptuer Science, Yale University - In Progress
+
+Social Robotics Lab, Supervisor: Professor Brian Scassellati
+
+Bachelor of Science, University of Toronto
+
+Computer Science Major, Psychology Major, Mathematics Minor
+
+Bachelor of Science, Peking University
+
+Life Science Program
+
+TECHNICAL SKILLS
+Languages
+Operating Systems
+Applications
+
+Libraries
+
+Python, C/C++, Java
+Windows, Linux, ROS
+Eclipse, Visual Studio, PyCharm, Matlab, Git, Subversion, SPSS, Adobe Premiere,
+Adobe Acrobat, Microsoft Office
+OpenCV, Qt, Pygame, NumPy, Pydub
+
+COMPUTER SCIENCE INDUSTRY EXPERIENCE
+09/2014 - 08/2015
+
+Application Software Developer - Student, BlackBerry, Full time Internship
+
+Project 1: Priv, Implement new feature
+
+- Language: Android
+- Designed and implemented new feature to set and launch app
+when user plug in headset or HDMI cable on a per user basis
+
+Project 2: BB10, Bug fixing and design for screen reader for accessbility:
+
+- Language: Python
+- Designed and implemented new gesture for text
+selection/navigation/editing
+- Designed and implemented new behaviour for ListView
+- Fixed reported bugs in code
+
+Project 3: BB10, Bug fixing for core apps and service:
+
+- Language: C++ and Cascades
+- Resolved issues found in code in power saving mode
+- Resolved issues with the NFC software for scan and write to NFC
+cards
+- Resolved issues with the service for handling long presses on
+
+SELECTED COMPUTER SCIENCE PROJECTS
+09/2016 - present
+
+Social Robotics Lab, Yale University
+
+09/2015 - 08/2016
+
+Zebrafish Tracker Application, University of Toronto
+
+- Supervisor: Professor Brian Scassellati
+
+- Supervisor: Professor Arnold Rosenbloom and Professor Robert Gerlai
+- Key concept: Computer vision, Machine Learning, Modelling
+- Language: C++, Qt, OpenCV
+- Designed and implemented new software to be used for live/video
+tracking zebrafish behaviour
+- Programmatically analyzed the data obtained from tracking
+- Programmatically linked to Zebrafish Presenter to present different
+stimulus dependent on the behavior of the subject fish
+
+09/2012 - 12/2013
+
+Stimulus Presentation Application for the Gerlai Zebrafish Genetic Behaviour Lab,
+University of Toronto
+
+- Language: VB.Net
+
+

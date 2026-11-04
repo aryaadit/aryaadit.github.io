@@ -1,0 +1,81 @@
+Bo Hu 
+
+E-mail: b.hu@yale.edu 
+
+Address: 255 Whitney Ave. Apt 41, New Haven, CT 06511 
+
+Phone: (+1)203-645-6666 
+
+ACADEMIC INTERESTS 
+Systems and Networking, Distributed Systems, Mobile Systems 
+ 
+EDUCATION 
+Yale University                                                                                                                                                                   New Haven, CT 
+Ph.D. Student, Department of Computer Science                                                                                       Aug 2015 – Aug 2020 (Expected) 
+Supervisor: Wenjun Hu, Assistant Professor, Yale University 
+ 
+Tsinghua University                                                                                                                                                               Beijing, China 
+B.E., Department of Electronic Engineering                                                                                                                Aug 2011 - Jul 2015 
+ 
+HONORS AND AWARDS 
+Ø  MobiCom Student Travel Grant, 2016 
+Ø  Scholarship of Academic Excellence (Top 3%), 2014 
+Ø  Scholarship of Academic Improvement, 2014 
+
+RESEARCH AND PROJECTS 
+User-centric Scheduling of Cooperated Offloading Workload                                                                 Yale University, New Haven 
+Supervisor: Wenjun Hu, Assistant Professor                                                                                                                  Oct. 2016 – Present 
+Ø  This project aims to propose an on-device user-centric offloading scheduler to leverage the correlation among different offloading 
+
+workloads within the same device, and therefore, improve the overall performance of the mobile system.  
+ 
+
+Auto-Tuning Fine-Grained Parallelism in Data-Analytics System with Libra                                      Yale University, New Haven 
+Supervisor: Wenjun Hu, Assistant Professor                                                                                                             Oct. 2015 – Oct. 2016 
+Ø  We propose Libra, to auto-tune job partitioning in data analytics systems. The key observation is that there is an optimal task size 
+per application (stage). This optimal varies by the application logic, and so we need to dynamically determine task sizes during 
+run time. 
+ 
+
+Towards Fertile, Flexible and Future-proof Enterprise Networks                                                                            Tsinghua, Beijing 
+Supervisor: Jun Bi, Professor                                                                                                                                   Sep. 2014 – Jan. 2015 
+Ø  This project is part of China's National High-tech R&D Program ("863" Program): designed, implemented and operated a testbed 
+platform for innovative network architectures, protocols and applications. The current design and implementation are inspired 
+by the SDN paradigm. 
+
+Ø  We worked on the open-function network devices (software based). The extended OVS software switches perform not only 
+
+packet forwarding, but also protocol-oblivious actions, state maintenance, third-party app agent hosting, etc. 
+
+Ø  Provided a reliable and efficient channel to bridge controller and underling datapaths  
+
+Cloud Computing Data Analysis System Based on SDN (software-defined network)                                            Tsinghua, Beijing 
+Supervisor: Wei Xu, Assistant Professor                                                                                                                  Feb. 2014 – Feb. 2015 
+Ø  This project aims to use Multicore Processor and NetFPGA to realize: 10G network link emulation, Wire-speed Network Packets 
+
+Capturing and Replay, Network Traffic Shaper and Hardware-based Network Fault Injection 
+
+Ø  We worked on using NetFPGA to realize the wire-speed network packets capturing, delay and replay. I took the charge of writing 
+
+Ph.D.
+
+ 
+
+ 
+
+the Ryu controller program to interact with the hardware. 
+
+ 
+TEACHING 
+Ø  CPSC 426/526 Building Distributed Systems, Fall 2016, Teaching Fellow, Yale University 
+Ø  CPSC 625 Advanced Distributed Systems, Spring 2017, Teaching Fellow, Yale University 
+ 
+ 
+SKILLS 
+Ø  Programming Languages: C, C++, Java, Matlab, Python, Verilog, SQL 
+Ø  Operating Systems: Linux, Windows 
+Ø  Other: Latex 
+
+ 
+
+

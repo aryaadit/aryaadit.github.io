@@ -1,0 +1,64 @@
+SENIORS
+
+Petter Wehlin 
+
+78 Olive Street, Apt 323, 
+New Haven, CT 06511 
+
+petter.wehlin@yale.edu 
+(+1) 203-503-4637 
+ 
+EDUCATION 
+Yale University, B. S. Mechanical Engineering (ABET-accredited), Expected graduation: May 2017 (New Haven, CT, USA) 
+Representative Coursework: Linear Algebra, Multivariable Calculus, Materials Science, Statics, Dynamics, Thermodynamics, 
+Fluid Mechanics, Mechanical Design, Computer-Aided Engineering, Mechatronics, Biomechanics, Design Implementation 
+ 
+Malmö Borgarskola, IB Diploma Programme, Graduated May 2013 (Malmö, Sweden) 
+Grades and Awards: GPA 43/45, Class valedictorian, Top 1% IB score worldwide. 
+ 
+WORK & RESEARCH EXPERIENCE 
+Yale Biomechanics and Control Lab, Research Assistant: September 2015 – Present (New Haven, CT, USA) 
+Head a research project that attempts to reach a deeper understanding of human throwing. Focused on developing a 
+quantitative model that simplifies the dynamics of the human arm. Employed numerical simulations to test this model. 
+Designed and fabricated a biomimicking gripper used to empirically verify the theoretical results. 
+ 
+Senior Project, Team member: August 2016 – December 2016 (Yale University) 
+Co-lead the design, fabrication, and testing of a modular soft robotics kit that was aimed at improving college-level 
+education. The kit included soft pneumatic actuators, solenoid valves and electronics for feedback control. 
+ 
+Againer, Product Development Engineer: May 2016 – July 2016 (Riga, Latvia) 
+Lead the development of a fully functional prototype of a leg exoskeleton for skiers. In a small cross-functional team we 
+took the project from identifying customer needs, to concept generation and selection, to the fabrication and evaluation of 
+a functional prototype. This project is predicted to culminate in a new commercial product for Againer. 
+ 
+Wellinks, Programmer: November 2014 – May 2015 (New Haven, CT, USA) 
+Lead the development of a web application for a startup that is centered around a wearable device which improves scoliosis 
+treatment. Was responsible for all parts of the application, from hosting, to business logic, and user experience. 
+ 
+Platform45, Programming Intern: July 2014 - August 2014 (Cape Town, South Africa) 
+Collaborated on Ruby on Rails applications with strategies from agile- and test driven development. Built a natural language 
+input feature for an existing application, and created a prototype of an innovative code quality measuring application. 
+ 
+LEADERSHIP & ACTIVITIES 
+Yale Scandinavian Society, President: August 2015 – August 2016 (Yale University) 
+Leading Yale’s society of undergraduate Nordic students. Responsibilities include keeping the society in good standing, 
+promoting Scandinavian culture around campus, and creating a welcoming and supportive community for our members.  
+ 
+iXperience, Student: June 2014 – July 2015 (Cape Town, South Africa) 
+Participated in a 4 week coding boot camp. The curriculum included Ruby on Rails, HTML, CSS, JavaScript, source control 
+and agile development. Built a prototype video conferencing app specialized for the medical industry. 
+ 
+Bulldogs Racing, Member of Mechanical Team: September 2013 - April 2014 (Yale University) 
+Contributed with design knowledge and practical skills to build a hybrid racecar for the Formula-Hybrid Competition. Got 
+experience of using metalworking lathe, milling machine, sheet metal tools, grinder, and other power tools. 
+ 
+IYPT, Captain of Sweden’s National Team: September 2011 – August 2012 (Malmö, Sweden, and Bad Saulgau, Germany) 
+Lead Sweden’s team of five students who researched 17 different unsolved physics problems. IYPT (International Young 
+Physicists’ Tournament) is a yearlong high school research project that culminates in an international competition. 
+ 
+SKILLS & INTERESTS 
+Skills: Project management, Agile development, Rapid prototyping, Mechanical Design, Data analysis, Microcontrollers 
+Software: SolidWorks, solidThinking Inspire, MATLAB, Simulink, R, C, Ruby, Rails, LaTeX, MS Office 
+Interests: Coffee, Skiing, Floorball, Humanism, Calisthenics, Electronic music 
+
+SeniorsM.S.Ph.D.Post-DocsUndergraduates Seeking Internships

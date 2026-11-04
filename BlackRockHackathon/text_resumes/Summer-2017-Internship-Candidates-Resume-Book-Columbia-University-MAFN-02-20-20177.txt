@@ -1,0 +1,80 @@
+BO GAO 
+
+7 W 108th St, Apt 4A, New York, NY 10025| bg2574@columbia.edu| (571) 352-0589| linkedin.com/in/gaoboxmu 
+
+ 
+
+Coursework: Risk Management, Linear Regression, Time Series, Stochastic Process, Mathematics of Finance 
+
+EDUCATION 
+Columbia University, Department of Mathematics                                                                                            New York, NY 
+MA in Mathematics of Finance                                                                                                                      Expected Dec. 2017 
+ 
+Xiamen University, School of Mathematical Sciences (Graduate with Honors)                                                Xiamen, China 
+BS in Computational Mathematics (Major GPA:3.82/4.00)                                                                                          June 2016 
+ 
+Coursework: Data Structure & Algorithms, Numerical Analysis, Numerical Methods for PDE, Mathematical Modeling 
+College of Charleston                                                                                                                                          Charleston, SC 
+Fall Exchange Sponsored by China Scholarship Council (GPA: 4.00/4.00)                                                        Aug.-Dec. 2015 
+University of California, Los Angeles                                                                                                            Los Angeles, CA 
+Summer Exchange (GPA: 4.00/4.00)                                                                                                                    June-Aug. 2014 
+                                                                                                                                             
+WORK EXPERIENCE 
+Dalian King-hedger Commodity Trading Co., LTD                                                                                          Dalian, China 
+Quantitative Research Intern, Department of Corn and Soybean                                                                        July-Aug. 2016 
+ 
+Sourced and visualized historical price of Corn Futures and Soybean Futures from Chicago Board of Trade (CBOT); 
+processed the data of price movement with packages of NumPy and pandas in Python 
+
+  Developed regression models and cointegration model to analyze correlation between historical price of Corn Futures 
+
+from Dalian Commodity Exchange (DCE) and Chicago Board of Trade (CBOT) and compared models’ performance 
+
+  Assisted in fundamental analysis of corn and soybean markets by creating and analyzing balance sheet according to 
+
+monthly data from United States Department of Agriculture in Excel; results employed by trading desk 
+
+Dalian Commodity Exchange                                                                                                                              Dalian, China 
+Intern Analyst, Department of Agricultural Products                                                                                            Jan.-Feb. 2016 
+ 
+Investigated three delivery locations of egg and soybean; surveyed five companies and participated in amendment of 
+future contracts including adjusting premiums & discounts and adding new delivery locations 
+Tracked Blockboard and Fiberboard markets, monitored daily transaction records and responsible for risk alerting 
+Focused on notable circuit breakers events to analyze the adaption of circuit breaker policy for China futures market 
+
+ 
+ 
+ 
+PROJECT EXPERIENCE 
+Pairs Trading Strategy Using Dow Jones Industrial Average (R), Columbia University                                          Fall 2016 
+  Developed a pairs trading strategy combined minimum distance method with cointegration model, gained annualized 
+return of 13.75% and Sharpe Ratio of 0.89 according to back-test results in three years based on historical stock prices 
+Employed minimum distance method to find five pairs of stocks with minimum ‘distance’ among 30 components of DJI 
+Conducted cointegration test on log price of five pairs of stocks by employing Dickey-Fuller test, estimated trading 
+triggers in two-year training period and back-tested the performance of the trading strategy in one-year trading period 
+
+ 
+ 
+
+Portfolio Optimizer Using Time Series (R), Columbia University                                                                              Fall 2016 
+ 
+ 
+
+Estimated statistical characteristics of the log-returns of 100 stocks in last 16 years by using rolling windows 
+Conducted portfolio optimizers to find maximum Sharpe Ratio under time series models- IID model and AR model were 
+employed to fit return while GARCH and OHLC estimator were employed to fit volatility under rolling windows 
+Back-tested portfolio optimizers by using historical data and compared performances of optimizers 
+
+ 
+Value at Risk (VaR) & Expected Shortfall (ES) Calculation System (MATLAB), Columbia University              Fall 2016 
+  Developed interactive VaR & ES calculation system for portfolio of stocks and options under multiple window lengths 
+ 
+Implemented Monte Carlo, parametric and historical methods calculating VaR & ES and compared their performances 
+ 
+Back-tested computed results against historical stock prices and implied volatility of options under real world scenarios 
+ 
+ADDITIONAL INFORMATION 
+Computer Skills: MATLAB, C, Python, R, LaTeX, Excel, VBA, Bloomberg Terminal 
+Interests: Top-level amateur clarinet player, Poker, Cue sports, Music, NBA 
+
+

@@ -1,0 +1,52 @@
+ 
+
+ 
+
+Software Skills: 
+
+•  Experience with RELAP5-3D Version 2.4.2, a code designed by the Idaho National Lab for 
+best-estimate transient simulations of light water reactor systems during postulated accidents, 
+for thermal hydraulics safety analyses. 
+
+•  Experience with applications of MATLAB for use in various applications, including 
+thermodynamics simulations, neutronics simulations, fluid simulations, and material 
+properties analyses. 
+
+•  Experience with applications of SolidWorks. 
+•  Exposure to CASMO, and ORIGEN-ARP (SCALE 6). 
+•  Exposure to LabVIEW as it pertains to the operations of a test facility. 
+
+Quality Assurance Background 
+
+•  1.5 years experience as a Research Assistant on an Nuclear Quality Assurance-1 (NQA-1) 
+
+compliant test facility. 
+
+o  Experience with training regarding NQA-1, 10 CFR 50 Appendix B, and 10 CFR 21. 
+o  Experience with quality documentation authorship and review. 
+o  Experience with vendor communication, ordering, and documentation. 
+
+Accomplishments and Awards: 
+
+•  Presidential Scholar Award, Oregon State University, 2010-2011 academic year. 
+•  NRC academic scholarship, 2010-2011 academic year. 
+•  Vice-Chair of the OSU NE/RHP Alpha Nu Sigma Honor Society, 2012-2013 academic year. 
+•  Volunteer recognition by the OSU NE/RHP department for services including performing 
+
+Radiation Center tours and for various public speaking services, 2010-2012 academic years. 
+•  Second place Senior Design Project Award, OSU NE/RHP, for the project entitled “Design 
+
+and Simulation of the High Flux Isotope Reactor Hydraulic Flow Test Element: Spatially 
+Resolved Analysis,” 2010-2011 academic year. 
+
+Publications: 
+
+•  Byfield, P., Marcum, W., Reese, S., “Steady State Thermal Hydraulic Analysis of a Molybdenum 
+
+Production Element for Implementation in TRIGA® Reactors,” submitted January, 2013 for the 
+American Nuclear Society: 2013 Annual Meeting. 
+ 
+
+Byfield, 2 of 2 
+
+

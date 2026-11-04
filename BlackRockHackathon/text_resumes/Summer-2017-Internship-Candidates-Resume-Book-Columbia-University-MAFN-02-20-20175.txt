@@ -1,0 +1,92 @@
+CHEN DI
+
+235 W 109 ST. APT. 2D, NEW YORK, NY 10025 (cid:15) (718) 715-8320 (cid:15) CHEN.DI@COLUMBIA.EDU
+EDUCATION
+Columbia University
+M.A. in Mathematics of Finance
+
+New York, NY
+Expected Dec 2017
+
+• Math & Stats: Time Series Analysis, Stochastic Calculus, Brownian Motion, Ito’s Lemma
+• Finance: Financial Derivatives, Portfolio Optimization, Risk Management
+• Programming: VBA, Monte Carlo Simulation, K-mean Clustering
+
+Xiamen University
+B.Sc. in Applied Mathematics, Math GPA: 3.78
+
+Xiamen, China
+Jun 2016
+• Coursework: Operations Research, Partial Differential Equation, Financial Accounting, Statistical Inference
+• Member of National Top-notch Students Scientific Development Pilot Program
+• Graduate with Honors (Top 5%)
+
+ACADEMIC PROJECTS
+Valuing Autocallable Structured Product
+
+New York, NY
+• Priced exotic options and autocallable structured products with up to 2 underlyings using Monte Carlo sim-
+
+ulation and Alternating Direction Implicit finite difference method in VBA and C++
+
+• Contributed in booking intraday hedging positions and internal trades
+• Performed backtesting on Delta and Vega hedging strategies, and evaluated the pin risks and knock-in sce-
+
+narios for OTC products linked to CSI 300 and SSE 50 indices
+
+Time Series Project
+
+New York, NY
+• Predicted the direction of next day S&P500 index using ARIMA and GARCH model and compared the
+
+method performances within neural network and LOESS regression
+
+• Optimized the open threshold with respect to Sharpe ratio, carried out both in-sample parameter optimization
+
+and out-of-sample back testing in R
+
+PROFESSIONAL EXPERIENCE
+HUATAI Securities
+Investment Research Intern
+
+Changzhou, China
+Jul 2015 - Sep 2015
+
+• Constructed a multi-factor model for stock selection
+• Researched sector rotation effects of the stock market by macroeconomic volatility
+• Generated a beta hedging ideas for stock portfolio through CSI 300 stock index futures
+
+China Minsheng Investment
+Research Intern
+
+Shanghai, China
+May 2015 - Jul 2015
+• Developed an arbitrage strategy of CSI 300 stock index futures, determined the boundary of no-arbitrage
+
+interval under the circumstance of margin trading and replicated the spot index via ETF
+
+• Minimized the tracking error between spot portfolio and underlying index by adjusting weight
+
+LEADERSHIP
+Xiamen University Student Union
+Academic Department Minister
+
+• Chaired the in weekly assembly; led the writing of plan books of all activities
+• Coordinated between other departments in presenting annual forum, which targeted all students on campus
+
+interested in application for MFE/MAFN programs or investment bank job opportunities
+
+• Marketed the forum which received over $5,000 sponsorship and scholarship from EIC Education
+
+COMPUTER SKILLS
+
+Programming Languages
+Other Software
+
+R, C, MATLAB, VBA, SQL, HTML, Python (basic)
+Mathematica, Minitab, LATEX, Bloomberg and Microsoft Office
+
+Xiamen, China
+Jun 2013-Jun 2015
+
+

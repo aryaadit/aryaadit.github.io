@@ -1,0 +1,103 @@
+	
+
+JIAWEI (NATHAN) WEI 
+
+125 W 109th Street, Apt 7L, New York, NY 10025 
+
+(646) 727-5679  丨  jw3473@columbia.edu 丨 www.linkedin.com/in/nathanwjw 
+
+EDUCATION             
+Columbia University, Graduate School of Arts and Sciences, New York, NY                                     
+Master of Arts in Mathematics of Finance (GRE V160/170, Q170/170) 
+!  Courses: Introduction to the Mathematics of Finance, Statistical Inference/Time-Series Modeling, Stochastic 
+
+Expected Feb 2018   
+
+Processes-Applications, Hedge Fund Strategies & Risk, Advanced Programming 
+
+Sun Yat-Sen University, School of Mathematics & Computational Science; Lingnan College, Guangzhou, China                 
+Bachelor of Science in Applied Mathematics & Finance (GPA: 3.7/4.0) 
+!  Honors: Second Prize Scholarship of SYSU; Third Prize in Mathematical Contest in Modeling (2014; 2015) 
+!  Relevant Coursework: Stochastic Processes, Mathematical Analysis, Linear Algebra, Probability, Differential 
+
+Sep 2012–Jul 2016 
+
+Equations, MATLAB, C/C++, Data Structure, Financial Engineering, Micro/Macro-economics   
+
+University of California, Berkeley, English Department, Berkeley, CA                                           
+Summer Program, English as Second Language (GPA: 4.0/4.0) 
+!  Courses: Academic Research; English Language Studies 
+PROFESSIONAL EXPERIENCE 
+Hermes Capital Advisors, LLC, New York, NY 
+Fall Intern, Quantitative Trading Researcher 
+! 
+
+Strategy replication: developed statistical arbitrage trading strategies (Python-based); constructed trading 
+portfolios using Principle Component Regression and sector ETF methods; analyzed strategy performance by 
+tracking trading statistics (packages: numpy, pandas, datetime, mysql.connector, statsmodels, iqfeed_client) 
+
+Oct 2016–Nov 2016 
+
+Jul 2014–Aug 2014 
+
+Guangdong Bond Capital Management Ltd, Guangzhou, China   
+Winter Intern, Quantitative Research Analyst 
+! 
+
+Nov 2015–Feb 2016 
+Implemented a pair trading strategy with annualized return of 21.46% and Sharpe Ratio of 1.03 with Python; used 
+machine learning algorithm (cluster analysis) to screen stock pairs; used cointegration model and Augmented 
+Dickey-Fuller test to test tradability; adopted Kalman Filter Model to dynamically update model parameters 
+(packages: numpy, pandas, scipy, matplotlib, statsmodels, urllib2, sklearn, pykalman) 
+Transferred up-to-date daily transaction data from Wind Financial Terminal to SQL Server and calculated stock 
+return fluctuation, daily variation, turnover rate, etc. using R (packages: RDOBC, WindR, dplyr, quantmod) 
+
+!  Achieved in transformation of candlestick charts to equal volume-interval for obtaining clearer views of price 
+
+movements; programmed position-holding costs function provided by Tongdaxin Financial Terminal into R code 
+
+! 
+
+Great Wall Securities Co., Ltd Guangzhou Branch, Guangzhou, China 
+Summer Intern, Investment Banking Department 
+! 
+
+Participated in five enterprises’ public listing on National Equities Exchange and Quotations (NEEQ) with 
+business trips and supported three enterprises in directional add-issuance 
+
+Jul 2015–Sep 2015 
+
+Jul 2015–Nov 2015                                                                                                                                         
+
+!  Conducted due diligence, audited financial statements, and drafted public transfer instructions 
+ACADEMIC PROJECTS 
+Optimal Strategies for Parties of Equity-Based Crowdfunding, Guangzhou, China 
+Advisor: Yan Zeng, Lingnan College, Sun Yat-sen University 
+!  Built mathematical model for the investment and financing sides of equity-based crowdfunding with 
+
+Karush-Kuhn-Tucker conditions and Lagrange multipliers 
+
+Provided numerical examples and interpreted research results from practical economic perspectives 
+
+!  Deduced optimal solutions in closed-form and visualized relations between parameters using MATLAB 
+! 
+LEADERSHIP 
+Student Union of School of Math & Comp Science, Guangzhou, China 
+Liaison Department, President 
+Led department to raise fund for student activities held by the Student Union (approximately 6,000 USD) 
+! 
+!  Organized and managed the first ‘Noble Metal Virtual Investment Competition’ in Sun Yat-sen University 
+SKILLS & INTERESTS 
+Language 
+Computer Software  MS Office: Word, Excel, PowerPoint; basic in SAS, Prezi, Bloomberg, and Adobe Photoshop 
+Programming Skills  Mastery of C/C++, Python, MATLAB, R, SQL, and UNIX 
+Interests 
+ 
+
+Machine learning, e-business, mobile Internet, basketball, and soccer 
+
+Native Mandarin and Cantonese, elementary Spanish 
+
+Sep 2013–Jun 2014 
+
+

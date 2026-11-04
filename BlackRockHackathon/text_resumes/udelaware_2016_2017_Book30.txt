@@ -1,0 +1,40 @@
+Software
+Mathematica (cid:15) LATEX (cid:15) Python (cid:15) Fortran (cid:15) Qt (C++) (cid:15) Inkscape
+Languages
+English (ﬂuent), French (conversational), Spanish (basic), Bulgarian (native)
+Publications
+Journal Papers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Priyanka S Desai*, Beom-Goo Kang*, Maria Katzarova*, Ryan Hall, Qifan Huang, Sanghoon Lee,
+Maksim Shivokhin, Taihyun Chang, David C Venerus, Jimmy Mays, et al. Challenging tube and slip-link
+models: Predicting the linear rheology of blends of well-characterized star and linear 1, 4-polybutadienes.
+Macromolecules, *Contributed equally, 49(13):4964–4977, 2016.
+Maria Katzarova, Ling Yang, Marat Andreev, Andrés Córdoba, and Jay D Schieber. Analytic slip-link
+expressions for universal dynamic modulus predictions of linear monodisperse polymer melts. Rheologica
+Acta, 54(3):169–183, 2015.
+Maria Katzarova, Marat Andreev, Yelena R Sliozberg, Randy A Mrozek, Joseph L Lenhart, Jan W
+Andzelm, and Jay D Schieber. Rheological predictions of network systems swollen with entangled
+solvent. AIChE Journal, 60(4):1372–1380, 2014.
+Conference Papers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Maria Katzarova, Priyanka S. Desai, Beom-Goo Kang, Ryan Hall, Qifan Huang, Sanghoon Lee, Tai-
+hyun Chang, David C. Venerus, Jimmy Mays, , Jay D Schieber, and Ronald G. Larson. Challenging tube
+and slip-link models: Predicting the linear rheology of 1,4-polybutadiene blends of well-characterized
+star and linear 1,4-polybutadienes.
+In American Physical Society March Meeting 2016, Baltimore,
+Maryland, USA. American Physical Society, 2016.
+Maria Katzarova, Ling Yang, Marat Andreev, and Jay D Schieber. Simple desktop calculations for slip-
+link predictions of entangled polymers. In The Society of Rheology 86th Annual Meeting, Philadelphia,
+Pennsylvania, USA, pages 64–65. The Society of Rheology, 2014.
+Technical Reports. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Maria Katzarova, Yelena R Sliozberg, Jan W Andzelm, Randy A Mrozek, Joseph L Lenhart, and Jay D
+Schieber. Modeling of entangled network chains and linear solvent chains in a single-chain-mean-ﬁeld
+slip-link model. Technical report, DTIC Document, 2013.
+Dissertation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Maria Katzarova. Slip-link modeling of entangled polymers: rheological applications and extracting
+friction from atomistic simulations. PhD thesis, Illinois Institute of Technology, 2016.
+Awards
+2014: Society of Rheology Student-Member Travel Grant
+2011: Society of Manufacturing Engineers Scholarship
+
+2/2
+
+

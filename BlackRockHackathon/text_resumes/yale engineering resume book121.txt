@@ -1,0 +1,111 @@
+Undergraduates Seeking Internships
+304 York Street 
+sen.huang@yale.edu 
+New Haven, CT 06511                                    https://github.com/flubadoo                                                718-775-7079 
+Education 
+
+Sen Huang 
+
+ 
+
+ 
+
+ 
+Yale University  
+              
+B.S. in Computer Science and Mathematics (3.83/4.00 GPA) 
+Currently Enrolled in: Data Structures, Analysis of Algorithms, and Natural Language Processing. Previous coursework 
+in: Programming in C/C++, Discrete Math, Intro to Computer Science, Linear Algebra, and Vector Analysis. 
+ 
+
+         New Haven, CT: Expected May 2019 
+
+              
+
+        
+
+Experience 
+
+ 
+Natural Language Processing Researcher – LILY Lab at Yale                     New Haven, CT: January 2017-Present 
+
+•  Developing neural text summarization tools to atomize academic papers and their relevant citations. Python/NLTK 
+•  Actively researching the field of NLP, focusing on neural network learning in Professor Dragomir Radev’s LILY lab. 
+
+ 
+Software Developer, Technical Assistant – Yale Law School  
+
+        
+
+       New Haven, CT: January 2016-Present 
+
+•  Collaborating on a 2-person project to develop a new search engine for the Law School built on Project Blacklight. It 
+
+synthesizes disparate Solr indexes and comprehensively searches through website and library records. Ruby on Rails 
+•  Designed a regex algorithm to link over 1000 footnotes for the e-book Follow the Money by Michael J. Graetz. Python  
+•  Redesigned the Law School Case Search interface for general UX optimization. HTML/CSS 
+
+ 
+Software Development Intern – My Best Plan, LLC (Startup)                             Houston, TX: May 2016-July 2016 
+
+•  Developed a new credit card/invoice process in framework for the electricity rate plan analysis site, decreasing time 
+
+spent by operators on account updates by 40% on average. Redesigned the back-end of the site. Python/Django 
+
+•  Constructed new graphing tools to better inform operators about their choice of the best rate plan. Javascript 
+•  Designed a modular, automated screenshot file-naming system to eliminate human error in recordkeeping, reducing 
+
+time spent on recordkeeping from up to 15 seconds per record to less than 3 seconds. Python/Django 
+ 
+
+Leadership 
+
+ 
+President, Business Manager – Duke’s Men of Yale (Acapella Group)      New Haven, CT: October 2015-Present 
+
+•  Manages logistics, plans tours, communicates with a wide variety of clients, coordinates with alumni, and ensures that 
+
+the social group dynamic stays exciting while constantly taking care of financial matters and budgeting. 
+
+•  Developed a new, gig-intensive business model that tripled the initial $5000 of funding since the start of the 2016 
+
+academic year, in addition to acquiring at least $20000 of value in a sponsored international tour to China.  
+ 
+
+Projects 
+
+ 
+Nutrifai (PennApps XV Hackathon): https://devpost.com/software/pennapps-2017 
+
+•  Integrated iOS and web app. Implemented the Clarifai API to perform image recognition, then mines multiple 
+
+nutritional databases to algorithmically display relevant health risks of the food. 4-person team. Swift/Objective-C/NodeJS 
+ 
+NeuroTec Vehicles: https://github.com/flubadoo/NeuroPlanes 
+
+•  Extensive AI vehicle add-on pack for a video game called Garry’s Mod. AI framework is completely custom. 
+
+Developed a UI for the self-drivable vehicles and extended the AI framework from airspace to the ground, using 
+HAA* algorithm to fully integrate ground vehicles. Over 10,000 downloads. 7-person team. Lua 
+ 
+Von Neumann Machine Simulator: https://github.com/flubadoo/vonneumann 
+
+•  16-bit computer that simulates all elements of a basic Von Neumann machine in bitwise form, and is able to fully 
+
+process and run a slightly modified version of assembly language through recursive functional programming. Scheme 
+ 
+Interactive C++ Graphics Projects: https://github.com/flubadoo/3dmodelviewer 
+
+•  Built a graphical version of Conway’s Game of Life in that utilizes Qt graphics capabilities with full user interaction. 
+
+Created a 3D Model Creator that uses linear algebra to transform coordinate data to generate 3D Models. C and C++ 
+ 
+
+Skills 
+
+ 
+
+Proficiency coding in C, C++, and Scheme. Familiar with Python, Javascript, HTML, Swift, Lua, Django, Rails, NLTK 
+Familiar frameworks and technologies: Git, UNIX, XCode, Rails, MATLAB, LaTeX, Calibre, and MS Office. 
+
+

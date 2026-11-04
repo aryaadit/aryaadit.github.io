@@ -1,0 +1,106 @@
+79 Ray St., Newark, DE 19711 
+
+954-661-2830 
+
+mpnunez@udel.edu 
+
+Marcel P. Nunez 
+
+Education 
+
+University of Delaware (UD) 
+Ph.D. in Chemical and Biomolecular Engineering 
+GPA: 3.8 / 4.0 
+
+Massachusetts Institute of Technology (MIT) 
+B.S. in Chemical Engineering and Mathematics 
+Minor: Economics 
+GPA: 4.5 / 5.0 
+
+Research and Industrial Experience 
+
+Newark, DE 
+expected Spring 2017 
+
+Cambridge, MA 
+Jun 2012 
+
+University of Delaware 
+Graduate Research Assistant 
+Thesis Advisor: Dionisios G. Vlachos 
+Thesis Title: Uncertainty Quantification in Stochastic Multiscale Models of Heterogeneous Catalysis 
+
+Newark, DE 
+2012-present 
+
+  Developed a parametric sensitivity analysis method for multiscale kinetic Monte Carlo (KMC) and implemented the 
+
+technique in a novel code 
+
+  Developed a multi-objective framework for optimizing catalyst structure using descriptors which incorporated a 
+
+detailed model of the catalyst surface, reaction network, and stability requirements 
+
+Los Alamos National Laboratory (LANL) 
+Student Intern 
+
+Los Alamos, NM 
+Summers 2011 and 2012 
+
+ 
+
+Investigated molten composition B rheology by conducting falling ball viscometer experiments, simulating the 
+experimental system in COMSOL Multiphysics, and fitting a viscosity model to the data 
+
+Promex Industries 
+Process Engineering Intern 
+
+Santa Clara, CA 
+Jan 2011 
+
+ 
+
+Conducted plasma cleaning, sandblasting, and wire bond testing experiments guided by statistical design of 
+experiments 
+
+  Designed a metal cleaning procedure needed to manufacture a new semiconductor packaging product 
+
+MIT Center for Biomedical Engineering 
+Undergraduate Researcher 
+
+Purified olfactory receptor proteins using wet lab techniques for use in odorant sensor devices  
+
+ 
+  Designed and tested odorant sensor devices for specificity, sensitivity, and stability 
+
+MIT Buildings Technology Laboratory 
+Undergraduate Researcher 
+
+Cambridge, MA  
+Aug 2009-Aug 2010 
+
+Cambridge, MA 
+Jun-Aug 2009 
+
+  Developed a graphical user interface using C# for CoolVent, a building heat flow simulation tool available online 
+
+Skills 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Computer Programming: Matlab, Fortran, Python, Java, C#, Scheme 
+Simulation: Uncertainty quantification, Optimization, Kinetic Monte Carlo, Density functional theory (VASP), 
+Multiphysics simulation (COMSOL) 
+Communication: Microsoft office, LaTeX 
+Leadership: Research assistant - directed group meetings and organized schedule on a shared calendar, organized 
+group software on a collaboration/distribution platform (Github), conducted training sessions on kinetic Monte 
+Carlo, mentored new graduate researchers, Teaching assistant - conducted multiple lectures and review sessions 
+Foreign Language: Spanish 
+
+

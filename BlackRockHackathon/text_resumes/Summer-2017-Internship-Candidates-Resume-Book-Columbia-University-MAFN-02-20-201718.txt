@@ -1,0 +1,65 @@
+362 Riverside Drive, New York, NY | (646)549-9094| rl2846@columbia.edu                                                                                                                   
+
+Ruiqi (Rickie) Liu 
+
+EDUCATION                                                                                                                                                                                                                                 
+Columbia University                                                                                              New York                          expected Dec 2017 
+Master in Mathematics of Finance 
+  Core courses: Fixed Income/ Multi-Asset Portfolio Management/ Time Series Modeling/ Risk Management 
+  Awarded Chinese Government Scholarship covering full tuition and living expenses in the U.S. 
+Central University of Finance & Economics                                                            Beijing                        Sept 2012- Jun 2016 
+BS in Economics minor in math, Bilingual Experimental Class            GPA: 90.62/100 
+  Scholarship for Academic and Leadership achievements(top 7%) for two consecutive years 
+  Coursework: Applied Statistics/ Risk Management/ Accounting/ Stochastic Process/ Real Analysis 
+
+PROFESSIONAL EXPERIENCE                                                                                                                                                                                                                                       
+Intern, AngelCrunch, Venture Capital Investment                                                Beijing                          Feb 2016-May2016 
+  Classified and evaluated 200+ Business Plans, made in-depth research in related areas, and presented results in weekly meetings 
+
+with investment managers. 
+
+  Led interview with entrepreneurs for further financial advisory, mainly concentrated on consumption upgrade. 
+  Assisted in road-show twice, helped listed investor and institutional investor target investment programs. 
+  Followed up AngelCrunch Index Fund, search for potential investment opportunities. 
+Intern, Deloitte Touche Tohmatsu, Enterprise Risk Service IT risk                      Beijing                            Jul2015-Nov2015 
+  Led meetings with clients, typically department directors, to efficiently facilitate business risk evaluation process. 
+  Collected and analyzed performance records through participating in internal audit, assisted in audit working paper, drafting 
+
+the presentations. 
+
+  Earned "Exceed Expectation" in the final Performance Rating by manager in charge. 
+Data Analyst, Lingyi Investment Consultancy Corporation,                                Shanghai                        Jul 2014-Aug 2014 
+  Performed research and analysis on Chinese house re-mortgage P2P industry, extracted data from database using SQL. 
+  Updated database weekly on a daily basis using python Web crawler, monitored and targeted business risks. 
+  Independently drafted a commercial report on Chinese house re-mortgage P2P industry, its final edition got 500+ read record 
+
+on social platform. 
+
+PROJECTS AND OTHER ACTIVITIES                                                                                                                                                                                         
+Fixed Income Portfolio Management, Columbia University                                                                      Sept 2016-Dec 2016 
+  Constructed a fixed income portfolio with 10 bonds within assigned set of limits, made an annualized return of 2.4%.   
+  Monitored performance of the portfolio by downloading real data Bloomberg Terminal. 
+  Hedged the portfolio risk by using swaps, futures and trading strategies (flattener & butterfly) and maintained the DV01 
+
+exposure under the limit. 
+
+Risk Calculation System, Columbia University                                                                                                          Dec 2016 
+Programming language: Matlab 
+  Developed a user-friendly VaR calculating system that can output the portfolio VaRs with different model assumptions by 
+
+inputting the historical stock prices and implied volatilities   
+
+  VaRs are computed through three different methods and are automatically back-tested 
+Leader, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)   
+  Constructed model using Dynamic Programming and Space geometry, read 30+ articles about aerodynamics. 
+  Calculated the dynamic process of the spacecraft, simulated its taking-off trajectory using Matlab. 
+
+                                    Oct 2014 
+
+SKILLS & INTERESTS                                                                                                                                                                                       
+  Skills: R, Excel(VBA), Matlab, Stata, Python,SQL, Access, Word, PowerPoint, Bloomberg Terminal 
+  Interests: Erhu (7 years), Yoga, Swimming, Travelling, FRM part II candidate, CFA level I   
+  Language: English, Mandarin(Native)   
+ 
+
+

@@ -1,0 +1,82 @@
+Undergraduates Seeking Internships
+
+Philip J. Vasseur
+
+Contact
+Information
+
+Skills
+
+Education
+
+94 Van Dyke Road
+Princeton, NJ 08540
+linkedin.com/in/philip-vasseur
+
+Mobile: 732-567-9600
+philip.vasseur@yale.edu
+github.com/philvasseur
+
+Proﬁcient Languages: Java, Swift, Racket
+Other: AWS DynamoDB, Google Firebase, Microsoft Oﬃce, Photoshop, French (Dual Citizenship)
+
+Familiar Languages: Python, C, Git, LaTeX
+
+Projects
+
+Professional
+Experience
+
+Extracurric.
+Activities
+
+Structures, Program in Algorithmic and Combinatorial Thinking
+
+Science, Linear Algebra and Matrix Theory, Multivariable Calculus
+
+Yale University, New Haven, CT
+Degree: Bachelor of Science in Computer Science, (August 2016 – May 2020)
+• Overall GPA: 3.82, Major GPA: 4.0
+• Relevant Coursework: Data Structures and Programming Techniques, Introduction to Computer
+Princeton High School, Princeton, NJ
+Highest Honors Diploma, (September 2012 – June 2016)
+• GPA: 4.5 (Top 3%), ACT: 36
+• Relevant Coursework: Intro to Python, Intro to Java, AP Computer Science, Algorithms and Data
+• Awards: Gold Key Award for Leadership (1 of 30 recipients out of 400), AP Scholar with Distinction
+YaleGrill, New Haven, CT
+github.com/philvasseur/YaleGrill - Swift (December 2016)
+• Created an iOS app to order food from the Yale Dining Hall grills.
+• Implements Google’s Firebase SDK, allowing for realtime database updates and authentication.
+• Lets the user choose the dining hall and uses location services to recommend the closest dining hall.
+• Allows the cooks to begin orders right away and notify students when their food is ready.
+Content-Aware Image Resizer, Princeton, NJ
+github.com/philvasseur/ImageResizer - Java (May 2016)
+• Created a scaling tool that resizes images by removing the least ‘important’ content.
+• Calculated the ‘energy’ of a pixel from a formula which took into account the adjacent pixels.
+• Implemented Dijkstra’s algorithm to ﬁnd and then remove the lowest energy path.
+PitchStart, HackRU, NJ
+github.com/philvasseur/PitchStart - Java (October 2015)
+• Developed an Android app at Hack Rutgers to give starting pitches for a cappella.
+• Parsed vocal input with Google’s voice recognition API and played the requested notes.
+Premier Supplies, New York, NY
+Information Technology Intern (June 2016 – August 2016)
+• Performed daily tasks to maintain the servers and troubleshot technical issues for thirty co-workers.
+• Connected and set up the company’s servers, computers, and printers after moving oﬃces.
+• Chosen as July employee of the month.
+Freelance work on “Cranbury Deliveries”, Cranbury, NJ
+Developer (May 2016)
+• Worked on a project to add an online order and delivery option for local restaurants.
+• Developed a python script on a raspberry pi to retrieve, format and print online order information.
+Yale Student Technology Collaborative, New Haven, CT
+Technician (December 2016 – present)
+• Help students solve their IT problems via a walk-in troubleshooting oﬃce.
+• Fix hardware problems in students’ computers by repairing or replacing malfunctioning parts.
+Jonathan Edwards College Council & Social Activities Committee, New Haven, CT
+Chair (JESAC), Freshman Class Representative (JECC) (September 2016 – present)
+• Discuss relevant school issues and organize student activities in conjunction with the administration.
+Program in Algorithmic and Combinatorial Thinking, Princeton University, NJ
+Student (June 2015 – April 2016)
+• Selected as 1 of 40 out of 400 applicants for a theoretical computer science course.
+• Studied graph theory, set theory, logic, combinatorics, and other topics in discrete mathematics.
+
+

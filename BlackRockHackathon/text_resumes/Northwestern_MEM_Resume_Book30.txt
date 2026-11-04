@@ -1,0 +1,93 @@
+Otto Nitschmann III 
+
+(915) 328-6886 
+
+400 W. Ontario #901, Chicago IL 60654 
+ottonitschmann2018@u.northwestern.edu 
+
+Qualifications Summary 
+
+• Application engineering
+• Calibration and vehicle testing
+• Engine calibration fine-tuning
+• Native fluency in Spanish and English
+
+• Conversational proficiency in French
+• Data acquisition system setup
+•
+
+Instrumentation calibration
+
+Education 
+Northwestern University: Masters of Science in Engineering Management 
+
+The University of Texas at El Paso: Bachelor of Science in Mechanical Engineering 
+GPA of 3.20/4.00 
+
+Expected June 2018 
+
+December 2010 
+
+Septem 
+
+2ber 013 – Current 
+
+Engineering Experience 
+Fiat Powertrain Technologies FPT Burr Ridge Illinois 
+Application Engineer 
+
+
+Interact with cross functional teams to carry product from development to production and support quality team when
+needed
+
+ Ensure that products and services are modified, configured, and installed according to customer needs
+ Dataset calibration updates and in-field fine tuning in vehicle diagnosis, thermal management, aftertreatment and
+
+
+
+controller interfacing
+Perform installation audits on engine builds confirming proper Engine mounting, air intake, aftertreatment, cooling
+package, fuel and electric systems and service accessibility
+Support functional tests (Air to boil, cold start, altitude and performance tests)
+
+
+ Create official company test procedures targeting specific application functionality as well as cross platform
+
+validation
+
+ These activities are performed on the Skid Steer Loader, Forage Harvester, Sprayer, and Cash Crop High tractor
+
+application
+
+Navistar, Melrose Park Illinois 
+Field Test Engineer 
+• Tested management and product validation activates in extreme weather environments
+• Responsible for all aspects of the test:
+
+o Test design, budgeting, instrumentation, logistical planning, physical testing, data analysis, documentation,
+
+June 2011 – August 2013 
+
+reporting
+
+• Tests included but were not limited to:
+
+o Vehicle level, part interaction, system performance, aftertreatment, powertrain performance, fuel economy,
+o Instrument calibration, data acquisition setup using pressure transducers, thermocouples, flow meters, strain
+
+emissions, route recreation, calibration validation and thermal mapping
+
+gauges, telemetric units and optical sensors
+
+• Led a team of 3 engineers and 2 drivers in Summer Field Test for over 3 months of preparation and testing
+
+Technical Skills 
+• Computer: Proficient with Microsoft programs, J1939/CAN based data acquisition systems including eDAQ, 
+
+ControlTec, Datatker, and ETAS
+
+• Automotive Calibration software: INCA and Hexplorer
+• Dynamic environment surveying experience
+• Licensure and certifications: class A CDL with endorsements for air brakes, doubles/triples and tanker trailer 
+
+

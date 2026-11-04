@@ -1,0 +1,78 @@
+Post-Docs
+
+T(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)
+
+Fall 2016 Computer Sciences — Intelligent robotics — Teaching assistant
+
+Yale University
+
+Spring 2014 Computer Sciences — System programming — Teacher
+
+Universit´e de Bordeaux—Pˆole universitaire franc¸ais, Ho Chi Minh City, Vietnam
+
+Spring 2013 Mathematics — Cryptography — Teaching assistant
+
+Universit´e de Bordeaux
+
+Spring 2013 Computer Sciences — Introduction to robotics — Teacher
+
+Universit´e de Bordeaux
+
+Fall 2012 Computer Sciences — System programming — Teacher
+
+Universit´e de Bordeaux—Pˆole universitaire franc¸ais, Ho Chi Minh City, Vietnam
+
+Spring 2012 Mathematics — Cryptography — Teaching assistant
+
+Universit´e de Bordeaux
+
+Spring 2012 Mathematics — Statistics I — Teaching assistant
+
+Universit´e de Bordeaux
+
+Spring 2011 Mathematics — Analysis I — Teaching assistant
+
+Universit´e de Bordeaux
+
+Spring 2011 Mathematics — Elementary cryptography — Teaching assistant
+
+Universit´e de Bordeaux
+
+L(cid:27)(cid:24)(cid:23) (cid:22)(cid:21) (cid:20)(cid:19)(cid:18)(cid:17)(cid:27)(cid:29)(cid:30)(cid:23)(cid:27)(cid:22)(cid:26)(cid:24)
+
+[1] A. Roncone, O. Mangin, and B. Scassellati. “Transparent Role Assignment and Task Allocation in Human Robot Collabo-
+
+ration”. In: Robotics and Automation (ICRA), IEEE International Conference on (2017).
+
+[2] O. Mangin et al. “MCA-NMF: Multimodal Concept Acquisition with Non-Negative Matrix Factorization”. In: PLoS ONE
+
+10.10 (2015), e0140732.
+
+[3] O. Mangin. “(cid:31)e Emergence of Multimodal Concepts: From Perceptual Motion Primitives to Grounded Acoustic Words”.
+
+PhD thesis. Universit´e de Bordeaux, 2014.
+
+[4] O. Mangin and P.-Y. Oudeyer. “Feature learning for multi-task inverse reinforcement learning”. 2013.
+[5] O. Mangin and P.-Y. Oudeyer. “Learning Semantic Components from Subsymbolic Multimodal Perception”. In: the Joint
+
+IEEE International Conference on Development and Learning and on Epigenetic Robotics (ICDL-EpiRob). 3. 2013.
+
+[6] O. Mangin and P.-Y. Oudeyer. “Learning the combinatorial structure of demonstrated behaviors with inverse feedback
+
+control”. In: International Workshop on Human Behavior Understanding. 3. Vilamoura, Algarve (Portugal), 2012.
+
+[7] O. Mangin and P.-Y. Oudeyer. “Learning to recognize parallel combinations of human motion primitives with linguistic
+descriptions using non-negative matrix factorization”. In: International Conference on Intelligent Robots and Systems (IROS
+2012). Vilamoura, Algarve (Portugal): IEEE/RSJ, 2012.
+
+[8] O. Mangin, D. Filliat, and P.-Y. Oudeyer. “A bag-of-features framework for incremental learning of speech invariants in
+unsegmented audio streams”. In: Tenth International Conference on Epigenetic Robotics. Ed. by B. Johansson, E. Sahin, and
+C. Balkenius. ¨Ooren¨aas Slo(cid:30), Sweden, 2010, pp. 73–80.
+
+A(cid:16)(cid:30)(cid:15)(cid:14)(cid:24)
+
+2014
+
+Best thesis poster — Bordeaux doctoral school of mathematics and computer science
+
+SeniorsM.S.Ph.D.Post-DocsUndergraduates Seeking Internships

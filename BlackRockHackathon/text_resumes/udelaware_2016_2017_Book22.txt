@@ -1,0 +1,82 @@
+ 
+ 
+PUBLICATIONS_____________________________________________________________________________________________ 
+ 
+
+1.  Gonzalez JE, Antoniewicz MR. Tracing  metabolism from lignocellulosic biomass and gaseous substrates to products with 
+
+stable-isotopes. Curr Opin Biotechnol. In Press, 2017. 
+ 
+
+2.  Gonzalez JE, Long CP, Antoniewicz MR. Comprehensive analysis of glucose and xylose metabolism in Escherichia coli under 
+
+aerobic and anaerobic conditions by 13C-metabolic flux analysis. Metab Eng, In Press, 2017 
+ 
+
+3.  Whitaker WB, Jones JA, Bennett K, Gonzalez JE, Vernacchio VR, Collins SM, Palmer MA, Schmidt S, Antoniewicz MR, 
+Koffas MA, Papoutsakis ET. Engineering the biological conversion of methanol to specialty chemicals in Escherichia coli. 
+Metab Eng, In Press, 2017 
+ 
+
+4.  Long CP, Au J, Gonzalez JE, Antoniewicz MR. 13C-metabolic flux analysis of microbial and mammalian systems is enhanced 
+
+with GC-MS measurements of glycogen and RNA labeling. Metab Eng, 38:65-72, 2016 
+ 
+
+5.  Long CP, Gonzalez JE, Sandoval NR, Antoniewicz MR. Characterization of physiological responses to 22 gene knockouts in 
+
+Escherichia coli central carbon metabolism. Metab Eng, 37:102-113, 2016 
+ 
+
+6.  Sandberg TE, Long CP, Gonzalez JE, Feist AM, Antoniewicz MR, Palsson BO. Evolution of E. coli on [U-13C]glucose reveals 
+
+a negligible isotopic influence on metabolism and physiology. PloS one, 11(3):e0151130, 2016 
+ 
+
+7.  Seo BR, Bhardwaj P, Choi S, Gonzalez J, Andresen Eguiluz RC, Wang KC, Mohanan S, Morris PG, Du B, Zhou Xk, Vahdat 
+LT,  Verma  A,  Elemento  O,  Hudis,  CA,  Williams  RM,  Dannenberg  AJ,  Gourdon  D,  and  Fischbach C.  Obesity-dependent 
+changes in interstitial ECM mechanics promote breast tumorigenesis. Sci Transl Med. 7(301):301, 2015 
+ 
+
+8.  Gonzalez JE, Antoniewicz M, Metabolic network reconstruction and validation of the methanogen Methanosarcina acetivorans 
+
+(manuscript in preparation) 
+ 
+
+9.  Seo BR, Gonzalez J, Moore S, Fischbach C, Cancer-activated adipocytes, a potential source of myofibroblasts in mammary 
+
+tumors (manuscript in preparation) 
+
+PRESENTATIONS_______________________________________________________________________________________ 
+
+Oral Presentations 
+ 
+
+1.  Gonzalez  JE,  Steinberg  L,  Whitaker  B,  Bennett  K,  Papoutsakis  ET,  Antoniewicz  MR.  Application  of  13C-MFA  in 
+Methanosarcina  acetivorans  and  Escherichia  coli  for  Biofuel  Production.  Society  for  Industrial  Microbiology  and 
+Biotechnology Annual Meeting, Philadelphia, PA, August 4th, 2015 
+
+ 
+Poster Presentations 
+ 
+
+1.  Gonzalez JE, Long CP, Antoniewicz MR. Comprehensive analysis of glucose and xylose metabolism in E. coli under aerobic 
+
+and anaerobic conditions. Metabolic Engineering 11, Kobe, Japan, June 26th, 2016 
+ 
+
+2.  Gonzalez JE, Whitaker WB, Bennett, KB, Papoutsakis ET, Antoniewicz MR. Bioconversion of methane to butanol by metabolic 
+
+engineering of Methanosarcina acetivorans and Escherichia coli. Metabolic Engineering 11, Kobe, Japan, June 26th, 2016 
+ 
+
+3.  Whitaker WB, Bennett KB, Gonzalez JE, Long C, Steinberg S, Falara V, Sandoval N, Price V, Raeeszadeh M, Dong M, Jones 
+A, Papoutsakis ET, Chen W, Antoniewicz MR, Bahnson B, Koffas M. Synthetic Methylotrophy to Liquid Fuel. DOE ARPAE 
+Summit, San Diego, CA, Jan 20th, 2016 
+ 
+
+4.  Gonzalez  JE,  Steinberg  L,  Whitaker  B,  Bennett  K,  Papoutsakis  ET,  Antoniewicz  MR.  Application  of  13C-tracers  in 
+Methanosarcina acetivorans and Escherichia coli for Biofuel Production. 3rd Microbial Systems Symposium, University of 
+Delaware, Newark, DE, February 3rd, 2016 
+
+

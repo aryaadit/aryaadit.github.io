@@ -1,0 +1,86 @@
+SHIYU (WILL) LIAN 
+
+400 West 113th Street, Apt 430, New York, NY 10025 
+Tel: +1(217)200-6348; Email: sl4103@columbia.edu 
+
+ 
+
+EDUCATION 
+
+Columbia University                                                                                                                                       New York, NY, USA 
+M.A. in Mathematics of Finance (expected – Dec. 2017) 
+•  Relevant Coursework: Multi-Asset Portfolio Management, Programming for Quantitative and Computational Finance, 
+
+Time Series Modeling, Stochastic Processes, Stochastic Methods in Finance, Numerical Methods in Finance  
+
+ 
+University of Illinois at Urbana-Champaign                                                                                                       Urbana, IL, USA 
+B.S. in Electrical and Computer Engineering, Minor in Business, GPA: 3.76/4.00 (Aug. 2012 – May 2016) 
+•  Awards: Dean’s List (5 semesters), Edmund J. James Scholarship, Leung Student Venture Award, Honors at Graduation 
+ 
+National University of Singapore                                                                                                                   Singapore, Singapore 
+Summer Exchange Program (June 2014 – July 2014) 
+ 
+PROFESSIONAL EXPERIENCE 
+
+CSOP Asset Management                                                                                                                              New York, NY, USA 
+Investment Research and Marketing Strategy Intern (Jan. 2017 – Present) 
+•  Collect market data to analyze financial performance of portfolios using Excel and Bloomberg and generate weekly 
+
+investment performance reports 
+
+•  Participate in institutional client management and business development by preparing client presentations in PowerPoint 
+
+and institutional communications 
+
+ 
+Fuli Investment                                                                                                                                            Dalian, Liaoning, China 
+Sales and Trading Analyst Intern (Dec. 2016 – Jan. 2017) 
+•  Assisted traders to make next day trading strategies by compiling and analyzing today trading results and current macro 
+
+market news 
+
+•  Contributed to improve quantitative trading algorithm by reporting trading results to Quantitative Research Department, 
+
+and also reported newest research findings back to trading floor 
+
+ 
+CITIC Securities                                                                                                                                                         Beijing, China 
+Quantitative Analyst Intern (June 2016 – Aug. 2016) 
+•  Provided quantitative support for investment decision making by performing market data analysis and building interactive 
+
+data visualization tools using Python 
+
+•  Assisted trader by implementing Excel add-in functions for some trading algorithms, such as Delta Hedging, using C++ 
+•  Contributed to improve the company’s investment profit by 5.6% by modifying existing trading algorithm using Python 
+ 
+CITIC Securities                                                                                                                                         Changchun, Jilin, China 
+Investment Banking Analyst Intern (Dec. 2015 – Jan. 2016) 
+•  Collected, complied and analyzed information about more than 50 companies in PowerPoint and presented it to clients to 
+
+assist clients to have a better understanding of their potential M&A targets 
+
+•  Analyzed more than 30 companies, performed financial modeling and used Comparable Analysis and DCF methods to 
+
+value companies in Excel to assist clients to narrow down the potential M&A targets 
+
+ 
+PROJECTS 
+
+American Option Pricing in Three Different Methods in Matlab (Oct. 2016 – Dec. 2016)                      New York, NY, USA 
+•  Implemented Binomial Option Pricing Model, Monte Carlo Simulation and Finite Difference Method in Matlab to calculate 
+
+the price of American Option; compared the results and analyzed strength and weakness for each method 
+
+ 
+LEADERSHIP 
+
+Vice President, Eta Kappa Nu (HKN), Corporate Committee (Sep. 2015 – May 2016)                                        Urbana, IL, USA 
+ 
+SKILLS 
+
+•  Programming: Proficient in Excel, C++, Python; Experience in Matlab, Java, VBA, R 
+•  Languages: English, Chinese (Mandarin), GRE:329/340 with 170/170 in quantitative score 
+•  Certificate: CFA Level 1 Candidate 
+
+

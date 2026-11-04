@@ -1,0 +1,69 @@
+MATTHEW KOLOSKI
+1915 Dunedin Ave. (cid:5) Duluth, Minnesota 55803
+
+(612) · 269 · 2546 (cid:5) kolo0079@d.umn.edu
+
+GOAL
+
+I intend to gain full time employment with a company that will challenge me and allow me to provide
+creative solutions and analytical techniques to complex systems.
+
+EDUCATION
+
+University of Minnesota Duluth
+B.S. in Electrical & Computer Engineering
+Minor in Mathematics & Computer Science
+
+Member of IEEE & ACM
+Overall GPA: 3.21
+
+EXPERIENCE
+
+September 2010 - Spring 2014
+
+Honeywell International Inc.
+Embedded Software Engineering Intern
+· Developed code for thermostat testing in an Agile team development environment.
+· Introduced and implemented automated acceptance testing to Honeywell production.
+· Reviewed schematics and provided hardware support for Honeywell products.
+· Learned communication, time management, and project management skills necessary
+in an engineering environment.
+
+May 2013 - Present
+Golden Valley, MN
+
+United States Gypsum Inc.
+Computer Engineering Intern
+· Provided support to electrical and manufacturing engineers.
+· Programmed PLCs using ladder logic and created PHP web pages for factory data entry.
+· Oﬀered creative technical solutions for improving factory eﬃciency.
+· Used automation software and programmed using visual basic to create display screens
+for machine operators.
+
+Summer 2012
+Cloquet, MN
+
+Information Technology Systems and Services
+Computer Maintenance Technician & Tech Center Consultant
+· Worked on in-depth hardware and software issues with various computing devices.
+· Collaborated with other IT professionals to solve University-wide technological issues.
+· Provided one-on-one technical assistance on multiple personal computing issues.
+· Visited classrooms and labs to resolve technical problems with classroom equipment,
+including projector issues, authentication issues, and general computing questions.
+
+April 2011 - present
+Duluth, MN
+
+NOTEWORTHY SKILLS
+
+Programming Languages
+Hardware
+Tools
+Nontechnical
+
+C++, C, C#, Java, VHDL, MIPS Assembly, Ruby, Perl
+Analog & Digital Design, Computer Architecture, FPGA
+PSpice, Matlab, Cadence, SVN, CAD, Oﬃce, Multiple OS Proﬁciency
+Communication, Motivation, Passion, Drive, Focus, Creativity
+
+

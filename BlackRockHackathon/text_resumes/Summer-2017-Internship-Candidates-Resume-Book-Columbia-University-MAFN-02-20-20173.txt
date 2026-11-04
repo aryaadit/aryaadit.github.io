@@ -1,0 +1,101 @@
+ 
+
+125 West 109th Street, Apt 7L, New York, NY, 10025 | (646)-359-1095 | zc2367@columbia.edu | linkedin.com/in/zhihong-chen 
+
+Zhihong (Leven) Chen 
+
+EDUCATION 
+
+Columbia University, Department of Mathematics 
+Master of Arts in Mathematics of Finance (GRE Quantitative: 170/170) 
+  Coursework: Introduction to the Mathematics of Finance, Stochastic Calculus, Time-Series, Hedge Fund Strategies, Advanced 
+
+New York, NY 
+Expected Dec. 2017 
+
+Programming (C, C++), Machine Learning, Numerical Methods, C++ Programming for Quants, Stochastic Methods 
+
+ 
+Sun Yat-sen University, School of Math & Comp Science, Lingnan College                                                              Guangzhou, China 
+Bachelor of Science in Applied Mathematics (Major, GPA: 3.8/4.0) and Finance (Minor, GPA: 3.7/4.0) 
+Sept. 2012 - Jun. 2016 
+  Coursework: Stochastic Processes, Probability, C++, Mathematical Statistics, Data Structure & Algorithms, Data Mining 
+  Honors: Merit-Based Scholarship (Top 5%); Honorable Mention Awards in US Mathematical Contest in Modeling; Third Prize   
+
+in China’s Mathematical Contest in Modeling 
+
+ 
+University of California, Berkeley, School of Public Health 
+Biostatistics (Summer Session, GPA: 4.0/4.0) 
+ 
+PROFESSIONAL EXPERIENCE   
+LMG Capital LLC                                                                                                                                                              New York, NY 
+Fall Intern, Quantitative Developer                                                                                                                                Oct. 2016 - Present 
+ 
+Constructed a Python live parser to automatically scrape market data from websites, cleaned and stored gigabytes of unstructured 
+text data to MySQL database; optimized portfolio construction and trading strategies based on back-testing 
+
+Berkeley, CA 
+  Jul. - Aug. 2015 
+
+  Developed a monitor system on Amazon Web Service EC2 platform for “event driven” strategies to detect trading signals and to 
+
+automatically send alerts with well-designed emails in Python.  
+
+ 
+Yuexiu Industrial Investment Fund Management Co., LTD 
+Summer Analyst, Quantitative Researcher 
+ 
+
+Established an integrated automatic trading system for Structured Fund Discount Arbitrage Strategy to trade in the real world 
+
+Guangzhou, China 
+Sept. 2015 - Apr. 2016 
+
+(package: pandas, numpy, requests, easytrader, pymssql, matplotlib), which includes mock trading, hedging, database 
+
+construction and update, arbitrage signal monitoring, strategy execution and profits calculation. 
+
+ 
+
+Collaborated with trading team in designing and validating trading models; built an option-volatility strategy using implied 
+
+volatility and BS model, programmed a commodity paired trading strategy based on cointegration and VECM. 
+
+  Developed an automatic web trading API for automatic trading in Python and incorporated monitor systems into an online 
+
+platform (webpage) that visualizes real-time indicators of different assets by Django to help traders identify arbitrage signal. 
+
+ 
+Chubb Life Insurance Hong Kong Limited                                                                                                                            Hong Kong 
+Summer Analyst, Investment Intern                                                                                                                                      Jul. - Aug. 2014 
+  Matched Excel files to retrieved tick-level data using regular expression in Python, transformed the data into minute-level data 
+
+for over 24 commodities and constructed a database platform in SQL Server, serving the trading team as a data source for 
+
+back-testing of commodity related strategies. 
+
+ 
+ 
+
+Provided daily analytical report on the effects of global macroeconomic events on the firm’s business. 
+
+Prepared investment risk tolerance tests for over 100 customers, evaluated the results and provided feedback to the department to 
+
+tailor specific portfolio for customers. 
+
+ 
+PROJECT EXPERIENCE 
+
+Commodity Futures Paired Trading Based on Cointegration and Vector Error Correction Model                Dec. 2015 - Apr. 2016 
+  Constructed a database for Chinese commodity futures, screened pairs for trading based on trading volume and correlation. 
+  Built VECM in Python and R (package: pandas, rpy2, statsmodels) by applying ADF unit root test, Johanson cointegration test, 
+
+residual test and Granger Causality test to commodity pairs, designed and back-tested the strategy using data from 2012 to 2015. 
+
+ 
+SKILLS & HOBBIES 
+  Computer Skills: Python, C/C++, R, MATLAB, SQL Server, MySQL, VBA, Linux, Web Scraping   
+  Hobbies: Guitar, Snooker, Basketball, Tennis, and Running 
+
+

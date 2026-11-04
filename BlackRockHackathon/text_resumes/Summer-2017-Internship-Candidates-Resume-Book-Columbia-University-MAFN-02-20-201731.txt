@@ -1,0 +1,70 @@
+524 West 123rd Street, New York, NY, 10027 · 646-207-1458 · xw2469@columbia.edu 
+
+XINYI (CINDY) WANG 
+
+EDUCATION 
+Columbia University                                                                                                                                        New York, NY                                               
+MA in Mathematics of Finance                                                                                                                      Expected 12/2017 
+Courses:  Stochastic  Process,  Hedge  Fund  Strategies  &  Risk,  Statistical  Inference  &  Time  Series  modeling,  Numerical 
+Methods in Finance, Programming for Quantitative and Computational Finance(C++) 
+Peking University                                                                                                                                              Beijing, China                                                 
+BA in Economics (Dual Degree)                                                                                                                      09/2014-06/2016 
+Courses: Financial Theories, Econometrics, New Institutional Economics, Financial Accounting, Growth Economics, etc. 
+Membership: China Center for Economic Research Club 
+Beijing Institute of Technology                                                                                                                        Beijing, China                                                 
+BS in Statistics, overall GPA 88/100 (ranking top 1/24)                                                                                  09/2012-06/2016 
+Courses: Analysis of Financial Time Series, Object-Oriented Programming (C++), Data Structure, etc. 
+Honors:	National Scholarship(2%), National Second Prize in ICBC Bank Products Innovation Design Competition,	etc. 
+Computer Skills 
+C/C++(5-year), R(5-year), MATLAB(5-year), Python, SPSS, Stata, MySQL, Bloomberg, Photoshop, and Microsoft Office 
+  Used C++ to create self-contained Excel add-ins, and implement financial models like Black-Scholes pricing 
+  Realized simplified games: Othello(C++), 2048(C++), Hangman(Python), Scrabble(Python) 
+PROFESSIONAL EXPERIENCE 
+SHENYIN & WANGUO Securities Research                                                                                                Beijing, China                                                 
+Intern Analyst, Development Research Department                                                                                      08/2015-02/2016 
+  Financing Project: Built DCF model to evaluate corporation values using Excel;	conducted bottom-up research on 
+fundamentals  of  target  companies  under  coverage,  based  on  growth  potential,  company  strategy  and  financing 
+opportunities; designed presentation materials for associate   
+
+  Preferred Stock Project: Reviewed and analyzed financial statements and historical transaction data to assess the risk 
+in  issuance  process  of  preferred  stock  for  multiple  corporate  clients;	 built  Bloomberg  formula  to  monitor  daily 
+preference share prices and analyzed the risk exposure 
+
+  Alternative Investment Project: Built grading models of industries, products and countries to allocate insurance fund 
+
+using Excel(VBA) and studied various types of financial derivatives and investments   
+
+  Asset Allocation Project: Monitored industry trends, calculated industry average ratios, collected macroeconomic 
+
+indexes and analyzed the effect of economic policies   
+
+Peking University                                                                                                                                              Beijing, China                                                 
+Research Assistant, Dr. Dayuan Hu                                                                                                                11/2015-06/2016 
+  Empirical Study on VaR and CVaR: Evaluated VaR and CVaR of CSI 300 Index using historical method, variance-
+covariance method and Cornish Fisher expansion using Matlab and discussed strengths and weakness of each method 
+  Analysis on People’s Investment Willingness in 2015:	Led a team of four RAs on quantitative research for CCTV: 
+Everyone’s Voice, Everyone’s Life 2014-2015; built and tested regression models using Stata to analyze the relationship 
+between investment orientations and macroeconomic indexes 
+Statistical Modeling Research on Incomplete Data of Atmospheric Particulate Matters: Built a linear model and 
+conducted multiple linear regressions with SPSS and Bayesian estimation with R language to figure out the relations 
+between indexes like PM10, PM2.5, and calculate the predicted value of missing data 
+
+ 
+
+Provided consulting services to clients about profit opportunities in certain market sectors 
+
+CITIC Bank                                                                                                                                                      Beijing,  China                                                 
+Intern, Banking Department                                                                                                                            08/2014-09/2014 
+ 
+  Evaluated clients’ payoff ability by analyzing their credit record, personal wealth and income, marital status, etc. 
+BIT Student Union                                                                                                                                            Beijing, China                                                 
+President of the Student Union and Minister of the Public Relations Department                                          09/2012-06/2015 
+  Collaborated and coordinated with inner departments and other associations to organize various activities 
+  Contacted local enterprises and received 6600 RMB fund and various goods to support activity organization 
+  Held a three-month Rights Proposal Competition and handed in over 40 effective proposals to the president 
+OTHER SKILLS & INTEREST 
+ 
+
+Playing basketball(team leader), extreme sports, long distance running, swimming, diving, singing, travelling 
+
+

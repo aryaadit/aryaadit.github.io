@@ -1,0 +1,96 @@
+Awards 
+
+ISCRE 24 Dow travel award (2016) 
+
+ 
+  University of Delaware Graduate Student of Distinction (2015) 
+  Meritorious recognition in the Mathematical Contest in Modeling (2010) 
+ 
+
+Top 500 Nationwide in the William Lowell Putnam Mathematical Competition (2010) 
+
+Software Contributions 
+
+CoolVent  
+Natural ventilation simulation tool for designing buildings 
+
+  Developed the graphical user interface 
+
+MSA-KMC 
+Multiscale KMC code with built-in sensitivity analysis 
+
+  Developed from scratch 
+
+Zacros 
+Graph-theoretical KMC software 
+
+ 
+
+Implemented a sensitivity analysis module 
+
+Publications 
+
+coolvent.mit.edu 
+
+dion.che.udel.edu/downloads 
+
+dion.che.udel.edu/downloads 
+
+  M.P. Nunez, D.K. Zerkle, J.M. Zucker, “The rheology of molten Composition B” Los Alamos National Lab Report LA-
+
+UR-12-24029 (2012). 
+
+  D. K. Zerkle, M. P. Núñez, and J. M. Zucker, “Molten Composition B Viscosity at Elevated Temperature” Journal of 
+
+Energetic Materials 34(4), 368 (2016). 
+
+  M. Núñez and D.G. Vlachos, “Steady state likelihood ratio sensitivity analysis for stiff kinetic Monte Carlo 
+
+simulations” Journal of Chemical Physics 142(4), 044108 (2015). 
+
+  A. Hashemi, M. Núñez, P. Plechac, D.G. Vlachos, “Stochastic Averaging and Sensitivity Analysis for Two Scale 
+
+Reaction Networks” Journal of Chemical Physics 144, 074104 (2016). 
+
+  M. Núñez and D.G Vlachos, “Surface engineering of catalyst facet structure and its application to the oxygen 
+
+ 
+
+reduction reaction” Nature Chemistry (submitted) 
+S. Dutta, A. Bohre, G.R. Jenness, W. Zheng, M. Núñez, D.G. Vlachos, B. Saha, “Improved Graphene Oxide for 
+Efficient Solventless C-C Coupling of Low Carbon Furanics to High Carbon Fuel Precursors” ACS Catalysis (submitted) 
+
+  M. Núñez, T.A. Robie, and D.G Vlachos, “Rapid identification of the rate determining step in complex kinetic 
+
+systems” (in preparation) 
+
+Selected Presentations 
+
+Poster 
+
+  M. Nunez and D.G. Vlachos, “Condition-Dependent Structure Sensitivity of CO Oxidation” Center for Catalytic 
+
+Science and Technology Annual Research Review, Newark, DE, Sep. 23, 2013. 
+
+  M. Nunez and D.G. Vlachos, “First Principles Prediction of Active Sites for Transition Metal Catalysts” Center for 
+
+Catalytic Science and Technology Annual Research Review, Newark, DE, Oct. 8, 2015. 
+
+  M. Nunez and D.G. Vlachos, “Identification of Active Sites On Transition Metal Catalysts” 24th International 
+
+Symposium on Chemical Reaction Engineering, Minneapolis, MN, Jun. 13, 2016. 
+
+Oral 
+
+  M. Nunez and D.G. Vlachos, “Uncertainty Quantification in Stochastic Multiscale Models of Heterogeneous 
+
+Catalysis” American Institute of Chemical Engineers Annual Meeting, Atlanta, GA, Nov. 18, 2014. 
+
+  M. Nunez and D.G. Vlachos, “Designing Active Sites from First Principles” American Institute of Chemical Engineers 
+
+Annual Meeting, Salt Lake City, UT, Nov. 12, 2015. 
+
+  M. Nunez and D.G Vlachos, “Optimization of Transition Metal Catalyst Structure for the Oxygen Reduction 
+Reaction” 252nd American Chemical Society National Meeting & Exposition, Philadelphia, PA, Aug. 22, 2016. 
+
+

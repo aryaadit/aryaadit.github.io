@@ -1,0 +1,121 @@
+contact
+Email:
+ara93@cornell.edu
+Website:
+www.aditarya.com
+Cell:
+832-443-7879
+College:
+206 Delaware Avenue
+Ithaca, NY 14850
+USA
+Home:
+5207 Ivystone Court
+Sugar Land, TX 77479
+USA
+languages
+English and Spanish
+programming
+Python
+Java
+OCAML
+JavaScript
+Node.js
+HTML
+LATEX
+technical
+Linux
+Mac OS
+Windows
+Blender
+Adobe CC
+MongoDB
+Apache Solr
+Oculus Rift
+Rhino - 3D Modeling
+Unity - Game Engine
+LibGDX Physics Engine
+
+Adit Arya
+
+objective
+Seeking summer internship or a co-op position in Software engineering, Artiﬁcial intelligence, Video
+game design, Graphics design, or other challenging Computer Science ﬁelds to apply and enhance
+my skills, and push my limits to make a difference in the company I work for and our society.
+skills
+Leadership: Unique, collaborative style that uniﬁes a group towards a common goal
+Communication: Persuasive and effective communication style that connects with the audience
+Analysis: Excellent at solving a problem and articulating a creative, effective solution
+education
+2014–Now B.Sc. in Computer Science
+2010–2014 High School Diploma Graduated Rank #1
+experience
+SAP Summer Internship
+Software Developer
+• Worked on the BUILD product for SAP
+• Quickly gained familiarity and an understanding of Node.JS, MongoDB, and Solr as part of a back-
+
+Cornell University
+Clements High School
+
+June - August 2016
+
+• Gained skills as a developer in a corporate setting involving teams across the world ranging from
+
+end team for BUILD
+
+Palo Alto, California to Paris, France
+
+• Added certain key features to the product and ﬁxed High and Very High priority bugs prior to
+
+General Release.
+
+Intel - Cornell Cup
+Computer Science Virtual Reality Team Lead
+• One of only two freshman selected through an interview process
+• Currently serving as Virtual Reality Team Lead in my second year on the team
+• Chosen as Cornell representative to lead the Intel booth showcasing omni directional capability
+
+2014 - Now
+
+of our robot, ModBot, at the 2015 NYC Maker Faire
+
+• Presented to White House OSTP, NSF National Headquarters, House Science Committee, and
+
+• Designed miniature scale, fully operational Disney Theme Park ride with Virtual Reality integration
+
+National Maker Faire
+
+using Oculus Rift
+
+• Hosting an embedded systems competition for universities across the country
+• Developing new low cost ModBot platform together with Intel and a start-up, Socially Shaped
+• Advancing accuracy, mobility, and robustness of R2-D2 and ModBot droids featured at the
+
+Kennedy Space Center and NYC Maker Faire
+
+2011–2014
+
+Distributed Education Clubs of America - DECA
+School President
+• Elected by existing club Ofﬁcers based on contribution and achievements
+• Placed 7th in International competition, 1st in State and District in Automotive Services category
+• Implemented a unique approach, #SuitUpForDeca, to become the largest DECA chapter in the
+world with over 1,000 members, enrolling 40% from a class of about 2,500 students
+courses
+CS 2110 Object Oriented Programming
+CS 3110 Functional Programming
+CS 2800 Discrete Mathematics
+CS 1620 Visual Imaging in the Electronic Age
+CS 3152 Intro to Computer Game Development
+honors
+Cornell Deans List Sophomore Year, National AP Scholar, National Hispanic Merit Award, High
+School Valedictorian, AP Scholar Award, Accepted into Clements Science Research Program, FBISD
+Academic Excellence Award
+
+ENGRI 1270 Entrepreneurship Engineering
+CS 3410 Computer System and Organization
+HADM 2250 Finance
+INFO 3300 Data Driven Web Applications
+
+

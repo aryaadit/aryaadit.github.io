@@ -1,0 +1,13 @@
+#option-table {
+	width: 800px;
+	display: block;
+	margin: 0 auto;
+}
+
+#label {
+	width: 400px;
+}
+
+#control {
+	width: 400px;
+}

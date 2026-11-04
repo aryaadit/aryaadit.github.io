@@ -1,0 +1,214 @@
+549 Riverside Drive, Apartment 4C, New York, NY, 10027  ·  (347) 822-3980  ·  mm4762@columbia.edu 
+
+Minzi Mao 
+
+EDUCATION                                                                                                                                                               
+Columbia University, Graduate School of Arts and Sciences   
+Master of Arts in Mathematics of Finance 
+Coursework: Stochastic Calculus, Numerical Methods, Time Series, Hedge Fund Strategies, C++ Programming for Quants     
+
+                                                                    New York, NY 
+    Expected Dec. 2017 
+
+                 
+
+         
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hunan University, College of Finance and Statistics                                                                                    Changsha, China 
+Bachelor of Science in Economics, Financial Engineering (GPA: 4.11/4.5, Rank: 2/36) 
+                                      Jun. 2016 
+Honors: National Scholarship (2013, 2015; Top 1), First Class Scholarship (2014; Top 3%), Merit Student (2013, 2014, 2015) 
+Coursework:  Probability  &  Statistics,  Stochastic  Process,  Numerical  Analysis,  Econometrics,  Time  Series,  Investment, 
+Derivative, Programming (C/C++, MATLAB) 
+
+ 
+
+Columbia University, Columbia College                                                                                                        New York, NY 
+Visiting Student 
+        Aug. 2015 – Dec. 2015 
+                           
+Coursework: ODEs, Stochastic Methods in Finance, Advanced Econometrics, Theory of Interest 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXPERIENCE                                                                                                                                                                   
+    Beijing, China 
+Gelin Dahua Futures Co., Ltd   
+Option Products Intern, Derivatives Department                                                      Feb. 2016 – Apr. 2016, Jul. 2016– Aug. 2016 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Articulated the design of a hedging strategy with a local volatility model in R. 
+Collaborated  with  a  team  on  the  development  of  a  new  internal  trading  system  using  Python;  entrusted  to  design  its 
+database using PostgreSQL.   
+Improved the back-testing tool developed in R by assessing the causal effects of margin rates. 
+Performed  regression  analysis  in  R  to  measure  relationship  between  coke  prices  and  coal  prices;  helped  meet  client 
+expectations through the design of an exotic option in coal and coke markets. 
+
+Industrial and Commercial Bank of China 
+         
+Summer Intern, Business Department                                                                                                     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        Changsha, China 
+  Jul. 2015 – Aug. 2015 
+
+ 
+
+ 
+
+Conducted financial analysis of each client by calculating key financial ratios to assess its solvency and liquidity. 
+Effectively communicated with clients orally or in writing to understand and meet all business needs. 
+
+        Changsha, China 
+China Merchants Bank 
+Summer Intern, Department of Investment Banking and Trading Business                                                  Aug. 2014 – Sep. 2014 
+  Worked closely with front desk of business managers to determine key changes of commissions fees by monitoring market 
+
+         
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+environment and ensure timely implementation of such changes   
+Participated in daily operations of M&A and investment banking business   
+
+ 
+
+PROJECTS                                                                                                                                                                 
+The Markov Chain Monte Carlo Method for GARCH Model (MATLAB & R)                            Mar. 2016 – May 2016 
+  Meticulously  implemented  MCMC  scheme  for  GARCH  (1,1)  model;  performed  empirical  based  research  on  SSE 
+
+Composite Index to measure volatility; compared the prediction performance of MCMC based estimation with ML based 
+
+estimation. 
+
+Time Series Analysis and Modeling for Real Estate Investment in China (SAS & R)                    Mar. 2015 – Apr. 2015 
+Developed an ARIMA model using monthly statistics of China national real estate investments during 2009 to 2014 and 
+
+ 
+
+evaluated  model  performance  through  in-sample  analysis  and  back  test;  accurately  forecasted  the  national  real  estate 
+
+investment activities that occurred in 2015 with precision. 
+
+National College Students Innovative Training Project                                Jul. 2012 – Nov. 2013, Apr. 2014 – Nov. 2015 
+Led research teams to complete  two SIT projects (topics in  hypothecation  and usufructuary  mortgage)  and  conduct  field 
+research in China; Won the research fund of 40, 000 RMB in total. 
+
+ 
+
+SKILLS                                                                                                                                                                           
+C/C++, Python, R, MATLAB, SQL, SAS, VBA, Microsoft Office, LaTeX, Bloomberg 
+
+

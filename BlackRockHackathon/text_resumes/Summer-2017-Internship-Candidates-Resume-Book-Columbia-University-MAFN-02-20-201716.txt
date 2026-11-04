@@ -1,0 +1,362 @@
+Wencong Li 
+
+204 W 108th St, Apt 26, New York, NY 10025 | wl2592@columbia.edu | (917) 257-9083 | linkedin.com/in/wencong-li 
+EDUCATION                                                                                                                                                                       
+Columbia University   
+Master of Arts in Mathematics of Finance, GRE Quant: 170/170 
+ 
+Peking University 
+ 
+Double Bachelor Degree in Life Science and Economics  
+
+- Coursework: Hedge Fund Strategy, Programming for Quant, Time Series, Stochastic Calculus 
+
+New York, NY 
+09/2016--12/2017 
+
+Beijing, China 
+09/2012--06/2016 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Coursework: Numerical Analysis, Stochastic Processes, Algorithm and Data Structures, Database,   
+Econometrics, Derivatives Pricing, Portfolio Theory, Financial Statement Analysis 
+ 
+ 
+
+Haas School of Business, University of California Berkeley 
+Business Decision, Managerial Accounting 
+ 
+WORK EXPERIENCE                                                                                                                                                                   
+Minmetals Securities Co., Ltd   
+Spring Intern, Fixed Income Treasury Group 
+
+Beijing, China 
+02/2016--05/2016 
+
+Berkeley, CA 
+07/2015--08/2015 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Performed ARIMA/GARCH analysis and Monte-Carlo simulation using Ho-Lee model (python, Matlab) 
+on yield rate and volatility of bonds   
+- Wrote research reports on money market by tracking indicators (SLF, MLF) from Wind terminal 
+- Conducted research on potential risk factors (M2, TSF) of macro-economy   
+ 
+ 
+
+China Banking Regulatory Commission  
+ 
+Fall Intern, Policy Research Bureau 
+
+Beijing, China 
+09/2015--12/2015 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+- Traced the effect of interest rate liberalization by researching the balance sheet structure of each bank 
+- Researched on the feasibility of de-leveraging in banking system involving debt transforming to equity 
+- Reviewed weekly reports from local regulatory bureaus 
+ 
+ 
+
+National School of Development, Peking University 
+Teaching Assistant, Macroeconomics   
+
+Beijing, China 
+02/2015--06/2015 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+- Conducted exam review sessions for group of 300 students 
+- Corrected students’ homework and led class discussions 
+
+ACADEMIC PROJECT                                                                                                                                                           
+Pair Trading Equity Investment Strategy(Matlab) 
+ 
+ 
+ 
+Kmeans-SVM News Classification Algorithm(C++) 
+
+- Conducted cointegration test (Engle and Granger Algo) to filter potential stationary arbitrage pairs 
+- Updated correlation matrix dynamically using low latency code to improve efficacy 
+- Refined weighting methods (signal, variance), and expanded data universe to multiple sectors 
+ 
+
+04/2015 
+
+11/2016 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Performed unsupervised machine learning algo (K-Means) to determine the clustering structure of daily news 
+- Refined the algo by Support Vector Machine (Gaussian Kernal) to fit non-linear boundaries between datasets. 
+
+Long/Short Stock Picking Strategy(C++) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+05/2014 
+
+- Developed a long/short strategy based on Fama–French Model (Large-cap vs Close-to-delisting stocks) 
+- Conducted back tests to optimize sizing criteria and holding period 
+
+ 
+SKILLS                                                                                                                                                                         
+PROGRAMMING  
+CERTIFICATION  
+LANGUAGE  
+ 
+
+C/C++(3.5 years), Python, SQL, Matlab, R, VBA, STATA 
+FRM Part I &II Passed, CFA Level II Candidate 
+English, Mandarin 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+

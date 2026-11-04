@@ -1,0 +1,108 @@
+TING-YUN (DANIEL) LAN 
+• DanielLan2015@u.northwestern.edu
+
+• http://www.linkedin.com/in/daniellan2015
+
+• (331)-330-0415
+
+EDUCATION 
+
+       NORTHWESTERN UNIVERSITY, Evanston, USA     
+
+Sep 2015 – Dec 2016 
+
+ Master of Engineering Management, McCormick School of Engineering and Applied Science 
+
+Concentration in Managerial Analytics, Machine Learning, and Optimization. 
+
+UNIVERSITY OF SOUTHERN CALIFORNIA, Los Angeles, USA 
+M.S., Viterbi School of Engineering, Ming Hsieh Department of Electrical Engineering
+
+NATIONAL CHIAO TUNG UNIVERSITY, Hsinchu, Taiwan 
+B.S., Department of Electrical and Computer Engineering
+
+ Aug 2009 – May 2011 
+
+ Sep 2004 – Jun 2008 
+
+Design projects in Java, Object-Oriented programming, data structures, control system, digital signal processing.
+
+PROFESSIONAL EXPERIENCE 
+
+       DELTA ELECTRONICS, Taipei, Taiwan 
+
+Senior Project Engineer     
+
+ Jun 2014 – Aug 2015 
+
+Data Analysis and System Optimization 
+
+
+Led research projects in energy and battery management application, to perform data analysis of customers’ user behavior, and
+recommend optimized system and product design.
+
+ Key achievements include:
+
+o Optimized power management of portable multi-sensor product to extend operating time and battery life.
+o
+
+Implemented cost-saving strategies with machine learning algorithm and demand response optimization with genetic
+algorithms in energy management system.
+
+Knowledge Management of Sensing and Control Technologies 
+ Applied text analytics for taxonomy automation of battery technologies and constructed ontology model of IoT sensing and control
+
+technologies into corporation’s knowledge management system.
+
+ Devised recommendation system for electric components (sensors and actuators) from the inventory management system to help
+
+managers and sales representatives search and recommend product specifications and requirements for clients.
+
+DELTA ELECTRONICS, Taoyuan, Taiwan 
+
+Senior Software Engineer     
+
+ Sep 2011 – May 2014 
+
+ Software System Design and Project Management 
+ Developed the embedded software system in hybrid vehicle controller with a Fortune 100 German car manufacturer. Key tasks
+
+included schedule and work planning, customer requirement analysis, software system design and product V&V plan.
+
+ Managed software team of six software engineers to organize embedded system design and software integration. Achieved 50%
+
+reduction in development time for application lifecycle management.
+
+Led system and software testing of hybrid vehicle controller including black-box and white-box testing techniques
+
+System and Software Testing Management 
+
+ Worked on software testing with static and dynamic program analysis to critically analyze and improve software quality
+
+
+Built system integration platform with hardware-in-the-loop simulation to verify and validate product reliability
+
+Product Safety Analysis and Safety Design 
+ Oversaw weekly review with mechanical, hardware, thermal and software team members in order to solve product safety issues
+
+
+
+and enhance safety design in accordance with validation and verification process in automotive safety standards.
+Led review committee to consolidate quantitative methods for failure mode and effect analysis, safety measures, and safety
+functions to fulfill customer safety requirements, and improve diagnostic coverage and reliability.
+
+CERTIFICATIONS 
+
+      Certified Analytics Professional (CAP® ), INFORMS 
+
+SKILLS  
+
+Programming Languages: C, C++, Java, Python, VBA 
+Database Management: Microsoft SQL Server, MySQL, MongoDB, Neo4j, Cassandra   
+Analytics Tools: Excel, Matlab, R, SAS, IBM SPSS, Python (SciPy, NumPy, Pandas, NLTK) 
+Machine learning/ Deep Learning:  scikit-Learn, Theano, Caffe, Keras, Lasagne, Tensorflow, Torch 
+Business Intelligence/ Data Visualization: Tableau, Watson Analytics, d3.js, ggplot 
+Distributed Computing:  Hadoop, MapReduce, Pig, Hive, Hbase, Spark, Elasticsearch  
+Mathematical Optimization Software:  AMPL/ CPLEX, IBM ILOG CPLEX  
+
+

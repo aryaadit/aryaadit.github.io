@@ -1,0 +1,142 @@
+xma@udel.edu • (315) 944-8318 • 609 Wharton Drive, Newark, DE 19711
+
+Rose Xiaoya Ma 
+
+ 
+
+ 
+
+EDUCATION 
+
+University of Delaware, Newark, DE 
+
+ 
+
+ 
+
+Ph.D. candidate in Chemical Engineering 
+
+•
+• Redox ﬂow battery modeling & development 
+
+California Institute of Technology, Pasadena, CA  
+
+• B.S. in Chemical Engineering 
+• Materials track 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              Aug. 2013 – Present 
+
+          Sep. 2009 – Jun. 2013 
+
+Experimental techniques 
+
+SKILLS 
+
+Experienced in cyclic voltammetry (CV) studies, rotating disk electrode (RDE) studies & 
+electrochemical device testing 
+Trained in soft lithography, epitaxy & extensive characterization/imaging methods, 
+e.g., differential scanning calorimetry (DSC), infrared (IR) spectroscopy, nuclear magnetic resonance 
+(NMR) spectroscopy, ultraviolet-visible (UV-vis) spectroscopy,  mass spectroscopy (MS), X-ray power 
+diffraction, confocal microscopy, optical microscopy, scanning electron microscopy (SEM) 
+
+•
+
+•
+
+•
+•
+
+•
+•
+
+•
+
+Modeling techniques 
+
+Programming 
+
+Language 
+
+Experienced in data-driven, multiscale battery characterization & optimization 
+Experienced in capital & levelized cost analysis of utility-scale batteries 
+
+Fluent in C++, R, Mathematica, COMSOL & Oﬃce 
+Proﬁcient in MATLAB, CAD, Python, HTML & Photoshop 
+
+English (fluent), Chinese (native), French (conversational) 
+
+RESEARCH EXPERIENCE 
+
+Yan Group, University of Delaware, Newark, DE   
+
+ 
+
+   Jan. 2014 – Present 
+
+• Created a graphical user interface for modeling of ﬂow battery performance & cost 
+• Developed a robust model for stack voltage of ﬂow batteries, validated with multiple chemistries 
+• Designed & tested a cost-eﬀective ﬂow battery based on redox reaction screening & a novel anion 
+
+exchange membrane 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Weitz Group, Harvard University, Cambridge, MA  
+
+            Jul. 2012 – Sep. 2012 
+
+• Designed microﬂuidic devices for high-throughput, controlled-geometry droplet generation 
+• Characterized E. coli encapsulation into S-shaped, crescentic & notched microgels via SEM 
+• Designed microﬂuidic devices for in situ studies of diﬀerentiated bioﬁlm growth 
+• Characterized B. subtilis growth within water-oil-water double emulsions via confocal microscopy 
+
+Novartis Center for Continuous Manufacturing,   
+Massachusetts Institute of Technology, Cambridge, MA 
+
+ 
+
+ 
+
+ 
+
+            Jun. 2011 – Aug. 2011 
+
+• Designed crystallization routes to metastable, pharmaceutically-relevant disappearing polymorphs 
+• Generalized principles for substrate-directed morphology control in organic crystalline systems 
+
+Johnson Group, California Institute of Technology, Pasadena, CA 
+
+ 
+
+            Jun. 2010 – Jan. 2011 
+
+• Optimized glass-forming ability & toughness of Vitreloy 101 (copper-based bulk metallic glass) 
+•
+•
+
+Increased amorphicity by 133% using rational design of interstitial substitutions 
+Pioneered gamma-brass alloy with potential for superior mechanical strength & ease of manufacture 
+
+
