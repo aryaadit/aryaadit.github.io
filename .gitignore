@@ -1,5 +1,10 @@
-# Personal / private — never publish (see AGENTS.md)
+# Personal / private: never publish (see AGENTS.md)
 private/
 *.pdf
 PXL_*.jpg
 .DS_Store
+
+# Raw third-party resume data (contains other people's contact details)
+projects/blackrock-hackathon/resumes/
+projects/blackrock-hackathon/text_resumes/
+projects/blackrock-hackathon/resumes.txt
