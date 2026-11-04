@@ -3,120 +3,271 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Adit Arya</title>
-  <meta name="description" content="Adit Arya: MBA candidate at Columbia Business School. Former engineering lead at TikTok and BlackRock.">
+  <title>Adit Arya · Entrepreneur and engineer</title>
+  <meta name="description" content="Adit Arya is an entrepreneur and engineer building Palate: apps for drinks, nights out and more. Former TikTok front-end lead and BlackRock engineer; Columbia MBA '27.">
+  <meta name="theme-color" content="#0b0b0c">
+  <meta property="og:title" content="Adit Arya · Entrepreneur and engineer">
+  <meta property="og:description" content="Building apps for the things you're into. Palate, Glug, Pour Decisions, Composer.">
+  <meta property="og:image" content="https://aryaadit.github.io/assets/img/portrait.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
   <header class="site-header">
-    <nav>
-      <a class="brand" href="#top">Adit Arya</a>
-      <ul>
-        <li><a href="#education">Education</a></li>
-        <li><a href="#experience">Experience</a></li>
-        <li><a href="#additional">Additional Information</a></li>
-        <li><a href="projects/">Projects</a></li>
-      </ul>
-    </nav>
+    <div class="wrap">
+      <a class="brand" href="#top">Adit Arya<span>.</span></a>
+      <nav aria-label="Main">
+        <ul>
+          <li><a href="#building">Building</a></li>
+          <li><a href="#background">Background</a></li>
+          <li><a href="#beyond">Beyond work</a></li>
+          <li><a href="projects/">All projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
   </header>
 
   <main id="top">
 
-    <section class="hero">
-      <img src="assets/img/portrait.jpg" alt="Portrait of Adit Arya" width="753" height="1000">
-      <div>
-        <h1>Adit Arya</h1>
-        <p class="lead">MBA candidate at Columbia Business School. Engineer turned operator, with experience at TikTok, BlackRock and a family real estate business.</p>
-        <p class="buttons">
-          <a class="button" href="projects/">Projects</a>
-          <a class="button" href="https://www.linkedin.com/in/aditarya/">LinkedIn</a>
-          <a class="button" href="https://github.com/aryaadit">GitHub</a>
-        </p>
+    <!-- Hero -->
+    <div class="hero">
+      <div class="wrap">
+        <div>
+          <p class="eyebrow">Entrepreneur · Engineer · Columbia MBA '27</p>
+          <h1>Building apps for the things <em>you're into.</em></h1>
+          <p class="lead">I'm Adit. I'm building <strong>Palate</strong>, a studio making apps for drinks, nights out and whatever comes next. Before that I led front-end teams at <strong>TikTok</strong> and built the design system behind <strong>BlackRock's</strong> $9T platform.</p>
+          <div class="buttons">
+            <a class="button primary" href="#building">See what I'm building</a>
+            <a class="button" href="https://www.linkedin.com/in/aditarya/">LinkedIn</a>
+            <a class="button" href="https://github.com/aryaadit">GitHub</a>
+          </div>
+        </div>
+        <div class="portrait">
+          <img src="assets/img/portrait.jpg" alt="Portrait of Adit Arya, laughing" width="753" height="1000">
+        </div>
+      </div>
+    </div>
+
+    <!-- Proof points (all from the CV) -->
+    <div class="stats">
+      <ul>
+        <li><b>30k+</b><span>merchants onboarded through features I launched at TikTok</span></li>
+        <li><b>$13M+</b><span>incremental revenue from those launches</span></li>
+        <li><b>0 → 10</b><span>engineers on the front-end team I founded and scaled</span></li>
+        <li><b>~$20M</b><span>real estate portfolio I oversee as COO</span></li>
+      </ul>
+    </div>
+
+    <!-- What I'm building -->
+    <section id="building">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <p class="kicker">What I'm building</p>
+            <h2>Small apps for the things people care about.</h2>
+          </div>
+          <a class="more" href="projects/">All projects, including earlier work →</a>
+        </div>
+
+        <div class="studio">
+          <div>
+            <p class="tag">The studio</p>
+            <h3>Palate</h3>
+            <p>Apps for the things you're into. Drinks, music, and more on the way. Everything below ships from here.</p>
+          </div>
+          <a class="button primary" href="https://onpalate.com">onpalate.com →</a>
+        </div>
+
+        <div class="grid">
+          <a class="card" href="https://glug-wine.com">
+            <div class="thumb"><img src="assets/img/projects/glug.jpg" alt="Two bottles and glasses of wine on a restaurant counter" loading="lazy" width="800" height="600"></div>
+            <div class="body">
+              <span class="tag">iOS app · Wine</span>
+              <h3>Glug</h3>
+              <p>Learns your taste from the wines you log and helps you find the bottle you're most likely to like on any wine list.</p>
+              <span class="go">glug-wine.com →</span>
+            </div>
+          </a>
+
+          <a class="card" href="https://apps.apple.com/us/app/barkeeply/id6756134353">
+            <div class="thumb"><img src="assets/img/projects/pour-decisions.jpg" alt="Pour Decisions app logo: a whiskey glass, with the tagline Your Personal Drink Journal" loading="lazy" width="800" height="391"></div>
+            <div class="body">
+              <span class="tag">iOS app · Drinks</span>
+              <h3>Pour Decisions</h3>
+              <p>Log what you're drinking, rate it, and see what your friends are into. Whiskey, wine, cocktails, beer. All of it.</p>
+              <span class="go">View on the App Store →</span>
+            </div>
+          </a>
+
+          <a class="card" href="https://composer.onpalate.com">
+            <div class="thumb"><img src="assets/img/projects/composer.png" alt="Composer logo: three map pins connected by an arc, with the tagline Compose your night" loading="lazy" width="1200" height="630"></div>
+            <div class="body">
+              <span class="tag">Web app · NYC</span>
+              <h3>Composer</h3>
+              <p>A night out in New York City, planned for you in under a minute.</p>
+              <span class="go">composer.onpalate.com →</span>
+            </div>
+          </a>
+        </div>
       </div>
     </section>
 
-    <section id="education">
-      <h2>Education</h2>
+    <!-- Background -->
+    <section id="background">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <p class="kicker">Background</p>
+            <h2>From big platforms to building my own.</h2>
+          </div>
+        </div>
 
-      <article>
-        <div class="row"><h3>Columbia Business School</h3><span class="meta">New York, NY</span></div>
-        <div class="row"><p>MBA, May 2027</p><span class="meta">2025 – Present</span></div>
-        <p><em>Member:</em> Venture Capital Club, Columbia Entrepreneurs Organization, Health and Wellness Club, Innovation and Design, Consortium, Tennis Club, Wine Society, Gourmet Club.</p>
-      </article>
+        <ol class="timeline">
 
-      <article>
-        <div class="row"><h3>Cornell University</h3><span class="meta">Ithaca, NY</span></div>
-        <div class="row"><p>BS, Computer Science</p><span class="meta">2014 – 2018</span></div>
-        <p><em>Minor:</em> Business and Game Design.</p>
-        <p><em>Honors:</em> Cornell Dean's List.</p>
-        <p><em>Leadership:</em> Intel Cornell Cup Project Team Technical Lead; Member, Association of Computer Science Undergraduates.</p>
-      </article>
+          <li>
+            <div class="when">2025 – Present</div>
+            <div>
+              <h3>Columbia Business School</h3>
+              <p class="org-meta">New York, NY</p>
+              <p class="summary">MBA, May 2027</p>
+              <p><em>Member:</em> Venture Capital Club, Columbia Entrepreneurs Organization, Health and Wellness Club, Innovation and Design, Consortium, Tennis Club, Wine Society, Gourmet Club.</p>
+            </div>
+          </li>
+
+          <li>
+            <div class="when">2024 – Present</div>
+            <div>
+              <h3>Arya Business Investments</h3>
+              <p class="org-meta">Houston, TX · Family real estate investments business</p>
+              <p class="role">Chief Operating Officer <small>2024 – Present</small></p>
+              <p class="summary">Run operations for a ~$20M portfolio with pricing, vendor and technology systems.</p>
+              <details>
+                <summary>Highlights</summary>
+                <ul>
+                  <li>Develop a dynamic pricing model incorporating local market comps, boosting rental income margins by ~12% YoY.</li>
+                  <li>Negotiate contracts with service providers, reducing maintenance costs by 15% while reducing turnaround time on repairs.</li>
+                  <li>Oversee portfolio of ~$20M in assets, implementing technology-driven management systems to streamline operations.</li>
+                </ul>
+              </details>
+            </div>
+          </li>
+
+          <li>
+            <div class="when">2021 – 2023</div>
+            <div>
+              <h3>ByteDance, TikTok</h3>
+              <p class="org-meta">New York, NY · Tech company known for innovative, AI-driven content platforms like TikTok/Douyin</p>
+              <p class="role">Global Marketing Team Front End Lead <small>2022 – 2023</small></p>
+              <p class="summary">Founded the North America Marketing Ads Ecosystem front-end team and launched merchant onboarding that drove <strong>$13M+</strong> in incremental revenue.</p>
+              <p class="role">Senior Front End Engineer <small>2021 – 2022</small></p>
+              <p class="summary">Built e-commerce advertising tools and developer platforms for creators and merchants.</p>
+              <details>
+                <summary>Highlights</summary>
+                <ul>
+                  <li>Founded and scaled North America Marketing Ads Ecosystem front-end team from 0 to 10 engineers, delivering scalable tools enhancing partner and advertiser experience globally.</li>
+                  <li>Spearheaded launch of new merchant onboarding features, driving adoption by <strong>30k+ merchants</strong> and generating <strong>$13M+ incremental revenue</strong> with top partners including Salesforce, Square, PrestaShop, and BigCommerce.</li>
+                  <li>Designed and built e-commerce advertising tools (TikTok Shop, Business Plugin), enabling <strong>thousands of content creators</strong> to monetize more efficiently through one-click workflows.</li>
+                  <li>Increased ad revenue by creating developer-facing platforms (Developer Portal, Partner Portal, Ads Manager), directly boosting advertiser self-serve adoption with over 14 merchant platforms.</li>
+                </ul>
+              </details>
+            </div>
+          </li>
+
+          <li>
+            <div class="when">2018 – 2021</div>
+            <div>
+              <h3>BlackRock</h3>
+              <p class="org-meta">New York, NY · Global investment management firm, specializing in asset management and fintech</p>
+              <p class="role">User Experience Engineer <small>2020 – 2021</small></p>
+              <p class="summary">Built the Aladdin Design System, which sped up developer efficiency by <strong>30%</strong> across BlackRock's $9T platform.</p>
+              <p class="role">Analyst <small>2018 – 2020</small></p>
+              <p class="summary">Designed and launched the first mobile app for Aladdin, rolled out firm-wide within 6 months.</p>
+              <details>
+                <summary>Highlights</summary>
+                <ul>
+                  <li>Built Aladdin Design System, standardizing design language across BlackRock's $9T platform; accelerated <strong>developer efficiency by 30%</strong> (streamlining front end development pipeline) and unified client experience.</li>
+                  <li>Directed cross-functional team of engineers, PMs, and designers to launch Aladdin Design System Demo Site, driving rapid adoption across internal teams.</li>
+                  <li>Designed and launched <strong>first mobile app for Aladdin software</strong>, delivering portfolio analytics to institutional clients on-the-go; app rolled out firm-wide within 6 months.</li>
+                  <li>Championed mobile initiative leading development of five mobile apps to extend existing web applications to mobile.</li>
+                </ul>
+              </details>
+            </div>
+          </li>
+
+          <li>
+            <div class="when">2014 – 2018</div>
+            <div>
+              <h3>Cornell University</h3>
+              <p class="org-meta">Ithaca, NY</p>
+              <p class="summary">BS, Computer Science. Minor: Business and Game Design.</p>
+              <p><em>Honors:</em> Cornell Dean's List.</p>
+              <p><em>Leadership:</em> Intel Cornell Cup Project Team Technical Lead; Member, Association of Computer Science Undergraduates.</p>
+            </div>
+          </li>
+
+        </ol>
+      </div>
     </section>
 
-    <section id="experience">
-      <h2>Experience</h2>
+    <!-- Beyond work -->
+    <section id="beyond">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <p class="kicker">Beyond work</p>
+            <h2>Tools, languages and what I do for fun.</h2>
+          </div>
+        </div>
 
-      <article>
-        <div class="row"><h3>Arya Business Investments</h3><span class="meta">Houston, TX</span></div>
-        <div class="row"><p><em>Family Real Estate Investments Business</em></p><span class="meta">2024 – Present</span></div>
-        <h4>Chief Operating Officer <span class="meta">2024 – Present</span></h4>
-        <ul>
-          <li>Develop a dynamic pricing model incorporating local market comps, boosting rental income margins by ~12% YoY.</li>
-          <li>Negotiate contracts with service providers, reducing maintenance costs by 15% while reducing turnaround time on repairs.</li>
-          <li>Oversee portfolio of ~$20M in assets, implementing technology-driven management systems to streamline operations.</li>
-        </ul>
-      </article>
-
-      <article>
-        <div class="row"><h3>ByteDance, TikTok</h3><span class="meta">New York, NY</span></div>
-        <div class="row"><p><em>Tech company known for innovative, AI-driven content platforms like TikTok/Douyin</em></p><span class="meta">2021 – 2023</span></div>
-        <h4>Global Marketing Team Front End Lead <span class="meta">2022 – 2023</span></h4>
-        <ul>
-          <li>Founded and scaled North America Marketing Ads Ecosystem front-end team from 0 to 10 engineers, delivering scalable tools enhancing partner and advertiser experience globally.</li>
-          <li>Spearheaded launch of new merchant onboarding features, driving adoption by <strong>30k+ merchants</strong> and generating <strong>$13M+ incremental revenue</strong> with top partners including Salesforce, Square, PrestaShop, and BigCommerce.</li>
-        </ul>
-        <h4>Senior Front End Engineer <span class="meta">2021 – 2022</span></h4>
-        <ul>
-          <li>Designed and built e-commerce advertising tools (TikTok Shop, Business Plugin), enabling <strong>thousands of content creators</strong> to monetize more efficiently through one-click workflows.</li>
-          <li>Increased ad revenue by creating developer-facing platforms (Developer Portal, Partner Portal, Ads Manager), directly boosting advertiser self-serve adoption with over 14 merchant platforms.</li>
-        </ul>
-      </article>
-
-      <article>
-        <div class="row"><h3>BlackRock</h3><span class="meta">New York, NY</span></div>
-        <div class="row"><p><em>Global investment management firm, specializing in asset management and fintech</em></p><span class="meta">2018 – 2021</span></div>
-        <h4>User Experience Engineer <span class="meta">2020 – 2021</span></h4>
-        <ul>
-          <li>Built Aladdin Design System, standardizing design language across BlackRock's $9T platform; accelerated <strong>developer efficiency by 30%</strong> (streamlining front end development pipeline) and unified client experience.</li>
-          <li>Directed cross-functional team of engineers, PMs, and designers to launch Aladdin Design System Demo Site, driving rapid adoption across internal teams.</li>
-        </ul>
-        <h4>Analyst <span class="meta">2018 – 2020</span></h4>
-        <ul>
-          <li>Designed and launched <strong>first mobile app for Aladdin software</strong>, delivering portfolio analytics to institutional clients on-the-go; app rolled out firm-wide within 6 months.</li>
-          <li>Championed mobile initiative leading development of five mobile apps to extend existing web applications to mobile.</li>
-        </ul>
-      </article>
+        <div class="panels">
+          <div class="panel">
+            <h3>Technical</h3>
+            <ul class="chips">
+              <li>React</li><li>Angular</li><li>TypeScript</li><li>Python</li><li>StencilJS</li><li>HTML</li><li>CSS</li><li>JavaScript</li><li>Java</li><li>C#</li>
+            </ul>
+          </div>
+          <div class="panel">
+            <h3>Interests</h3>
+            <ul class="chips">
+              <li>IronMan Triathlons</li><li>Piano and Guitar</li><li>Esports Gaming (Cloud9 fan)</li>
+            </ul>
+          </div>
+          <div class="panel">
+            <h3>Languages</h3>
+            <p>Spanish</p>
+          </div>
+          <div class="panel">
+            <h3>Volunteer work</h3>
+            <p>AMIGA Houston, Institute of Hispanic Culture of Houston (scholarship fundraising, mentorship)</p>
+          </div>
+        </div>
+      </div>
     </section>
 
-    <section id="additional">
-      <h2>Additional Information</h2>
-      <dl>
-        <dt>Technical</dt>
-        <dd>React, Angular, TypeScript, Python, StencilJS, HTML, CSS, JavaScript, Java, C#</dd>
-        <dt>Languages</dt>
-        <dd>Spanish</dd>
-        <dt>Volunteer Work</dt>
-        <dd>AMIGA Houston, Institute of Hispanic Culture of Houston (scholarship fundraising, mentorship)</dd>
-        <dt>Interests</dt>
-        <dd>IronMan Triathlons, Piano and Guitar, Esports Gaming (Cloud9 fan)</dd>
-      </dl>
+    <!-- Contact -->
+    <section id="contact" class="contact">
+      <div class="wrap">
+        <p class="kicker">Contact</p>
+        <h2>Let's build something.</h2>
+        <p>The best way to reach me is on LinkedIn.</p>
+        <div class="buttons">
+          <a class="button primary" href="https://www.linkedin.com/in/aditarya/">Message me on LinkedIn</a>
+          <a class="button" href="https://github.com/aryaadit">GitHub</a>
+        </div>
+      </div>
     </section>
 
   </main>
 
   <footer>
-    <p>© 2026 Adit Arya · <a href="https://github.com/aryaadit">GitHub</a> · <a href="https://www.linkedin.com/in/aditarya/">LinkedIn</a></p>
+    <div class="wrap">
+      <span>© 2026 Adit Arya</span>
+      <span><a href="https://www.linkedin.com/in/aditarya/">LinkedIn</a> · <a href="https://github.com/aryaadit">GitHub</a> · <a href="projects/">Projects</a></span>
+    </div>
   </footer>
 
 </body>

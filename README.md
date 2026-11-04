@@ -6,10 +6,12 @@ Personal site for Adit Arya. Plain HTML and CSS, no build step. Served by GitHub
 
 ```
 .
-├── index.html            Home: education, experience, additional information
+├── index.html            Home: hero, what I'm building, background, beyond work, contact
 ├── assets/
-│   ├── css/style.css     Site styles (Columbia blue)
-│   └── img/portrait.jpg  Web copy of the portrait, metadata stripped
+│   ├── css/style.css     Site styles (dark charcoal, gold accent)
+│   └── img/
+│       ├── portrait.jpg  Web copy of the portrait, metadata stripped
+│       └── projects/     Card images for Glug, Pour Decisions, Composer
 ├── projects/
 │   ├── index.html        Projects gallery
 │   ├── blackrock-hackathon/            BlackRock iResume dashboard (2017)

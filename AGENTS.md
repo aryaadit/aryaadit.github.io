@@ -14,9 +14,9 @@ Rules I follow when working in this folder.
 
 ## Style
 - Plain HTML and CSS, clean and minimal
-- Vibe: professional and casual
-- Colors: Columbia blue
-- Navigation follows the CV section order: Education, Experience, Additional Information
+- Vibe: entrepreneur portfolio, professional and casual. Lead with what I'm building; the CV is a compact background section, not the headline.
+- Colors: dark charcoal with a warm gold accent, matching Palate (no Columbia branding). Font: Plus Jakarta Sans.
+- Navigation: Building, Background, Beyond work, All projects, Contact
 - Portfolio as a gallery page that links to each project
 
 ## Structure

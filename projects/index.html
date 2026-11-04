@@ -5,97 +5,132 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Projects · Adit Arya</title>
   <meta name="description" content="Projects by Adit Arya: Palate, Glug, Pour Decisions, Composer and earlier work.">
+  <meta name="theme-color" content="#0b0b0c">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 <body>
 
   <header class="site-header">
-    <nav>
-      <a class="brand" href="../">Adit Arya</a>
-      <ul>
-        <li><a href="../#education">Education</a></li>
-        <li><a href="../#experience">Experience</a></li>
-        <li><a href="../#additional">Additional Information</a></li>
-        <li><a href="./" aria-current="page">Projects</a></li>
-      </ul>
-    </nav>
+    <div class="wrap">
+      <a class="brand" href="../">Adit Arya<span>.</span></a>
+      <nav aria-label="Main">
+        <ul>
+          <li><a href="../#building">Building</a></li>
+          <li><a href="../#background">Background</a></li>
+          <li><a href="../#beyond">Beyond work</a></li>
+          <li><a href="./" aria-current="page">All projects</a></li>
+          <li><a href="../#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
   </header>
 
   <main>
-    <section class="page-title">
-      <h1>Projects</h1>
-      <p class="lead">Things I've built. Each card links to the live project.</p>
-    </section>
+    <div class="wrap page-title">
+      <p class="kicker">Projects</p>
+      <h1>Things I've built.</h1>
+      <p class="lead">What I'm working on now, and some earlier work. Every card links to the real thing.</p>
+    </div>
 
     <section class="group">
-      <h2>Current</h2>
-      <div class="gallery">
-        <a class="card" href="https://onpalate.com">
-          <span class="tag">Studio</span>
-          <h3>Palate</h3>
-          <p>Apps for the things you're into. Drinks, music, and more on the way.</p>
-          <span class="url">onpalate.com →</span>
-        </a>
+      <div class="wrap">
+        <h2 class="group-title">Current</h2>
 
-        <a class="card" href="https://glug-wine.com">
-          <span class="tag">iOS app · Wine</span>
-          <h3>Glug</h3>
-          <p>Learns your taste from the wines you log and helps you find the bottle you're most likely to like on any wine list.</p>
-          <span class="url">glug-wine.com →</span>
-        </a>
+        <div class="studio">
+          <div>
+            <p class="tag">The studio</p>
+            <h3>Palate</h3>
+            <p>Apps for the things you're into. Drinks, music, and more on the way.</p>
+          </div>
+          <a class="button primary" href="https://onpalate.com">onpalate.com →</a>
+        </div>
 
-        <a class="card" href="https://apps.apple.com/us/app/barkeeply/id6756134353">
-          <span class="tag">iOS app · Drinks</span>
-          <h3>Pour Decisions</h3>
-          <p>Log what you're drinking, rate it, and see what your friends are into. Whiskey, wine, cocktails, beer. All of it.</p>
-          <span class="url">View on the App Store →</span>
-        </a>
+        <div class="grid">
+          <a class="card" href="https://glug-wine.com">
+            <div class="thumb"><img src="../assets/img/projects/glug.jpg" alt="Two bottles and glasses of wine on a restaurant counter" loading="lazy" width="800" height="600"></div>
+            <div class="body">
+              <span class="tag">iOS app · Wine</span>
+              <h3>Glug</h3>
+              <p>Learns your taste from the wines you log and helps you find the bottle you're most likely to like on any wine list.</p>
+              <span class="go">glug-wine.com →</span>
+            </div>
+          </a>
 
-        <a class="card" href="https://composer.onpalate.com">
-          <span class="tag">Web app · NYC</span>
-          <h3>Composer</h3>
-          <p>A night out in New York City, planned for you in under a minute.</p>
-          <span class="url">composer.onpalate.com →</span>
-        </a>
+          <a class="card" href="https://apps.apple.com/us/app/barkeeply/id6756134353">
+            <div class="thumb"><img src="../assets/img/projects/pour-decisions.jpg" alt="Pour Decisions app logo: a whiskey glass, with the tagline Your Personal Drink Journal" loading="lazy" width="800" height="391"></div>
+            <div class="body">
+              <span class="tag">iOS app · Drinks</span>
+              <h3>Pour Decisions</h3>
+              <p>Log what you're drinking, rate it, and see what your friends are into. Whiskey, wine, cocktails, beer. All of it.</p>
+              <span class="go">View on the App Store →</span>
+            </div>
+          </a>
+
+          <a class="card" href="https://composer.onpalate.com">
+            <div class="thumb"><img src="../assets/img/projects/composer.png" alt="Composer logo: three map pins connected by an arc, with the tagline Compose your night" loading="lazy" width="1200" height="630"></div>
+            <div class="body">
+              <span class="tag">Web app · NYC</span>
+              <h3>Composer</h3>
+              <p>A night out in New York City, planned for you in under a minute.</p>
+              <span class="go">composer.onpalate.com →</span>
+            </div>
+          </a>
+        </div>
       </div>
     </section>
 
     <section class="group">
-      <h2>Earlier work</h2>
-      <div class="gallery">
-        <a class="card" href="blackrock-hackathon/">
-          <span class="tag">BlackRock · Summer 2017</span>
-          <h3>BlackRock iResume</h3>
-          <p>Intern hackathon project: an interactive dashboard of resume trends, covering where candidates are from, schools, GPAs, programming languages and common keywords.</p>
-          <span class="url">Open the dashboard →</span>
-        </a>
+      <div class="wrap">
+        <h2 class="group-title">Earlier work</h2>
+        <div class="grid two">
+          <a class="card text-only" href="blackrock-hackathon/">
+            <div class="body">
+              <span class="tag">BlackRock · Summer 2017</span>
+              <h3>BlackRock iResume</h3>
+              <p>Intern hackathon project: an interactive dashboard of resume trends, covering where candidates are from, schools, GPAs, programming languages and common keywords.</p>
+              <span class="go">Open the dashboard →</span>
+            </div>
+          </a>
 
-        <a class="card" href="cs4621-first-person-explorer/">
-          <span class="tag">Cornell · CS 4621</span>
-          <h3>First Person Explorer</h3>
-          <p>Final project for CS 4621: walk around a 3D scene in the browser with WebGL, with adjustable fog and a light view.</p>
-          <span class="url">Play in the browser →</span>
-        </a>
+          <a class="card text-only" href="cs4621-first-person-explorer/">
+            <div class="body">
+              <span class="tag">Cornell · CS 4621</span>
+              <h3>First Person Explorer</h3>
+              <p>Final project for CS 4621: walk around a 3D scene in the browser with WebGL, with adjustable fog and a light view.</p>
+              <span class="go">Play in the browser →</span>
+            </div>
+          </a>
 
-        <a class="card" href="cs4154-alpha/">
-          <span class="tag">Cornell · CS 4154</span>
-          <h3>Alpha Build</h3>
-          <p>Alpha of a piece-rotating puzzle game from Analytics-Driven Game Design, built in Unity for WebGL.</p>
-          <span class="url">Play in the browser →</span>
-        </a>
+          <a class="card text-only" href="cs4154-alpha/">
+            <div class="body">
+              <span class="tag">Cornell · CS 4154</span>
+              <h3>Alpha Build</h3>
+              <p>Alpha of a piece-rotating puzzle game from Analytics-Driven Game Design, built in Unity for WebGL.</p>
+              <span class="go">Play in the browser →</span>
+            </div>
+          </a>
 
-        <a class="card" href="cs4154-throwaway/">
-          <span class="tag">Cornell · CS 4154</span>
-          <h3>Throwaway</h3>
-          <p>Version 3 of a Unity WebGL game built for Analytics-Driven Game Design.</p>
-          <span class="url">Play in the browser →</span>
-        </a>
+          <a class="card text-only" href="cs4154-throwaway/">
+            <div class="body">
+              <span class="tag">Cornell · CS 4154</span>
+              <h3>Throwaway</h3>
+              <p>Version 3 of a Unity WebGL game built for Analytics-Driven Game Design.</p>
+              <span class="go">Play in the browser →</span>
+            </div>
+          </a>
+        </div>
       </div>
     </section>
   </main>
 
   <footer>
-    <p>© 2026 Adit Arya · <a href="https://github.com/aryaadit">GitHub</a> · <a href="https://www.linkedin.com/in/aditarya/">LinkedIn</a></p>
+    <div class="wrap">
+      <span>© 2026 Adit Arya</span>
+      <span><a href="https://www.linkedin.com/in/aditarya/">LinkedIn</a> · <a href="https://github.com/aryaadit">GitHub</a> · <a href="../">Home</a></span>
+    </div>
   </footer>
 
 </body>
